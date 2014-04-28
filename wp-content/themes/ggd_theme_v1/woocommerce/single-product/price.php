@@ -12,8 +12,9 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 global $post, $product;
 ?>
 <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-	<p>Regular</p> <h3>$<?php echo $product->get_regular_price(); ?></h3>
-	<p>$<?php echo $product->get_price(); ?></p>
+	<p>Recommended</p> <h3>$<?php echo $product->get_regular_price(); ?></h3>
+	<p>Sale</p> <h3>$<?php echo $product->get_price(); ?></h3>
+	<p>Savings</p> <h3><?php echo ($product->get_regular_price()-$product->get_price())/$product->get_regular_price()*100; ?>%</h3>
 
 	<meta itemprop="price" content="<?php echo $product->get_price(); ?>" />
 	<meta itemprop="priceCurrency" content="<?php echo get_woocommerce_currency(); ?>" />
