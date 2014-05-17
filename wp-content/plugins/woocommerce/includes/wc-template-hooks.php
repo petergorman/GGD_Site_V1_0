@@ -132,9 +132,6 @@ add_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_e
 add_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_meta', 40 );
 add_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_sharing', 50 );
 
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_title', 5 );
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_price', 10 );
-
 /**
  * Product Add to cart
  *

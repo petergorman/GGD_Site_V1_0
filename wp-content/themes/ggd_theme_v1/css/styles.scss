@@ -1,0 +1,210 @@
+/* Scss Document */
+
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700);
+
+/* Colors */
+
+$color-1: #f47238; /* Orange */
+$color-2: #505862; /* Blue Grey */
+$color-3: white;
+$color-4: black;
+$color-5: #252a31; /* Deep Grey */
+
+/* END Colors */
+
+
+/* Global */
+
+$browser-context: 16; // Default
+
+@function em($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}em
+}
+
+/* Media Queries */
+
+@mixin breakpoint($point) {
+  @if $point == xs {
+    @media (max-width: 767px) { @content; }
+  }
+  @else if $point == sm {
+    @media (min-width: 768px) { @content; }
+  }
+  @else if $point == md {
+    @media (min-width: 992px)  { @content; }
+  }
+  @else if $point == lg {
+    @media (min-width: 1200px)  { @content; }
+  }
+  /* @include breakpoint(xs) { height:639px; } */
+}
+
+/* END MQ */
+
+html, html a {
+    -webkit-font-smoothing: antialiased !important;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.004);
+	font-size:100%;
+}
+
+body {
+	@include breakpoint(xs) {
+		font-size: em(13);
+	}
+	@include breakpoint(sm) {
+		font-size: em(16);
+	}
+	@include breakpoint(md) {
+		font-size: em(18);
+	}
+}
+
+.wrapper {
+	width:100%;
+}
+
+.div-table {
+	display:table;
+	width:100%;
+}
+.div-cell {
+	display:table-cell;
+	text-align:center;
+	vertical-align:middle;
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+       -o-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin text-shadow($blur, $color) {
+  text-shadow: 0 -1px $blur $color;
+}
+
+$section-padding: em(35);
+
+/* Micro ClearFix */
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/* For IE 6/7 only */
+
+.cf {
+    *zoom: 1;
+}
+
+/* END CF */
+
+/* END Global */
+
+
+/* Fonts */
+
+$font-stack-medium: 'SiscoMedium-Medium', Helvetica, Arial, sans-serif;
+$font-stack-light: 'SiscoLight', Helvetica, Arial, sans-serif;
+$font-stack-open: 'Open Sans', Helvetica, Arial, sans-serif;
+$font-stack-serif: Helvetica, Arial, sans-serif;
+
+
+h1 {
+	font-family:$font-stack-medium;
+	font-size: em(40);
+	color:$color-1;
+	letter-spacing:-0.9px;
+	
+	@include breakpoint(xs) {
+		font-size: em(35);
+	}
+}
+
+h2 {
+	font-family:$font-stack-medium;
+	font-size: em(25);
+	color:$color-3;
+}
+
+h4 {
+	font-family:$font-stack-open;
+	font-weight:300;
+	font-size:em(16);
+	color:$color-3;
+}
+
+h3 {
+	font-family:$font-stack-medium;
+	font-size:em(20);
+	color:$color-2;
+}
+
+p {
+	font-family:$font-stack-open;
+	font-size:em(16);
+	font-weight:400;
+	color:$color-2;
+	
+	span {
+		font-family:$font-stack-medium;
+	}
+	
+}
+
+a {
+	font-family:$font-stack-medium;
+	color:lighten($color-2,28%);
+	text-decoration:none;
+}
+
+a:hover {
+	color:$color-1;
+	text-decoration:none;
+}
+
+p.tiny {
+	font-family:$font-stack-serif;
+	font-size:x-small;
+}
+
+/* END Fonts */
+
+/* Buttons */
+
+	.ggd-btn {
+		@include border-radius(8px);
+		padding:13px 5px;
+		
+		h2 {
+			margin:0px;
+			text-transform:uppercase;
+		}
+	}
+		
+	.btn-orange {
+		background-color:$color-1;
+	}
+	
+	.btn-white {
+		background-color:$color-3;
+		
+		h2 {
+			color:$color-1;
+		}
+	}
+	
+/* END Buttons */	
+
+
+

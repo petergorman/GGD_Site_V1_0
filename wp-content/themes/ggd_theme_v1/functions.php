@@ -7,10 +7,20 @@ add_theme_support( 'automatic-feed-links' );
 add_theme_support( 'post-thumbnails' );
 global $content_width;
 if ( ! isset( $content_width ) ) $content_width = 640;
-register_nav_menus(
-array( 'main-menu' => __( 'Main Menu', 'blankslate' ) )
-);
+
+function register_my_menus() {
+  register_nav_menus(
+    array(
+      'main-menu' => __( 'Main Menu' ),
+      'sub-menu' => __( 'Sub Menu' ),
+	  'side-menu' => __( 'Side Menu' ),
+	  'footer-menu' => __( 'Footer Menu' )
+    )
+  );
 }
+add_action( 'init', 'register_my_menus' );
+}
+
 add_action( 'wp_enqueue_scripts', 'blankslate_load_scripts' );
 function blankslate_load_scripts()
 {
@@ -69,6 +79,7 @@ return $count;
 
 /**
  ************  Green Golf Deals Hooks  *************
+Master location: includes/wc-template-hooks.php
 **/
 
 /**
@@ -86,21 +97,35 @@ add_action( 'ggd_before_main_content', 'woocommerce_breadcrumb', 20, 0 );
 
 
 /**
+ * Sale flashes
+ *
+ * @see woocommerce_show_product_loop_sale_flash()
+ * @see woocommerce_show_product_sale_flash()
+ */
+add_action( 'ggd_before_shop_loop_item_title', 'woocommerce_show_product_loop_sale_flash', 10 );
+remove_action( 'ggd_before_single_product_summary', 'woocommerce_show_product_sale_flash', 10 );
+
+/**
+ * Before Single Products Summary Div
+ *
+ * @see woocommerce_show_product_images()
+ * @see woocommerce_show_product_thumbnails()
+ */
+add_action( 'ggd_single_product_images', 'woocommerce_show_product_images', 1 );
+add_action( 'woocommerce_product_images', 'woocommerce_show_product_thumbnails', 2 );
+
+
+/**
  Single Product Content  theme/woocommerce/content-single-product
 **/
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_title', 5 );
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_price', 10 );
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_excerpt', 20 );
+add_action( 'ggd_single_product_titles', 'woocommerce_template_single_title', 1 );
+add_action( 'ggd_single_product_titles', 'woocommerce_template_single_excerpt', 2 );
+
+add_action( 'ggd_single_product_price', 'woocommerce_template_single_price', 1 );
+
 add_action( 'ggd_single_product_summary', 'woocommerce_template_single_add_to_cart', 30 );
 add_action( 'ggd_simple_add_to_cart', 'woocommerce_simple_add_to_cart', 30 );
-add_action( 'ggd_single_product_summary', 'woocommerce_template_single_sharing', 50 );
+remove_action( 'ggd_single_product_summary', 'woocommerce_template_single_sharing', 50 );
 
 
 
-// Add ACF Info to Product display page
-add_action( 'ggd_single_product_summary', "ACF_product_content", 1 );
-
-function ACF_product_content(){
-    the_field('client_name');
-  
-}

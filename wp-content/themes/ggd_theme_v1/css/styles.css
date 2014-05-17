@@ -1,0 +1,160 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700);
+/* Scss Document */
+/* Google Fonts */
+/* Colors */
+/* Orange */
+/* Blue Grey */
+/* Deep Grey */
+/* END Colors */
+/* Global */
+/* Media Queries */
+/* END MQ */
+html, html a {
+  -webkit-font-smoothing: antialiased !important;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.004);
+  font-size: 100%;
+}
+
+body {
+  /* @include breakpoint(xs) { height:639px; } */
+  /* @include breakpoint(xs) { height:639px; } */
+  /* @include breakpoint(xs) { height:639px; } */
+}
+@media (max-width: 767px) {
+  body {
+    font-size: 0.8125em;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    font-size: 1em;
+  }
+}
+@media (min-width: 992px) {
+  body {
+    font-size: 1.125em;
+  }
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.div-table {
+  display: table;
+  width: 100%;
+}
+
+.div-cell {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Micro ClearFix */
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+/* For IE 6/7 only */
+.cf {
+  *zoom: 1;
+}
+
+/* END CF */
+/* END Global */
+/* Fonts */
+h1 {
+  font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
+  font-size: 2.5em;
+  color: #f47238;
+  letter-spacing: -0.9px;
+  /* @include breakpoint(xs) { height:639px; } */
+}
+@media (max-width: 767px) {
+  h1 {
+    font-size: 2.1875em;
+  }
+}
+
+h2 {
+  font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
+  font-size: 1.5625em;
+  color: white;
+}
+
+h4 {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+  color: white;
+}
+
+h3 {
+  font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
+  font-size: 1.25em;
+  color: #505862;
+}
+
+p {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  color: #505862;
+}
+p span {
+  font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
+}
+
+a {
+  font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
+  color: #979faa;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f47238;
+  text-decoration: none;
+}
+
+p.tiny {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: x-small;
+}
+
+/* END Fonts */
+/* Buttons */
+.ggd-btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
+  padding: 13px 5px;
+}
+.ggd-btn h2 {
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+.btn-orange {
+  background-color: #f47238;
+}
+
+.btn-white {
+  background-color: white;
+}
+.btn-white h2 {
+  color: #f47238;
+}
+
+/* END Buttons */
