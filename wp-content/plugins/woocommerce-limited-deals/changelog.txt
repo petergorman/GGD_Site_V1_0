@@ -1,0 +1,81 @@
+### 2014.01.04 - version 2.1.2
+
+* Fix: Use server time instead of browser time for counting down. Note: banners.php was changed
+
+### 2013.08.15 - version 2.1
+
+* New: Specify custom button text + url that show once the deal has expired
+* Fix: Showing the "days" in the shortcode didn't show the correct days left
+* Fix: Compatibility with WC 2.1
+
+### 2013.05.29 - version 2.0.6
+
+* Fix: Banner sometimes didn't appear on the product page
+
+### 2013.05.23 - version 2.0.5
+
+* Fix: Shortcodes were only showing at the top of the page
+
+### 2013.05.09 - version 2.0.4
+
+* Fix: Prevent checking out with an expired product (in the event it was added to the cart before the product expired)
+* Fix: Limited Deals was not enabled for External/Affiliate products
+
+### 2013.05.01 - version 2.0.3
+
+* Fix: Multiple banners on one page didn't show correct time remaining
+
+### 2013.04.18 - version 2.0.2
+
+* Fix: Allow theme overrides to banner.php, override in /themes/YourThemeName/wc-limited-deals/banner.php
+
+### 2013.03.18 - version 2.0.1
+
+* Fix: The shortcode [woocommerce_limited_deals_info] produced an error
+
+### 2013.02.15 - version 2.0.0
+
+* New: Live animated countdown!
+* New: Settings to adjust the ribbon colors with ease
+* New: Settings to configure hiding expired products
+* New: Specify hour & minute that a product should expire
+* New: Product no longer set to out of stock when expired. Instead, the add to cart button is removed and the product is disabled from being added to the cart
+* Fix: The CSS3 ribbon's ends were missing on some themes
+* Tweak: New CSS3 ribbon style and markup used
+* Tweak: Savings percentage is rounded to the nearest whole number on the CSS banner
+* Tweak: Better setting fields by using grouped checkboxes
+* Tweak: Faster page processing, lots of redundancy removed
+* Tweak: Better checkbox handling for limited deals options on the product edit page. Hides the start and end dates when not an expiring product, and visa versa
+
+### 2013.01.25 - version 1.0.8
+
+ * Fix: Compatibility with PHP 5.4 improved
+
+### 2013.01.18 - version 1.0.7
+
+ * Fix: Reviews tab would sometimes disappear on a Limited Deal product
+ * Fix: Quantity sold wasn't always accurate
+ * Tweak: Remove function redundancy
+
+### 2013.01.10 - version 1.0.6
+
+ * Fix: PHP 5.2 compatibility
+ * Fix: Localization
+
+### 2012.12.24 - version 1.0.5
+
+ * Fix: WC 2.0 compatibility
+ * Fix: Product wouldn't expire fully sometimes
+
+### 2012.12.06 - version 1.0.2
+
+ * Fix: CSS in download didn't match the screenshot. Download was red.
+ * Fix: Localization
+
+### 2012.12.04 - version 1.0.1
+
+ * New updater
+
+### 2012.11.10 - version 1.0
+
+ * Initial release

@@ -1,0 +1,91 @@
+# Limited Deals translation strings
+# Copyright (C) 2011-2012
+# This file is distributed under the same license as the package.
+# Last Updated: December 28, 2012.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Limited Deals v1.0.1\n"
+"Report-Msgid-Bugs-To: Matt Gates <info@mgates.me>\n"
+"POT-Creation-Date: 2012-12-28 06:04-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Matt Gates <info@mgates.me>\n"
+"Language-Team: Matt Gates <info@mgates.me>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wc_limited_deals.php:48
+#: wc_limited_deals.php:66
+msgid "Limited Deals"
+msgstr ""
+
+#: wc_limited_deals.php:70
+msgid "Show amount sold"
+msgstr ""
+
+#: wc_limited_deals.php:71
+msgid "Otherwise, it will show an -na- field"
+msgstr ""
+
+#: wc_limited_deals.php:77
+msgid "Show CSS3 banner by default"
+msgstr ""
+
+#: wc_limited_deals.php:78
+msgid "Display the CSS3 banner on the product page by default for sale products"
+msgstr ""
+
+#: wc_limited_deals.php:274
+msgid "Savings"
+msgstr ""
+
+#: wc_limited_deals.php:275
+msgid "Original Price: "
+msgstr ""
+
+#: wc_limited_deals.php:279
+msgid "Amount Sold"
+msgstr ""
+
+#: wc_limited_deals.php:280
+msgid "Limited quantity"
+msgstr ""
+
+#: wc_limited_deals.php:284
+msgid "day"
+msgstr ""
+
+#: wc_limited_deals.php:284
+msgid "days"
+msgstr ""
+
+#: wc_limited_deals.php:286
+msgid "Remaining"
+msgstr ""
+
+#: wc_limited_deals.php:287
+msgid "Tic Toc Tic Toc"
+msgstr ""
+
+#: wc_limited_deals.php:310
+msgid "Limited deal"
+msgstr ""
+
+#: wc_limited_deals.php:311
+msgid "Only offer this product between the scheduled date. Afterwhich, the product cannot be purchased."
+msgstr ""
+
+#: wc_limited_deals.php:318
+msgid "Limited Dates"
+msgstr ""
+
+#: wc_limited_deals.php:324
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: wc_limited_deals.php:334
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""

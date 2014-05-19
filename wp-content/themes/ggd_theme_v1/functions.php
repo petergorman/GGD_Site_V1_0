@@ -77,47 +77,34 @@ return $count;
 
 
 
-/**
- ************  Green Golf Deals Hooks  *************
-Master location: includes/wc-template-hooks.php
-**/
+/**************  Green Golf Deals Hooks  *************
+Master location: includes/wc-template-hooks.php **/
 
-/**
- Disable Woo Styles
-**/
+/** Disable Woo Styles **/
 add_filter( 'woocommerce_enqueue_styles', '__return_false' );
 add_theme_support( 'genesis-connect-woocommerce' );
 
 
-/**
- Product Page  theme/woocommerce/single-product.php
-**/
 
+/**************  Single Product Page  ***************/
+
+/** Product Page  theme/woocommerce/single-product.php **/
 add_action( 'ggd_before_main_content', 'woocommerce_breadcrumb', 20, 0 );
 
+/** Change cart button text // 2.1 + **/
+add_filter( 'woocommerce_product_single_add_to_cart_text', 'woo_custom_cart_button_text' );    
+function woo_custom_cart_button_text() { return __( 'Buy now!', 'woocommerce' ); }
 
-/**
- * Sale flashes
- *
- * @see woocommerce_show_product_loop_sale_flash()
- * @see woocommerce_show_product_sale_flash()
- */
-add_action( 'ggd_before_shop_loop_item_title', 'woocommerce_show_product_loop_sale_flash', 10 );
+
+/** Sale flashes */
 remove_action( 'ggd_before_single_product_summary', 'woocommerce_show_product_sale_flash', 10 );
 
-/**
- * Before Single Products Summary Div
- *
- * @see woocommerce_show_product_images()
- * @see woocommerce_show_product_thumbnails()
- */
+/** Before Single Products Summary Div */
 add_action( 'ggd_single_product_images', 'woocommerce_show_product_images', 1 );
 add_action( 'woocommerce_product_images', 'woocommerce_show_product_thumbnails', 2 );
 
 
-/**
- Single Product Content  theme/woocommerce/content-single-product
-**/
+/** Single Product Content  theme/woocommerce/content-single-product **/
 add_action( 'ggd_single_product_titles', 'woocommerce_template_single_title', 1 );
 add_action( 'ggd_single_product_titles', 'woocommerce_template_single_excerpt', 2 );
 
@@ -127,5 +114,16 @@ add_action( 'ggd_single_product_summary', 'woocommerce_template_single_add_to_ca
 add_action( 'ggd_simple_add_to_cart', 'woocommerce_simple_add_to_cart', 30 );
 remove_action( 'ggd_single_product_summary', 'woocommerce_template_single_sharing', 50 );
 
+/**************  Shop Page  ***************/
 
+/** Change cart button text // 2.1 + **/
 
+/** Sale flashes next deal */
+remove_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_show_product_loop_sale_flash', 10 );
+
+/** Product Loop Items */
+add_action( 'ggd_single_product_images', 'woocommerce_show_product_images', 1 );
+add_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart', 10 );
+add_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 10 );
+add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_price', 10 );
+add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_rating', 5 );

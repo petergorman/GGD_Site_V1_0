@@ -115,6 +115,16 @@ p span {
   font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
 }
 
+.clock {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+  font-size: 1em !important;
+  font-weight: 400 !important;
+  color: #505862 !important;
+}
+.clock span {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+}
+
 a {
   font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
   color: #979faa;

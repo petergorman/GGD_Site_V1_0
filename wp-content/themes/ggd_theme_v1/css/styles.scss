@@ -162,6 +162,18 @@ p {
 	
 }
 
+.clock {
+	font-family:$font-stack-open !important;
+	font-size:em(16) !important;
+	font-weight:400 !important;
+	color:$color-2 !important;
+	
+	span {
+		font-family:$font-stack-open !important;
+	}
+	
+}
+
 a {
 	font-family:$font-stack-medium;
 	color:lighten($color-2,28%);

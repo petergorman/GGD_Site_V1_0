@@ -7,6 +7,7 @@
 
 <link rel="icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/img/favicon.png" />
 
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri(); ?>" />
 

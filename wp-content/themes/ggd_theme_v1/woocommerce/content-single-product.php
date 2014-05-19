@@ -45,11 +45,13 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		
 		<div class="col-xs-12">
 			<h3><?php the_field( "client_name" ); ?></h3>
+			
 			<?php
 				/* Product Content */
 				do_action( 'ggd_single_product_images' );
 				do_action( 'ggd_single_product_titles' );
 				do_action( 'ggd_single_product_price' );
+				echo do_shortcode('[woocommerce_limited_deals_banner]');
 				do_action( 'ggd_single_product_summary' );
 			?>
 		</div>

@@ -1,0 +1,87 @@
+.non-semantic-protector {
+    position: relative;
+    z-index: 1;
+}
+.meta-content {
+    float: left;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+}
+.meta-content.content-one { width: 33% }
+.meta-content.content-two {
+    width: 33%;
+    border-right: 2px dashed rgba(0,0,0,0.2);
+    border-left: 2px dashed rgba(0,0,0,0.2);
+}
+.meta-content.content-three { width: 33% }
+.meta-content .meta-amount {
+    padding: 10px 0 4px;
+    font-weight: 400;
+    font-size: 33px;
+    font-family: Georgia;
+}
+.meta-content .meta-title { font-size: 20px }
+.meta-content .meta-sub-title {
+    font-size: 12px;
+}
+.meta-content .days {
+    font-size: 12px;
+    line-height: 0;
+}
+.vertical-line { border-left: thick solid red }
+
+.lmtd-deal.ribbon {
+    border-top: 2px dashed rgba(0,0,0,0.2);
+    font-size: 16px !important;
+    height: 100px;
+    width: 90%;
+    position: relative;
+    text-align: center;
+    padding: 1em 2em;
+    margin: 2em auto 3em;
+    -webkit-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
+    -moz-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
+    box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
+}
+.lmtd-deal.ribbon:before,
+.lmtd-deal.ribbon:after {
+    content: "";
+    position: absolute;
+    display: block;
+    bottom: -1em;
+    z-index: -1;
+}
+.lmtd-deal.ribbon:before {
+    left: -2em;
+    border-right-width: 1.5em;
+    border-left-color: transparent;
+    -webkit-box-shadow: rgba(000,000,000,0.4) 1px 1px 1px;
+    -moz-box-shadow: rgba(000,000,000,0.4) 1px 1px 1px;
+    box-shadow: rgba(000,000,000,0.4) 1px 1px 1px;
+}
+.lmtd-deal.ribbon:after {
+    right: -2em;
+    border-left-width: 1.5em;
+    border-right-color: transparent;
+    -webkit-box-shadow: rgba(000,000,000,0.4) -1px 1px 1px;
+    -moz-box-shadow: rgba(000,000,000,0.4) -1px 1px 1px;
+    box-shadow: rgba(000,000,000,0.4) -1px 1px 1px;
+}
+.lmtd-deal.ribbon .lmtd-deal.ribbon-content:before,
+.lmtd-deal.ribbon .lmtd-deal.ribbon-content:after {
+    content: "";
+    position: absolute;
+    display: block;
+    border-style: solid;
+    bottom: -1em;
+}
+.lmtd-deal.ribbon .lmtd-deal.ribbon-content:before {
+    left: 0;
+    border-width: 1em 0 0 1em;
+}
+.lmtd-deal.ribbon .lmtd-deal.ribbon-content:after {
+    right: 0;
+    border-width: 1em 1em 0 0;
+}
