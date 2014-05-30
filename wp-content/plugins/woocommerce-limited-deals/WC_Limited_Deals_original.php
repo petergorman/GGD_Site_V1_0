@@ -129,8 +129,7 @@ function woocommerce_limiteddeals_load()
 				// Set visibility to hidden
 				$hide = get_option( 'tp_hide_expired' );
 				if ( $hide == 'yes' ) {
-					update_post_meta( $post->ID, '_visibility', 'hidden' );
-					
+					update_post_meta( $post->ID, '_visibility', 'visible' );
 				}
 
 				// Remove the add to cart button
@@ -188,7 +187,7 @@ function woocommerce_limiteddeals_load()
 			// Prevent adding to the cart
 			$disable = get_option( 'tp_disable_cart' );
 			if ( $disable == 'yes' && !$this->is_available( $product_id ) ) {
-				$woocommerce->add_error( __( 'This deal has expired.', 'woocommerce_limited_deals' ) );
+				$woocommerce->add_error( __( 'This product has expired.', 'woocommerce_limited_deals' ) );
 				return false;
 			}
 
