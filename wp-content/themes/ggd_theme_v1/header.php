@@ -21,5 +21,12 @@
 <div class="row">
 	<div class="col-xs-12">
 		<?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
+		
+		<?php if ( is_user_logged_in() ) { ?>
+			<?php wp_nav_menu( array( 'theme_location' => 'logged-in-menu' ) ); ?>
+		 <?php } 
+		 else { ?>
+			<?php wp_nav_menu( array( 'theme_location' => 'logged-out-menu' ) ); ?>
+		 <?php } ?>
 	</div> <!-- END Col -->
 </div> <!-- END Row -->

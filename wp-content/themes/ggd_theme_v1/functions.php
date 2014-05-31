@@ -13,6 +13,8 @@ function register_my_menus() {
     array(
       'main-menu' => __( 'Main Menu' ),
       'sub-menu' => __( 'Sub Menu' ),
+	  'logged-in-menu' => __( 'Logged In Menu' ),
+	  'logged-out-menu' => __( 'Logged Out Menu' ),
 	  'side-menu' => __( 'Side Menu' ),
 	  'footer-menu' => __( 'Footer Menu' )
     )
