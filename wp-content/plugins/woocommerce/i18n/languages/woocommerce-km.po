@@ -1,41 +1,39 @@
 # 
 # Translators:
-# baobinh152 <doanbc1502@gmail.com>, 2014
-# tamvo <tamvobiz@gmail.com>, 2014
-# Toan Vu Duy <fantasy1612@gmail.com>, 2014
+# សុវិចិត្រ Sovichet ទេព Tep, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2014-05-22 10:45:21+00:00\n"
-"PO-Revision-Date: 2014-05-23 08:28+0000\n"
-"Last-Translator: mikejolley <mike.jolley@me.com>\n"
-"Language-Team: Vietnamese (http://www.transifex.com/projects/p/woocommerce/language/vi/)\n"
+"PO-Revision-Date: 2014-06-02 14:41+0000\n"
+"Last-Translator: សុវិចិត្រ Sovichet ទេព Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/projects/p/woocommerce/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: vi\n"
+"Language: km\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: assets/js/admin/editor_plugin_lang.php:5
 msgid "Insert Shortcode"
-msgstr "Chèn mã"
+msgstr "បញ្ចូល​កូដ​ខ្លី"
 
 #: assets/js/admin/editor_plugin_lang.php:6
 msgid "Product price/cart button"
-msgstr "Nút giá sp/giỏ hàng"
+msgstr "ប៊ូតុង​តម្លៃ/​រទេះ​ផលិតផល"
 
 #: assets/js/admin/editor_plugin_lang.php:7
 msgid "Product by SKU/ID"
-msgstr "Lọc theo mã sản phẩm"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:8
 msgid "Products by SKU/ID"
-msgstr "Sản phẩm theo mã"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:9
 msgid "Product categories"
-msgstr "Danh mục sản phẩm"
+msgstr "ប្រភេទ​ផលិតផល"
 
 #: assets/js/admin/editor_plugin_lang.php:10
 msgid "Products by category slug"
@@ -43,82 +41,82 @@ msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:11
 msgid "Recent products"
-msgstr "Hàng mới về"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:12
 msgid "Featured products"
-msgstr "Sản phẩm nổi bật"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:13
 msgid "Shop Messages"
-msgstr "Lời nhắn từ Shop"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:14
 msgid "Order tracking"
-msgstr "Theo dõi đơn hàng"
+msgstr ""
 
 #: assets/js/admin/editor_plugin_lang.php:15
 #: includes/shortcodes/class-wc-shortcode-checkout.php:91
 #: includes/shortcodes/class-wc-shortcode-my-account.php:111
 #: templates/checkout/thankyou.php:30
 msgid "My Account"
-msgstr "Tài khoản"
+msgstr "គណនី​របស់​ខ្ញុំ"
 
 #: i18n/states/AU.php:13
 msgid "Australian Capital Territory"
-msgstr "Australian Capital Territory"
+msgstr ""
 
 #: i18n/states/AU.php:14
 msgid "New South Wales"
-msgstr "New South Wales"
+msgstr ""
 
 #: i18n/states/AU.php:15
 msgid "Northern Territory"
-msgstr "Northern Territory"
+msgstr ""
 
 #: i18n/states/AU.php:16
 msgid "Queensland"
-msgstr "Queensland"
+msgstr ""
 
 #: i18n/states/AU.php:17
 msgid "South Australia"
-msgstr "South Australia"
+msgstr ""
 
 #: i18n/states/AU.php:18
 msgid "Tasmania"
-msgstr "Tasmania"
+msgstr ""
 
 #: i18n/states/AU.php:19
 msgid "Victoria"
-msgstr "Victoria"
+msgstr ""
 
 #: i18n/states/AU.php:20
 msgid "Western Australia"
-msgstr "Western Australia"
+msgstr ""
 
 #: i18n/states/BD.php:13
 msgid "Bagerhat"
-msgstr "Bagerhat"
+msgstr ""
 
 #: i18n/states/BD.php:14
 msgid "Bandarban"
-msgstr "Bandarban"
+msgstr ""
 
 #: i18n/states/BD.php:15
 msgid "Barguna"
-msgstr "Barguna"
+msgstr ""
 
 #: i18n/states/BD.php:16
 msgid "Barisal"
-msgstr "Barisal"
+msgstr ""
 
 #: i18n/states/BD.php:17
 msgid "Bhola"
-msgstr "Bhola"
+msgstr ""
 
 #: i18n/states/BD.php:18
 msgid "Bogra"
-msgstr "Bogra"
+msgstr ""
 
 #: i18n/states/BD.php:19
 msgid "Brahmanbaria"
@@ -386,7 +384,7 @@ msgstr ""
 
 #: i18n/states/BG.php:21 i18n/states/US.php:39
 msgid "Montana"
-msgstr "Montana"
+msgstr ""
 
 #: i18n/states/BG.php:22
 msgid "Pazardzhik"
@@ -466,887 +464,887 @@ msgstr ""
 
 #: i18n/states/BR.php:13
 msgid "Acre"
-msgstr "Acre"
+msgstr ""
 
 #: i18n/states/BR.php:14
 msgid "Alagoas"
-msgstr "Alagoas"
+msgstr ""
 
 #: i18n/states/BR.php:15
 msgid "Amap&aacute;"
-msgstr "Amap&aacute;"
+msgstr ""
 
 #: i18n/states/BR.php:16 i18n/states/PE.php:15
 msgid "Amazonas"
-msgstr "Amazonas"
+msgstr ""
 
 #: i18n/states/BR.php:17
 msgid "Bahia"
-msgstr "Bahia"
+msgstr ""
 
 #: i18n/states/BR.php:18
 msgid "Cear&aacute;"
-msgstr "Cear&aacute;"
+msgstr ""
 
 #: i18n/states/BR.php:19
 msgid "Distrito Federal"
-msgstr "Distrito Federal"
+msgstr ""
 
 #: i18n/states/BR.php:20
 msgid "Esp&iacute;rito Santo"
-msgstr "Esp&iacute;rito Santo"
+msgstr ""
 
 #: i18n/states/BR.php:21
 msgid "Goi&aacute;s"
-msgstr "Goi&aacute;s"
+msgstr ""
 
 #: i18n/states/BR.php:22
 msgid "Maranh&atilde;o"
-msgstr "Maranh&atilde;o"
+msgstr ""
 
 #: i18n/states/BR.php:23
 msgid "Mato Grosso"
-msgstr "Mato Grosso"
+msgstr ""
 
 #: i18n/states/BR.php:24
 msgid "Mato Grosso do Sul"
-msgstr "Mato Grosso do Sul"
+msgstr ""
 
 #: i18n/states/BR.php:25
 msgid "Minas Gerais"
-msgstr "Minas Gerais"
+msgstr ""
 
 #: i18n/states/BR.php:26
 msgid "Par&aacute;"
-msgstr "Par&aacute;"
+msgstr ""
 
 #: i18n/states/BR.php:27
 msgid "Para&iacute;ba"
-msgstr "Para&iacute;ba"
+msgstr ""
 
 #: i18n/states/BR.php:28
 msgid "Paran&aacute;"
-msgstr "Paran&aacute;"
+msgstr ""
 
 #: i18n/states/BR.php:29
 msgid "Pernambuco"
-msgstr "Pernambuco"
+msgstr ""
 
 #: i18n/states/BR.php:30
 msgid "Piau&iacute;"
-msgstr "Piau&iacute;"
+msgstr ""
 
 #: i18n/states/BR.php:31
 msgid "Rio de Janeiro"
-msgstr "Rio de Janeiro"
+msgstr ""
 
 #: i18n/states/BR.php:32
 msgid "Rio Grande do Norte"
-msgstr "Rio Grande do Norte"
+msgstr ""
 
 #: i18n/states/BR.php:33
 msgid "Rio Grande do Sul"
-msgstr "Rio Grande do Sul"
+msgstr ""
 
 #: i18n/states/BR.php:34
 msgid "Rond&ocirc;nia"
-msgstr "Rond&ocirc;nia"
+msgstr ""
 
 #: i18n/states/BR.php:35
 msgid "Roraima"
-msgstr "Roraima"
+msgstr ""
 
 #: i18n/states/BR.php:36
 msgid "Santa Catarina"
-msgstr "Santa Catarina"
+msgstr ""
 
 #: i18n/states/BR.php:37
 msgid "S&atilde;o Paulo"
-msgstr "S&atilde;o Paulo"
+msgstr ""
 
 #: i18n/states/BR.php:38
 msgid "Sergipe"
-msgstr "Sergipe"
+msgstr ""
 
 #: i18n/states/BR.php:39
 msgid "Tocantins"
-msgstr "Tocantins"
+msgstr ""
 
 #: i18n/states/CA.php:13
 msgid "Alberta"
-msgstr "Alberta"
+msgstr ""
 
 #: i18n/states/CA.php:14
 msgid "British Columbia"
-msgstr "British Columbia"
+msgstr ""
 
 #: i18n/states/CA.php:15
 msgid "Manitoba"
-msgstr "Manitoba"
+msgstr ""
 
 #: i18n/states/CA.php:16
 msgid "New Brunswick"
-msgstr "New Brunswick"
+msgstr ""
 
 #: i18n/states/CA.php:17
 msgid "Newfoundland"
-msgstr "Newfoundland"
+msgstr ""
 
 #: i18n/states/CA.php:18
 msgid "Northwest Territories"
-msgstr "Northwest Territories"
+msgstr ""
 
 #: i18n/states/CA.php:19
 msgid "Nova Scotia"
-msgstr "Nova Scotia"
+msgstr ""
 
 #: i18n/states/CA.php:20
 msgid "Nunavut"
-msgstr "Nunavut"
+msgstr ""
 
 #: i18n/states/CA.php:21
 msgid "Ontario"
-msgstr "Ontario"
+msgstr ""
 
 #: i18n/states/CA.php:22
 msgid "Prince Edward Island"
-msgstr "Prince Edward Island"
+msgstr ""
 
 #: i18n/states/CA.php:23
 msgid "Quebec"
-msgstr "Quebec"
+msgstr ""
 
 #: i18n/states/CA.php:24
 msgid "Saskatchewan"
-msgstr "Saskatchewan"
+msgstr ""
 
 #: i18n/states/CA.php:25
 msgid "Yukon Territory"
-msgstr "Yukon Territory"
+msgstr ""
 
 #: i18n/states/CN.php:13
 msgid "Yunnan / &#20113;&#21335;"
-msgstr "Yunnan / &#20113;&#21335;"
+msgstr ""
 
 #: i18n/states/CN.php:14
 msgid "Beijing / &#21271;&#20140;"
-msgstr "Beijing / &#21271;&#20140;"
+msgstr ""
 
 #: i18n/states/CN.php:15
 msgid "Tianjin / &#22825;&#27941;"
-msgstr "Tianjin / &#22825;&#27941;"
+msgstr ""
 
 #: i18n/states/CN.php:16
 msgid "Hebei / &#27827;&#21271;"
-msgstr "Hebei / &#27827;&#21271;"
+msgstr ""
 
 #: i18n/states/CN.php:17
 msgid "Shanxi / &#23665;&#35199;"
-msgstr "Shanxi / &#23665;&#35199;"
+msgstr ""
 
 #: i18n/states/CN.php:18
 msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
-msgstr "Inner Mongolia / &#20839;&#33945;&#21476;"
+msgstr ""
 
 #: i18n/states/CN.php:19
 msgid "Liaoning / &#36797;&#23425;"
-msgstr "Liaoning / &#36797;&#23425;"
+msgstr ""
 
 #: i18n/states/CN.php:20
 msgid "Jilin / &#21513;&#26519;"
-msgstr "Jilin / &#21513;&#26519;"
+msgstr ""
 
 #: i18n/states/CN.php:21
 msgid "Heilongjiang / &#40657;&#40857;&#27743;"
-msgstr "Heilongjiang / &#40657;&#40857;&#27743;"
+msgstr ""
 
 #: i18n/states/CN.php:22
 msgid "Shanghai / &#19978;&#28023;"
-msgstr "Shanghai / &#19978;&#28023;"
+msgstr ""
 
 #: i18n/states/CN.php:23
 msgid "Jiangsu / &#27743;&#33487;"
-msgstr "Jiangsu / &#27743;&#33487;"
+msgstr ""
 
 #: i18n/states/CN.php:24
 msgid "Zhejiang / &#27993;&#27743;"
-msgstr "Zhejiang / &#27993;&#27743;"
+msgstr ""
 
 #: i18n/states/CN.php:25
 msgid "Anhui / &#23433;&#24509;"
-msgstr "Anhui / &#23433;&#24509;"
+msgstr ""
 
 #: i18n/states/CN.php:26
 msgid "Fujian / &#31119;&#24314;"
-msgstr "Fujian / &#31119;&#24314;"
+msgstr ""
 
 #: i18n/states/CN.php:27
 msgid "Jiangxi / &#27743;&#35199;"
-msgstr "Jiangxi / &#27743;&#35199;"
+msgstr ""
 
 #: i18n/states/CN.php:28
 msgid "Shandong / &#23665;&#19996;"
-msgstr "Shandong / &#23665;&#19996;"
+msgstr ""
 
 #: i18n/states/CN.php:29
 msgid "Henan / &#27827;&#21335;"
-msgstr "Henan / &#27827;&#21335;"
+msgstr ""
 
 #: i18n/states/CN.php:30
 msgid "Hubei / &#28246;&#21271;"
-msgstr "Hubei / &#28246;&#21271;"
+msgstr ""
 
 #: i18n/states/CN.php:31
 msgid "Hunan / &#28246;&#21335;"
-msgstr "Hunan / &#28246;&#21335;"
+msgstr ""
 
 #: i18n/states/CN.php:32
 msgid "Guangdong / &#24191;&#19996;"
-msgstr "Guangdong / &#24191;&#19996;"
+msgstr ""
 
 #: i18n/states/CN.php:33
 msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
-msgstr "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
+msgstr ""
 
 #: i18n/states/CN.php:34
 msgid "Hainan / &#28023;&#21335;"
-msgstr "Hainan / &#28023;&#21335;"
+msgstr ""
 
 #: i18n/states/CN.php:35
 msgid "Chongqing / &#37325;&#24198;"
-msgstr "Chongqing / &#37325;&#24198;"
+msgstr ""
 
 #: i18n/states/CN.php:36
 msgid "Sichuan / &#22235;&#24029;"
-msgstr "Sichuan / &#22235;&#24029;"
+msgstr ""
 
 #: i18n/states/CN.php:37
 msgid "Guizhou / &#36149;&#24030;"
-msgstr "Guizhou / &#36149;&#24030;"
+msgstr ""
 
 #: i18n/states/CN.php:38
 msgid "Shaanxi / &#38485;&#35199;"
-msgstr "Shaanxi / &#38485;&#35199;"
+msgstr ""
 
 #: i18n/states/CN.php:39
 msgid "Gansu / &#29976;&#32899;"
-msgstr "Gansu / &#29976;&#32899;"
+msgstr ""
 
 #: i18n/states/CN.php:40
 msgid "Qinghai / &#38738;&#28023;"
-msgstr "Qinghai / &#38738;&#28023;"
+msgstr ""
 
 #: i18n/states/CN.php:41
 msgid "Ningxia Hui / &#23425;&#22799;"
-msgstr "Ningxia Hui / &#23425;&#22799;"
+msgstr ""
 
 #: i18n/states/CN.php:42
 msgid "Macau / &#28595;&#38376;"
-msgstr "Macau / &#28595;&#38376;"
+msgstr ""
 
 #: i18n/states/CN.php:43
 msgid "Tibet / &#35199;&#34255;"
-msgstr "Tibet / &#35199;&#34255;"
+msgstr ""
 
 #: i18n/states/CN.php:44
 msgid "Xinjiang / &#26032;&#30086;"
-msgstr "Xinjiang / &#26032;&#30086;"
+msgstr ""
 
 #: i18n/states/ES.php:13
 msgid "A Coru&ntilde;a"
-msgstr "A Coru&ntilde;a"
+msgstr ""
 
 #: i18n/states/ES.php:14
 msgid "Araba/&Aacute;lava"
-msgstr "Araba/&Aacute;lava"
+msgstr ""
 
 #: i18n/states/ES.php:15
 msgid "Albacete"
-msgstr "Albacete"
+msgstr ""
 
 #: i18n/states/ES.php:16
 msgid "Alicante"
-msgstr "Alicante"
+msgstr ""
 
 #: i18n/states/ES.php:17
 msgid "Almer&iacute;a"
-msgstr "Almer&iacute;a"
+msgstr ""
 
 #: i18n/states/ES.php:18
 msgid "Asturias"
-msgstr "Asturias"
+msgstr ""
 
 #: i18n/states/ES.php:19
 msgid "&Aacute;vila"
-msgstr "&Aacute;vila"
+msgstr ""
 
 #: i18n/states/ES.php:20
 msgid "Badajoz"
-msgstr "Badajoz"
+msgstr ""
 
 #: i18n/states/ES.php:21
 msgid "Baleares"
-msgstr "Baleares"
+msgstr ""
 
 #: i18n/states/ES.php:22
 msgid "Barcelona"
-msgstr "Barcelona"
+msgstr ""
 
 #: i18n/states/ES.php:23
 msgid "Burgos"
-msgstr "Burgos"
+msgstr ""
 
 #: i18n/states/ES.php:24
 msgid "C&aacute;ceres"
-msgstr "C&aacute;ceres"
+msgstr ""
 
 #: i18n/states/ES.php:25
 msgid "C&aacute;diz"
-msgstr "C&aacute;diz"
+msgstr ""
 
 #: i18n/states/ES.php:26
 msgid "Cantabria"
-msgstr "Cantabria"
+msgstr ""
 
 #: i18n/states/ES.php:27
 msgid "Castell&oacute;n"
-msgstr "Castell&oacute;n"
+msgstr ""
 
 #: i18n/states/ES.php:28
 msgid "Ceuta"
-msgstr "Ceuta"
+msgstr ""
 
 #: i18n/states/ES.php:29
 msgid "Ciudad Real"
-msgstr "Ciudad Real"
+msgstr ""
 
 #: i18n/states/ES.php:30
 msgid "C&oacute;rdoba"
-msgstr "C&oacute;rdoba"
+msgstr ""
 
 #: i18n/states/ES.php:31
 msgid "Cuenca"
-msgstr "Cuenca"
+msgstr ""
 
 #: i18n/states/ES.php:32
 msgid "Girona"
-msgstr "Girona"
+msgstr ""
 
 #: i18n/states/ES.php:33
 msgid "Granada"
-msgstr "Granada"
+msgstr ""
 
 #: i18n/states/ES.php:34
 msgid "Guadalajara"
-msgstr "Guadalajara"
+msgstr ""
 
 #: i18n/states/ES.php:35
 msgid "Gipuzkoa"
-msgstr "Gipuzkoa"
+msgstr ""
 
 #: i18n/states/ES.php:36
 msgid "Huelva"
-msgstr "Huelva"
+msgstr ""
 
 #: i18n/states/ES.php:37
 msgid "Huesca"
-msgstr "Huesca"
+msgstr ""
 
 #: i18n/states/ES.php:38
 msgid "Ja&eacute;n"
-msgstr "Ja&eacute;n"
+msgstr ""
 
 #: i18n/states/ES.php:39
 msgid "La Rioja"
-msgstr "La Rioja"
+msgstr ""
 
 #: i18n/states/ES.php:40
 msgid "Las Palmas"
-msgstr "Las Palmas"
+msgstr ""
 
 #: i18n/states/ES.php:41
 msgid "Le&oacute;n"
-msgstr "Le&oacute;n"
+msgstr ""
 
 #: i18n/states/ES.php:42
 msgid "Lleida"
-msgstr "Lleida"
+msgstr ""
 
 #: i18n/states/ES.php:43
 msgid "Lugo"
-msgstr "Lugo"
+msgstr ""
 
 #: i18n/states/ES.php:44
 msgid "Madrid"
-msgstr "Madrid"
+msgstr ""
 
 #: i18n/states/ES.php:45
 msgid "M&aacute;laga"
-msgstr "M&aacute;laga"
+msgstr ""
 
 #: i18n/states/ES.php:46
 msgid "Melilla"
-msgstr "Melilla"
+msgstr ""
 
 #: i18n/states/ES.php:47
 msgid "Murcia"
-msgstr "Murcia"
+msgstr ""
 
 #: i18n/states/ES.php:48
 msgid "Navarra"
-msgstr "Navarra"
+msgstr ""
 
 #: i18n/states/ES.php:49
 msgid "Ourense"
-msgstr "Ourense"
+msgstr ""
 
 #: i18n/states/ES.php:50
 msgid "Palencia"
-msgstr "Palencia"
+msgstr ""
 
 #: i18n/states/ES.php:51
 msgid "Pontevedra"
-msgstr "Pontevedra"
+msgstr ""
 
 #: i18n/states/ES.php:52
 msgid "Salamanca"
-msgstr "Salamanca"
+msgstr ""
 
 #: i18n/states/ES.php:53
 msgid "Santa Cruz de Tenerife"
-msgstr "Santa Cruz de Tenerife"
+msgstr ""
 
 #: i18n/states/ES.php:54
 msgid "Segovia"
-msgstr "Segovia"
+msgstr ""
 
 #: i18n/states/ES.php:55
 msgid "Sevilla"
-msgstr "Sevilla"
+msgstr ""
 
 #: i18n/states/ES.php:56
 msgid "Soria"
-msgstr "Soria"
+msgstr ""
 
 #: i18n/states/ES.php:57
 msgid "Tarragona"
-msgstr "Tarragona"
+msgstr ""
 
 #: i18n/states/ES.php:58
 msgid "Teruel"
-msgstr "Teruel"
+msgstr ""
 
 #: i18n/states/ES.php:59
 msgid "Toledo"
-msgstr "Toledo"
+msgstr ""
 
 #: i18n/states/ES.php:60
 msgid "Valencia"
-msgstr "Valencia"
+msgstr ""
 
 #: i18n/states/ES.php:61
 msgid "Valladolid"
-msgstr "Valladolid"
+msgstr ""
 
 #: i18n/states/ES.php:62
 msgid "Bizkaia"
-msgstr "Bizkaia"
+msgstr ""
 
 #: i18n/states/ES.php:63
 msgid "Zamora"
-msgstr "Zamora"
+msgstr ""
 
 #: i18n/states/ES.php:64
 msgid "Zaragoza"
-msgstr "Zaragoza"
+msgstr ""
 
 #: i18n/states/HK.php:13
 msgid "Hong Kong Island"
-msgstr "Hong Kong Island"
+msgstr ""
 
 #: i18n/states/HK.php:14
 msgid "Kowloon"
-msgstr "Kowloon"
+msgstr ""
 
 #: i18n/states/HK.php:15
 msgid "New Territories"
-msgstr "New Territories"
+msgstr ""
 
 #: i18n/states/HU.php:13
 msgid "Bács-Kiskun"
-msgstr "Bács-Kiskun"
+msgstr ""
 
 #: i18n/states/HU.php:14
 msgid "Békés"
-msgstr "Békés"
+msgstr ""
 
 #: i18n/states/HU.php:15
 msgid "Baranya"
-msgstr "Baranya"
+msgstr ""
 
 #: i18n/states/HU.php:16
 msgid "Borsod-Abaúj-Zemplén"
-msgstr "Borsod-Abaúj-Zemplén"
+msgstr ""
 
 #: i18n/states/HU.php:17
 msgid "Budapest"
-msgstr "Budapest"
+msgstr ""
 
 #: i18n/states/HU.php:18
 msgid "Csongrád"
-msgstr "Csongrád"
+msgstr ""
 
 #: i18n/states/HU.php:19
 msgid "Fejér"
-msgstr "Fejér"
+msgstr ""
 
 #: i18n/states/HU.php:20
 msgid "Győr-Moson-Sopron"
-msgstr "Győr-Moson-Sopron"
+msgstr ""
 
 #: i18n/states/HU.php:21
 msgid "Hajdú-Bihar"
-msgstr "Hajdú-Bihar"
+msgstr ""
 
 #: i18n/states/HU.php:22
 msgid "Heves"
-msgstr "Heves"
+msgstr ""
 
 #: i18n/states/HU.php:23
 msgid "Jász-Nagykun-Szolnok"
-msgstr "Jász-Nagykun-Szolnok"
+msgstr ""
 
 #: i18n/states/HU.php:24
 msgid "Komárom-Esztergom"
-msgstr "Komárom-Esztergom"
+msgstr ""
 
 #: i18n/states/HU.php:25
 msgid "Nógrád"
-msgstr "Nógrád"
+msgstr ""
 
 #: i18n/states/HU.php:26
 msgid "Pest"
-msgstr "Pest"
+msgstr ""
 
 #: i18n/states/HU.php:27
 msgid "Somogy"
-msgstr "Somogy"
+msgstr ""
 
 #: i18n/states/HU.php:28
 msgid "Szabolcs-Szatmár-Bereg"
-msgstr "Szabolcs-Szatmár-Bereg"
+msgstr ""
 
 #: i18n/states/HU.php:29
 msgid "Tolna"
-msgstr "Tolna"
+msgstr ""
 
 #: i18n/states/HU.php:30
 msgid "Vas"
-msgstr "Vas"
+msgstr ""
 
 #: i18n/states/HU.php:31
 msgid "Veszprém"
-msgstr "Veszprém"
+msgstr ""
 
 #: i18n/states/HU.php:32
 msgid "Zala"
-msgstr "Zala"
+msgstr ""
 
 #: i18n/states/HZ.php:13 i18n/states/NZ.php:14
 msgid "Auckland"
-msgstr "Auckland"
+msgstr ""
 
 #: i18n/states/HZ.php:14 i18n/states/NZ.php:16
 msgid "Bay of Plenty"
-msgstr "Bay of Plenty"
+msgstr ""
 
 #: i18n/states/HZ.php:15 i18n/states/NZ.php:25
 msgid "Canterbury"
-msgstr "Canterbury"
+msgstr ""
 
 #: i18n/states/HZ.php:16 i18n/states/NZ.php:18
 msgid "Hawke&rsquo;s Bay"
-msgstr "Hawke&rsquo;s Bay"
+msgstr ""
 
 #: i18n/states/HZ.php:17 i18n/states/NZ.php:19
 msgid "Manawatu-Wanganui"
-msgstr "Manawatu-Wanganui"
+msgstr ""
 
 #: i18n/states/HZ.php:18 i18n/states/NZ.php:22
 msgid "Marlborough"
-msgstr "Marlborough"
+msgstr ""
 
 #: i18n/states/HZ.php:19 i18n/states/NZ.php:21
 msgid "Nelson"
-msgstr "Nelson"
+msgstr ""
 
 #: i18n/states/HZ.php:20 i18n/states/NZ.php:13
 msgid "Northland"
-msgstr "Northland"
+msgstr ""
 
 #: i18n/states/HZ.php:21 i18n/states/NZ.php:26
 msgid "Otago"
-msgstr "Otago"
+msgstr ""
 
 #: i18n/states/HZ.php:22 i18n/states/NZ.php:27
 msgid "Southland"
-msgstr "Southland"
+msgstr ""
 
 #: i18n/states/HZ.php:23 i18n/states/NZ.php:17
 msgid "Taranaki"
-msgstr "Taranaki"
+msgstr ""
 
 #: i18n/states/HZ.php:24 i18n/states/NZ.php:23
 msgid "Tasman"
-msgstr "Tasman"
+msgstr ""
 
 #: i18n/states/HZ.php:25 i18n/states/NZ.php:15
 msgid "Waikato"
-msgstr "Waikato"
+msgstr ""
 
 #: i18n/states/HZ.php:26 i18n/states/NZ.php:20
 msgid "Wellington"
-msgstr "Wellington"
+msgstr ""
 
 #: i18n/states/HZ.php:27 i18n/states/NZ.php:24
 msgid "West Coast"
-msgstr "West Coast"
+msgstr ""
 
 #: i18n/states/ID.php:13
 msgid "Daerah Istimewa Aceh"
-msgstr "Daerah Istimewa Aceh"
+msgstr ""
 
 #: i18n/states/ID.php:14
 msgid "Sumatera Utara"
-msgstr "Sumatera Utara"
+msgstr ""
 
 #: i18n/states/ID.php:15
 msgid "Sumatera Barat"
-msgstr "Sumatera Barat"
+msgstr ""
 
 #: i18n/states/ID.php:16
 msgid "Riau"
-msgstr "Riau"
+msgstr ""
 
 #: i18n/states/ID.php:17
 msgid "Kepulauan Riau"
-msgstr "Kepulauan Riau"
+msgstr ""
 
 #: i18n/states/ID.php:18
 msgid "Jambi"
-msgstr "Jambi"
+msgstr ""
 
 #: i18n/states/ID.php:19
 msgid "Sumatera Selatan"
-msgstr "Sumatera Selatan"
+msgstr ""
 
 #: i18n/states/ID.php:20
 msgid "Bangka Belitung"
-msgstr "Bangka Belitung"
+msgstr ""
 
 #: i18n/states/ID.php:21
 msgid "Bengkulu"
-msgstr "Bengkulu"
+msgstr ""
 
 #: i18n/states/ID.php:22
 msgid "Lampung"
-msgstr "Lampung"
+msgstr ""
 
 #: i18n/states/ID.php:23
 msgid "DKI Jakarta"
-msgstr "DKI Jakarta"
+msgstr ""
 
 #: i18n/states/ID.php:24
 msgid "Jawa Barat"
-msgstr "Jawa Barat"
+msgstr ""
 
 #: i18n/states/ID.php:25
 msgid "Banten"
-msgstr "Banten"
+msgstr ""
 
 #: i18n/states/ID.php:26
 msgid "Jawa Tengah"
-msgstr "Jawa Tengah"
+msgstr ""
 
 #: i18n/states/ID.php:27
 msgid "Jawa Timur"
-msgstr "Jawa Timur"
+msgstr ""
 
 #: i18n/states/ID.php:28
 msgid "Daerah Istimewa Yogyakarta"
-msgstr "Daerah Istimewa Yogyakarta"
+msgstr ""
 
 #: i18n/states/ID.php:29
 msgid "Bali"
-msgstr "Bali"
+msgstr ""
 
 #: i18n/states/ID.php:30
 msgid "Nusa Tenggara Barat"
-msgstr "Nusa Tenggara Barat"
+msgstr ""
 
 #: i18n/states/ID.php:31
 msgid "Nusa Tenggara Timur"
-msgstr "Nusa Tenggara Timur"
+msgstr ""
 
 #: i18n/states/ID.php:32
 msgid "Kalimantan Barat"
-msgstr "Kalimantan Barat"
+msgstr ""
 
 #: i18n/states/ID.php:33
 msgid "Kalimantan Tengah"
-msgstr "Kalimantan Tengah"
+msgstr ""
 
 #: i18n/states/ID.php:34
 msgid "Kalimantan Timur"
-msgstr "Kalimantan Timur"
+msgstr ""
 
 #: i18n/states/ID.php:35
 msgid "Kalimantan Selatan"
-msgstr "Kalimantan Selatan"
+msgstr ""
 
 #: i18n/states/ID.php:36
 msgid "Kalimantan Utara"
-msgstr "Kalimantan Utara"
+msgstr ""
 
 #: i18n/states/ID.php:37
 msgid "Sulawesi Utara"
-msgstr "Sulawesi Utara"
+msgstr ""
 
 #: i18n/states/ID.php:38
 msgid "Sulawesi Tengah"
-msgstr "Sulawesi Tengah"
+msgstr ""
 
 #: i18n/states/ID.php:39
 msgid "Sulawesi Tenggara"
-msgstr "Sulawesi Tenggara"
+msgstr ""
 
 #: i18n/states/ID.php:40
 msgid "Sulawesi Barat"
-msgstr "Sulawesi Barat"
+msgstr ""
 
 #: i18n/states/ID.php:41
 msgid "Sulawesi Selatan"
-msgstr "Sulawesi Selatan"
+msgstr ""
 
 #: i18n/states/ID.php:42
 msgid "Gorontalo"
-msgstr "Gorontalo"
+msgstr ""
 
 #: i18n/states/ID.php:43
 msgid "Maluku"
-msgstr "Maluku"
+msgstr ""
 
 #: i18n/states/ID.php:44
 msgid "Maluku Utara"
-msgstr "Maluku Utara"
+msgstr ""
 
 #: i18n/states/ID.php:45
 msgid "Papua"
-msgstr "Papua"
+msgstr ""
 
 #: i18n/states/ID.php:46
 msgid "Papua Barat"
-msgstr "Papua Barat"
+msgstr ""
 
 #: i18n/states/IN.php:13
 msgid "Andra Pradesh"
-msgstr "Andra Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:14
 msgid "Arunachal Pradesh"
-msgstr "Arunachal Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:15
 msgid "Assam"
-msgstr "Assam"
+msgstr ""
 
 #: i18n/states/IN.php:16
 msgid "Bihar"
-msgstr "Bihar"
+msgstr ""
 
 #: i18n/states/IN.php:17
 msgid "Chhattisgarh"
-msgstr "Chhattisgarh"
+msgstr ""
 
 #: i18n/states/IN.php:18
 msgid "Goa"
-msgstr "Goa"
+msgstr ""
 
 #: i18n/states/IN.php:19
 msgid "Gujarat"
-msgstr "Gujarat"
+msgstr ""
 
 #: i18n/states/IN.php:20
 msgid "Haryana"
-msgstr "Haryana"
+msgstr ""
 
 #: i18n/states/IN.php:21
 msgid "Himachal Pradesh"
-msgstr "Himachal Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:22
 msgid "Jammu and Kashmir"
-msgstr "Jammu and Kashmir"
+msgstr ""
 
 #: i18n/states/IN.php:23
 msgid "Jharkhand"
-msgstr "Jharkhand"
+msgstr ""
 
 #: i18n/states/IN.php:24
 msgid "Karnataka"
-msgstr "Karnataka"
+msgstr ""
 
 #: i18n/states/IN.php:25
 msgid "Kerala"
-msgstr "Kerala"
+msgstr ""
 
 #: i18n/states/IN.php:26
 msgid "Madhya Pradesh"
-msgstr "Madhya Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:27
 msgid "Maharashtra"
-msgstr "Maharashtra"
+msgstr ""
 
 #: i18n/states/IN.php:28
 msgid "Manipur"
-msgstr "Manipur"
+msgstr ""
 
 #: i18n/states/IN.php:29
 msgid "Meghalaya"
-msgstr "Meghalaya"
+msgstr ""
 
 #: i18n/states/IN.php:30
 msgid "Mizoram"
-msgstr "Mizoram"
+msgstr ""
 
 #: i18n/states/IN.php:31
 msgid "Nagaland"
-msgstr "Nagaland"
+msgstr ""
 
 #: i18n/states/IN.php:32
 msgid "Orissa"
-msgstr "Orissa"
+msgstr ""
 
 #: i18n/states/IN.php:33
 msgid "Punjab"
-msgstr "Punjab"
+msgstr ""
 
 #: i18n/states/IN.php:34
 msgid "Rajasthan"
-msgstr "Rajasthan"
+msgstr ""
 
 #: i18n/states/IN.php:35
 msgid "Sikkim"
-msgstr "Sikkim"
+msgstr ""
 
 #: i18n/states/IN.php:36
 msgid "Tamil Nadu"
-msgstr "Tamil Nadu"
+msgstr ""
 
 #: i18n/states/IN.php:37
 msgid "Tripura"
-msgstr "Tripura"
+msgstr ""
 
 #: i18n/states/IN.php:38
 msgid "Uttarakhand"
@@ -1354,71 +1352,71 @@ msgstr ""
 
 #: i18n/states/IN.php:39
 msgid "Uttar Pradesh"
-msgstr "Uttar Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:40
 msgid "West Bengal"
-msgstr "West Bengal"
+msgstr ""
 
 #: i18n/states/IN.php:41
 msgid "Andaman and Nicobar Islands"
-msgstr "Andaman and Nicobar Islands"
+msgstr ""
 
 #: i18n/states/IN.php:42
 msgid "Chandigarh"
-msgstr "Chandigarh"
+msgstr ""
 
 #: i18n/states/IN.php:43
 msgid "Dadar and Nagar Haveli"
-msgstr "Dadar and Nagar Haveli"
+msgstr ""
 
 #: i18n/states/IN.php:44
 msgid "Daman and Diu"
-msgstr "Daman and Diu"
+msgstr ""
 
 #: i18n/states/IN.php:45
 msgid "Delhi"
-msgstr "Delhi"
+msgstr ""
 
 #: i18n/states/IN.php:46
 msgid "Lakshadeep"
-msgstr "Lakshadeep"
+msgstr ""
 
 #: i18n/states/IN.php:47
 msgid "Pondicherry (Puducherry)"
-msgstr "Pondicherry (Puducherry)"
+msgstr ""
 
 #: i18n/states/IT.php:13
 msgid "Agrigento"
-msgstr "Agrigento"
+msgstr ""
 
 #: i18n/states/IT.php:14
 msgid "Alessandria"
-msgstr "Alessandria"
+msgstr ""
 
 #: i18n/states/IT.php:15
 msgid "Ancona"
-msgstr "Ancona"
+msgstr ""
 
 #: i18n/states/IT.php:16
 msgid "Aosta"
-msgstr "Aosta"
+msgstr ""
 
 #: i18n/states/IT.php:17
 msgid "Arezzo"
-msgstr "Arezzo"
+msgstr ""
 
 #: i18n/states/IT.php:18
 msgid "Ascoli Piceno"
-msgstr "Ascoli Piceno"
+msgstr ""
 
 #: i18n/states/IT.php:19
 msgid "Asti"
-msgstr "Asti"
+msgstr ""
 
 #: i18n/states/IT.php:20
 msgid "Avellino"
-msgstr "Avellino"
+msgstr ""
 
 #: i18n/states/IT.php:21
 msgid "Bari"
@@ -1950,15 +1948,15 @@ msgstr ""
 
 #: i18n/states/JP.php:43
 msgid "Tottori"
-msgstr "Tottori"
+msgstr ""
 
 #: i18n/states/JP.php:44
 msgid "Shimane"
-msgstr "Shimane"
+msgstr ""
 
 #: i18n/states/JP.php:45
 msgid "Okayama"
-msgstr "Okayama"
+msgstr ""
 
 #: i18n/states/JP.php:46
 msgid "Hiroshima"
@@ -2178,23 +2176,23 @@ msgstr ""
 
 #: i18n/states/PE.php:38
 msgid "Ucayali"
-msgstr "Ucayali"
+msgstr ""
 
 #: i18n/states/TH.php:13
 msgid ""
 "Amnat Charoen "
 "(&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
-msgstr "Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
+msgstr ""
 
 #: i18n/states/TH.php:14
 msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
-msgstr "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
+msgstr ""
 
 #: i18n/states/TH.php:15
 msgid ""
 "Ayutthaya "
 "(&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
-msgstr "Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:16
 msgid ""
@@ -2309,481 +2307,481 @@ msgstr ""
 
 #: i18n/states/TH.php:40
 msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
-msgstr "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
+msgstr ""
 
 #: i18n/states/TH.php:41
 msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
-msgstr "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
+msgstr ""
 
 #: i18n/states/TH.php:42
 msgid ""
 "Nakhon Ratchasima "
 "(&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
-msgstr "Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:43
 msgid ""
 "Nakhon Sawan "
 "(&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
-msgstr "Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
+msgstr ""
 
 #: i18n/states/TH.php:44
 msgid ""
 "Nakhon Si Thammarat "
 "(&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
-msgstr "Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgstr ""
 
 #: i18n/states/TH.php:45
 msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
-msgstr "Nan (&#3609;&#3656;&#3634;&#3609;)"
+msgstr ""
 
 #: i18n/states/TH.php:46
 msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
-msgstr "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
+msgstr ""
 
 #: i18n/states/TH.php:47
 msgid ""
 "Nong Bua Lam Phu "
 "(&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
-msgstr "Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
+msgstr ""
 
 #: i18n/states/TH.php:48
 msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
-msgstr "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
+msgstr ""
 
 #: i18n/states/TH.php:49
 msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:50
 msgid ""
 "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:51
 msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
-msgstr "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:52
 msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
-msgstr "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:53
 msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
-msgstr "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
+msgstr ""
 
 #: i18n/states/TH.php:54
 msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
-msgstr "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:55
 msgid ""
 "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
-msgstr "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr ""
 
 #: i18n/states/TH.php:56
 msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:57
 msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
-msgstr "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
+msgstr ""
 
 #: i18n/states/TH.php:58
 msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
-msgstr "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
+msgstr ""
 
 #: i18n/states/TH.php:59
 msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
-msgstr "Phrae (&#3649;&#3614;&#3619;&#3656;)"
+msgstr ""
 
 #: i18n/states/TH.php:60
 msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
-msgstr "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
+msgstr ""
 
 #: i18n/states/TH.php:61
 msgid ""
 "Prachin Buri "
 "(&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:62
 msgid ""
 "Prachuap Khiri Khan "
 "(&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
-msgstr "Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgstr ""
 
 #: i18n/states/TH.php:63
 msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
-msgstr "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
+msgstr ""
 
 #: i18n/states/TH.php:64
 msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:65
 msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
-msgstr "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
+msgstr ""
 
 #: i18n/states/TH.php:66
 msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
-msgstr "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
+msgstr ""
 
 #: i18n/states/TH.php:67
 msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
-msgstr "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
+msgstr ""
 
 #: i18n/states/TH.php:68
 msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
-msgstr "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
+msgstr ""
 
 #: i18n/states/TH.php:69
 msgid ""
 "Samut Prakan "
 "(&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
-msgstr "Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
+msgstr ""
 
 #: i18n/states/TH.php:70
 msgid ""
 "Samut Sakhon "
 "(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
-msgstr "Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
+msgstr ""
 
 #: i18n/states/TH.php:71
 msgid ""
 "Samut Songkhram "
 "(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
-msgstr "Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
+msgstr ""
 
 #: i18n/states/TH.php:72
 msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:73
 msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
-msgstr "Satun (&#3626;&#3605;&#3641;&#3621;)"
+msgstr ""
 
 #: i18n/states/TH.php:74
 msgid ""
 "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:75
 msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
-msgstr "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
+msgstr ""
 
 #: i18n/states/TH.php:76
 msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
-msgstr "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:77
 msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
-msgstr "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
+msgstr ""
 
 #: i18n/states/TH.php:78
 msgid ""
 "Suphan Buri "
 "(&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
-msgstr "Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:79
 msgid ""
 "Surat Thani "
 "(&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:80
 msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
-msgstr "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
+msgstr ""
 
 #: i18n/states/TH.php:81
 msgid "Tak (&#3605;&#3634;&#3585;)"
-msgstr "Tak (&#3605;&#3634;&#3585;)"
+msgstr ""
 
 #: i18n/states/TH.php:82
 msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
-msgstr "Trang (&#3605;&#3619;&#3633;&#3591;)"
+msgstr ""
 
 #: i18n/states/TH.php:83
 msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
-msgstr "Trat (&#3605;&#3619;&#3634;&#3604;)"
+msgstr ""
 
 #: i18n/states/TH.php:84
 msgid ""
 "Ubon Ratchathani "
 "(&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:85
 msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:86
 msgid ""
 "Uthai Thani "
 "(&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
 
 #: i18n/states/TH.php:87
 msgid ""
 "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
-msgstr "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgstr ""
 
 #: i18n/states/TH.php:88
 msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
-msgstr "Yala (&#3618;&#3632;&#3621;&#3634;)"
+msgstr ""
 
 #: i18n/states/TH.php:89
 msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
-msgstr "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+msgstr ""
 
 #: i18n/states/TR.php:13
 msgid "Adana"
-msgstr "Adana"
+msgstr ""
 
 #: i18n/states/TR.php:14
 msgid "Ad&#305;yaman"
-msgstr "Ad&#305;yaman"
+msgstr ""
 
 #: i18n/states/TR.php:15
 msgid "Afyon"
-msgstr "Afyon"
+msgstr ""
 
 #: i18n/states/TR.php:16
 msgid "A&#287;r&#305;"
-msgstr "A&#287;r&#305;"
+msgstr ""
 
 #: i18n/states/TR.php:17
 msgid "Amasya"
-msgstr "Amasya"
+msgstr ""
 
 #: i18n/states/TR.php:18
 msgid "Ankara"
-msgstr "Ankara"
+msgstr ""
 
 #: i18n/states/TR.php:19
 msgid "Antalya"
-msgstr "Antalya"
+msgstr ""
 
 #: i18n/states/TR.php:20
 msgid "Artvin"
-msgstr "Artvin"
+msgstr ""
 
 #: i18n/states/TR.php:21
 msgid "Ayd&#305;n"
-msgstr "Ayd&#305;n"
+msgstr ""
 
 #: i18n/states/TR.php:22
 msgid "Bal&#305;kesir"
-msgstr "Bal&#305;kesir"
+msgstr ""
 
 #: i18n/states/TR.php:23
 msgid "Bilecik"
-msgstr "Bilecik"
+msgstr ""
 
 #: i18n/states/TR.php:24
 msgid "Bing&#246;l"
-msgstr "Bing&#246;l"
+msgstr ""
 
 #: i18n/states/TR.php:25
 msgid "Bitlis"
-msgstr "Bitlis"
+msgstr ""
 
 #: i18n/states/TR.php:26
 msgid "Bolu"
-msgstr "Bolu"
+msgstr ""
 
 #: i18n/states/TR.php:27
 msgid "Burdur"
-msgstr "Burdur"
+msgstr ""
 
 #: i18n/states/TR.php:28
 msgid "Bursa"
-msgstr "Bursa"
+msgstr ""
 
 #: i18n/states/TR.php:29
 msgid "&#199;anakkale"
-msgstr "&#199;anakkale"
+msgstr ""
 
 #: i18n/states/TR.php:30
 msgid "&#199;ank&#305;r&#305;"
-msgstr "&#199;ank&#305;r&#305;"
+msgstr ""
 
 #: i18n/states/TR.php:31
 msgid "&#199;orum"
-msgstr "&#199;orum"
+msgstr ""
 
 #: i18n/states/TR.php:32
 msgid "Denizli"
-msgstr "Denizli"
+msgstr ""
 
 #: i18n/states/TR.php:33
 msgid "Diyarbak&#305;r"
-msgstr "Diyarbak&#305;r"
+msgstr ""
 
 #: i18n/states/TR.php:34
 msgid "Edirne"
-msgstr "Edirne"
+msgstr ""
 
 #: i18n/states/TR.php:35
 msgid "Elaz&#305;&#287;"
-msgstr "Elaz&#305;&#287;"
+msgstr ""
 
 #: i18n/states/TR.php:36
 msgid "Erzincan"
-msgstr "Erzincan"
+msgstr ""
 
 #: i18n/states/TR.php:37
 msgid "Erzurum"
-msgstr "Erzurum"
+msgstr ""
 
 #: i18n/states/TR.php:38
 msgid "Eski&#351;ehir"
-msgstr "Eski&#351;ehir"
+msgstr ""
 
 #: i18n/states/TR.php:39
 msgid "Gaziantep"
-msgstr "Gaziantep"
+msgstr ""
 
 #: i18n/states/TR.php:40
 msgid "Giresun"
-msgstr "Giresun"
+msgstr ""
 
 #: i18n/states/TR.php:41
 msgid "G&#252;m&#252;&#351;hane"
-msgstr "G&#252;m&#252;&#351;hane"
+msgstr ""
 
 #: i18n/states/TR.php:42
 msgid "Hakkari"
-msgstr "Hakkari"
+msgstr ""
 
 #: i18n/states/TR.php:43
 msgid "Hatay"
-msgstr "Hatay"
+msgstr ""
 
 #: i18n/states/TR.php:44
 msgid "Isparta"
-msgstr "Isparta"
+msgstr ""
 
 #: i18n/states/TR.php:45
 msgid "&#304;&#231;el"
-msgstr "&#304;&#231;el"
+msgstr ""
 
 #: i18n/states/TR.php:46
 msgid "&#304;stanbul"
-msgstr "&#304;stanbul"
+msgstr ""
 
 #: i18n/states/TR.php:47
 msgid "&#304;zmir"
-msgstr "&#304;zmir"
+msgstr ""
 
 #: i18n/states/TR.php:48
 msgid "Kars"
-msgstr "Kars"
+msgstr ""
 
 #: i18n/states/TR.php:49
 msgid "Kastamonu"
-msgstr "Kastamonu"
+msgstr ""
 
 #: i18n/states/TR.php:50
 msgid "Kayseri"
-msgstr "Kayseri"
+msgstr ""
 
 #: i18n/states/TR.php:51
 msgid "K&#305;rklareli"
-msgstr "K&#305;rklareli"
+msgstr ""
 
 #: i18n/states/TR.php:52
 msgid "K&#305;r&#351;ehir"
-msgstr "K&#305;r&#351;ehir"
+msgstr ""
 
 #: i18n/states/TR.php:53
 msgid "Kocaeli"
-msgstr "Kocaeli"
+msgstr ""
 
 #: i18n/states/TR.php:54
 msgid "Konya"
-msgstr "Konya"
+msgstr ""
 
 #: i18n/states/TR.php:55
 msgid "K&#252;tahya"
-msgstr "K&#252;tahya"
+msgstr ""
 
 #: i18n/states/TR.php:56
 msgid "Malatya"
-msgstr "Malatya"
+msgstr ""
 
 #: i18n/states/TR.php:57
 msgid "Manisa"
-msgstr "Manisa"
+msgstr ""
 
 #: i18n/states/TR.php:58
 msgid "Kahramanmara&#351;"
-msgstr "Kahramanmara&#351;"
+msgstr ""
 
 #: i18n/states/TR.php:59
 msgid "Mardin"
-msgstr "Mardin"
+msgstr ""
 
 #: i18n/states/TR.php:60
 msgid "Mu&#287;la"
-msgstr "Mu&#287;la"
+msgstr ""
 
 #: i18n/states/TR.php:61
 msgid "Mu&#351;"
-msgstr "Mu&#351;"
+msgstr ""
 
 #: i18n/states/TR.php:62
 msgid "Nev&#351;ehir"
-msgstr "Nev&#351;ehir"
+msgstr ""
 
 #: i18n/states/TR.php:63
 msgid "Ni&#287;de"
-msgstr "Ni&#287;de"
+msgstr ""
 
 #: i18n/states/TR.php:64
 msgid "Ordu"
-msgstr "Ordu"
+msgstr ""
 
 #: i18n/states/TR.php:65
 msgid "Rize"
-msgstr "Rize"
+msgstr ""
 
 #: i18n/states/TR.php:66
 msgid "Sakarya"
-msgstr "Sakarya"
+msgstr ""
 
 #: i18n/states/TR.php:67
 msgid "Samsun"
-msgstr "Samsun"
+msgstr ""
 
 #: i18n/states/TR.php:68
 msgid "Siirt"
-msgstr "Siirt"
+msgstr ""
 
 #: i18n/states/TR.php:69
 msgid "Sinop"
-msgstr "Sinop"
+msgstr ""
 
 #: i18n/states/TR.php:70
 msgid "Sivas"
-msgstr "Sivas"
+msgstr ""
 
 #: i18n/states/TR.php:71
 msgid "Tekirda&#287;"
-msgstr "Tekirda&#287;"
+msgstr ""
 
 #: i18n/states/TR.php:72
 msgid "Tokat"
-msgstr "Tokat"
+msgstr ""
 
 #: i18n/states/TR.php:73
 msgid "Trabzon"
-msgstr "Trabzon"
+msgstr ""
 
 #: i18n/states/TR.php:74
 msgid "Tunceli"
-msgstr "Tunceli"
+msgstr ""
 
 #: i18n/states/TR.php:75
 msgid "&#350;anl&#305;urfa"
@@ -2791,375 +2789,375 @@ msgstr ""
 
 #: i18n/states/TR.php:76
 msgid "U&#351;ak"
-msgstr "U&#351;ak"
+msgstr ""
 
 #: i18n/states/TR.php:77
 msgid "Van"
-msgstr "Van"
+msgstr ""
 
 #: i18n/states/TR.php:78
 msgid "Yozgat"
-msgstr "Yozgat"
+msgstr ""
 
 #: i18n/states/TR.php:79
 msgid "Zonguldak"
-msgstr "Zonguldak"
+msgstr ""
 
 #: i18n/states/TR.php:80
 msgid "Aksaray"
-msgstr "Aksaray"
+msgstr ""
 
 #: i18n/states/TR.php:81
 msgid "Bayburt"
-msgstr "Bayburt"
+msgstr ""
 
 #: i18n/states/TR.php:82
 msgid "Karaman"
-msgstr "Karaman"
+msgstr ""
 
 #: i18n/states/TR.php:83
 msgid "K&#305;r&#305;kkale"
-msgstr "K&#305;r&#305;kkale"
+msgstr ""
 
 #: i18n/states/TR.php:84
 msgid "Batman"
-msgstr "Batman"
+msgstr ""
 
 #: i18n/states/TR.php:85
 msgid "&#350;&#305;rnak"
-msgstr "&#350;&#305;rnak"
+msgstr ""
 
 #: i18n/states/TR.php:86
 msgid "Bart&#305;n"
-msgstr "Bart&#305;n"
+msgstr ""
 
 #: i18n/states/TR.php:87
 msgid "Ardahan"
-msgstr "Ardahan"
+msgstr ""
 
 #: i18n/states/TR.php:88
 msgid "I&#287;d&#305;r"
-msgstr "I&#287;d&#305;r"
+msgstr ""
 
 #: i18n/states/TR.php:89
 msgid "Yalova"
-msgstr "Yalova"
+msgstr ""
 
 #: i18n/states/TR.php:90
 msgid "Karab&#252;k"
-msgstr "Karab&#252;k"
+msgstr ""
 
 #: i18n/states/TR.php:91
 msgid "Kilis"
-msgstr "Kilis"
+msgstr ""
 
 #: i18n/states/TR.php:92
 msgid "Osmaniye"
-msgstr "Osmaniye"
+msgstr ""
 
 #: i18n/states/TR.php:93
 msgid "D&#252;zce"
-msgstr "D&#252;zce"
+msgstr ""
 
 #: i18n/states/US.php:13
 msgid "Alabama"
-msgstr "Alabama"
+msgstr ""
 
 #: i18n/states/US.php:14
 msgid "Alaska"
-msgstr "Alaska"
+msgstr ""
 
 #: i18n/states/US.php:15
 msgid "Arizona"
-msgstr "Arizona"
+msgstr ""
 
 #: i18n/states/US.php:16
 msgid "Arkansas"
-msgstr "Arkansas"
+msgstr ""
 
 #: i18n/states/US.php:17
 msgid "California"
-msgstr "California"
+msgstr ""
 
 #: i18n/states/US.php:18
 msgid "Colorado"
-msgstr "Colorado"
+msgstr ""
 
 #: i18n/states/US.php:19
 msgid "Connecticut"
-msgstr "Connecticut"
+msgstr ""
 
 #: i18n/states/US.php:20
 msgid "Delaware"
-msgstr "Delaware"
+msgstr ""
 
 #: i18n/states/US.php:21
 msgid "District Of Columbia"
-msgstr "District Of Columbia"
+msgstr ""
 
 #: i18n/states/US.php:22
 msgid "Florida"
-msgstr "Florida"
+msgstr ""
 
 #: i18n/states/US.php:23 includes/class-wc-countries.php:118
 msgid "Georgia"
-msgstr "Georgia"
+msgstr ""
 
 #: i18n/states/US.php:24
 msgid "Hawaii"
-msgstr "Hawaii"
+msgstr ""
 
 #: i18n/states/US.php:25
 msgid "Idaho"
-msgstr "Idaho"
+msgstr ""
 
 #: i18n/states/US.php:26
 msgid "Illinois"
-msgstr "Illinois"
+msgstr ""
 
 #: i18n/states/US.php:27
 msgid "Indiana"
-msgstr "Indiana"
+msgstr ""
 
 #: i18n/states/US.php:28
 msgid "Iowa"
-msgstr "Iowa"
+msgstr ""
 
 #: i18n/states/US.php:29
 msgid "Kansas"
-msgstr "Kansas"
+msgstr ""
 
 #: i18n/states/US.php:30
 msgid "Kentucky"
-msgstr "Kentucky"
+msgstr ""
 
 #: i18n/states/US.php:31
 msgid "Louisiana"
-msgstr "Louisiana"
+msgstr ""
 
 #: i18n/states/US.php:32
 msgid "Maine"
-msgstr "Maine"
+msgstr ""
 
 #: i18n/states/US.php:33
 msgid "Maryland"
-msgstr "Maryland"
+msgstr ""
 
 #: i18n/states/US.php:34
 msgid "Massachusetts"
-msgstr "Massachusetts"
+msgstr ""
 
 #: i18n/states/US.php:35
 msgid "Michigan"
-msgstr "Michigan"
+msgstr ""
 
 #: i18n/states/US.php:36
 msgid "Minnesota"
-msgstr "Minnesota"
+msgstr ""
 
 #: i18n/states/US.php:37
 msgid "Mississippi"
-msgstr "Mississippi"
+msgstr ""
 
 #: i18n/states/US.php:38
 msgid "Missouri"
-msgstr "Missouri"
+msgstr ""
 
 #: i18n/states/US.php:40
 msgid "Nebraska"
-msgstr "Nebraska"
+msgstr ""
 
 #: i18n/states/US.php:41
 msgid "Nevada"
-msgstr "Nevada"
+msgstr ""
 
 #: i18n/states/US.php:42
 msgid "New Hampshire"
-msgstr "New Hampshire"
+msgstr ""
 
 #: i18n/states/US.php:43
 msgid "New Jersey"
-msgstr "New Jersey"
+msgstr ""
 
 #: i18n/states/US.php:44
 msgid "New Mexico"
-msgstr "New Mexico"
+msgstr ""
 
 #: i18n/states/US.php:45
 msgid "New York"
-msgstr "New York"
+msgstr ""
 
 #: i18n/states/US.php:46
 msgid "North Carolina"
-msgstr "North Carolina"
+msgstr ""
 
 #: i18n/states/US.php:47
 msgid "North Dakota"
-msgstr "North Dakota"
+msgstr ""
 
 #: i18n/states/US.php:48
 msgid "Ohio"
-msgstr "Ohio"
+msgstr ""
 
 #: i18n/states/US.php:49
 msgid "Oklahoma"
-msgstr "Oklahoma"
+msgstr ""
 
 #: i18n/states/US.php:50
 msgid "Oregon"
-msgstr "Oregon"
+msgstr ""
 
 #: i18n/states/US.php:51
 msgid "Pennsylvania"
-msgstr "Pennsylvania"
+msgstr ""
 
 #: i18n/states/US.php:52
 msgid "Rhode Island"
-msgstr "Rhode Island"
+msgstr ""
 
 #: i18n/states/US.php:53
 msgid "South Carolina"
-msgstr "South Carolina"
+msgstr ""
 
 #: i18n/states/US.php:54
 msgid "South Dakota"
-msgstr "South Dakota"
+msgstr ""
 
 #: i18n/states/US.php:55
 msgid "Tennessee"
-msgstr "Tennessee"
+msgstr ""
 
 #: i18n/states/US.php:56
 msgid "Texas"
-msgstr "Texas"
+msgstr ""
 
 #: i18n/states/US.php:57
 msgid "Utah"
-msgstr "Utah"
+msgstr ""
 
 #: i18n/states/US.php:58
 msgid "Vermont"
-msgstr "Vermont"
+msgstr ""
 
 #: i18n/states/US.php:59
 msgid "Virginia"
-msgstr "Virginia"
+msgstr ""
 
 #: i18n/states/US.php:60
 msgid "Washington"
-msgstr "Washington"
+msgstr ""
 
 #: i18n/states/US.php:61
 msgid "West Virginia"
-msgstr "West Virginia"
+msgstr ""
 
 #: i18n/states/US.php:62
 msgid "Wisconsin"
-msgstr "Wisconsin"
+msgstr ""
 
 #: i18n/states/US.php:63
 msgid "Wyoming"
-msgstr "Wyoming"
+msgstr ""
 
 #: i18n/states/US.php:64
 msgid "Armed Forces (AA)"
-msgstr "Armed Forces (AA)"
+msgstr ""
 
 #: i18n/states/US.php:65
 msgid "Armed Forces (AE)"
-msgstr "Armed Forces (AE)"
+msgstr ""
 
 #: i18n/states/US.php:66
 msgid "Armed Forces (AP)"
-msgstr "Armed Forces (AP)"
+msgstr ""
 
 #: i18n/states/US.php:67
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr ""
 
 #: i18n/states/US.php:68
 msgid "Guam"
-msgstr "Guam"
+msgstr ""
 
 #: i18n/states/US.php:69
 msgid "Northern Mariana Islands"
-msgstr "Northern Mariana Islands"
+msgstr ""
 
 #: i18n/states/US.php:70
 msgid "Puerto Rico"
-msgstr "Puerto Rico"
+msgstr ""
 
 #: i18n/states/US.php:71
 msgid "US Minor Outlying Islands"
-msgstr "US Minor Outlying Islands"
+msgstr ""
 
 #: i18n/states/US.php:72
 msgid "US Virgin Islands"
-msgstr "US Virgin Islands"
+msgstr ""
 
 #: i18n/states/ZA.php:13
 msgid "Eastern Cape"
-msgstr "Eastern Cape"
+msgstr ""
 
 #: i18n/states/ZA.php:14
 msgid "Free State"
-msgstr "Free State"
+msgstr ""
 
 #: i18n/states/ZA.php:15
 msgid "Gauteng"
-msgstr "Gauteng"
+msgstr ""
 
 #: i18n/states/ZA.php:16
 msgid "KwaZulu-Natal"
-msgstr "KwaZulu-Natal"
+msgstr ""
 
 #: i18n/states/ZA.php:17
 msgid "Limpopo"
-msgstr "Limpopo"
+msgstr ""
 
 #: i18n/states/ZA.php:18
 msgid "Mpumalanga"
-msgstr "Mpumalanga"
+msgstr ""
 
 #: i18n/states/ZA.php:19
 msgid "Northern Cape"
-msgstr "Northern Cape"
+msgstr ""
 
 #: i18n/states/ZA.php:20
 msgid "North West"
-msgstr "North West"
+msgstr ""
 
 #: i18n/states/ZA.php:21
 msgid "Western Cape"
-msgstr "Western Cape"
+msgstr ""
 
 #: i18n/strings.php:16
 msgid "pending"
-msgstr "chờ xử lý"
+msgstr ""
 
 #: i18n/strings.php:17
 msgid "failed"
-msgstr "thất bại"
+msgstr ""
 
 #: i18n/strings.php:18
 msgid "on-hold"
-msgstr "đang chờ"
+msgstr ""
 
 #: i18n/strings.php:19
 msgid "processing"
-msgstr "đang xử lý"
+msgstr ""
 
 #: i18n/strings.php:20
 msgid "completed"
-msgstr "thành công"
+msgstr ""
 
 #: i18n/strings.php:21
 msgid "refunded"
-msgstr "hoàn lại tiền"
+msgstr ""
 
 #: i18n/strings.php:22
 msgid "cancelled"
-msgstr "đã hủy"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:570
 #: includes/emails/class-wc-email-customer-completed-order.php:140
@@ -3172,7 +3170,7 @@ msgstr "đã hủy"
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:64
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:49
 msgid "Enable/Disable"
-msgstr "Bật/Tắt"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:572
 #: includes/emails/class-wc-email-customer-completed-order.php:142
@@ -3183,7 +3181,7 @@ msgstr ""
 #: includes/abstracts/abstract-wc-email.php:576
 #: includes/emails/class-wc-email-customer-invoice.php:146
 msgid "Email subject"
-msgstr "Tiêu đề email"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:578
 #: includes/abstracts/abstract-wc-email.php:585
@@ -3201,35 +3199,35 @@ msgstr ""
 #: includes/abstracts/abstract-wc-email.php:583
 #: includes/emails/class-wc-email-customer-invoice.php:153
 msgid "Email heading"
-msgstr "Phần đầu Email"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:590
 #: includes/emails/class-wc-email-customer-completed-order.php:174
 #: includes/emails/class-wc-email-customer-invoice.php:174
 #: includes/emails/class-wc-email-new-order.php:147
 msgid "Email type"
-msgstr "Kiểu email"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:592
 #: includes/emails/class-wc-email-customer-completed-order.php:176
 #: includes/emails/class-wc-email-customer-invoice.php:176
 #: includes/emails/class-wc-email-new-order.php:149
 msgid "Choose which format of email to send."
-msgstr "Chọn định dạng email gửi đi"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:596
 #: includes/emails/class-wc-email-customer-completed-order.php:180
 #: includes/emails/class-wc-email-customer-invoice.php:180
 #: includes/emails/class-wc-email-new-order.php:153
 msgid "Plain text"
-msgstr "Văn bản thuần túy"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:597
 #: includes/emails/class-wc-email-customer-completed-order.php:181
 #: includes/emails/class-wc-email-customer-invoice.php:181
 #: includes/emails/class-wc-email-new-order.php:154
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:598
 #: includes/emails/class-wc-email-customer-completed-order.php:182
@@ -3241,7 +3239,7 @@ msgstr ""
 #: includes/abstracts/abstract-wc-email.php:634
 #: includes/abstracts/abstract-wc-email.php:655
 msgid "Could not write to template file."
-msgstr "Không thể ghi vào tệp tin mẫu."
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:686
 msgid "Template file copied to theme."
@@ -3255,7 +3253,7 @@ msgstr ""
 #: includes/abstracts/abstract-wc-integration.php:30
 #: includes/abstracts/abstract-wc-settings-api.php:39 woocommerce.php:181
 msgid "Settings"
-msgstr "Thiết lập"
+msgstr "ការកំណត់"
 
 #: includes/abstracts/abstract-wc-email.php:715
 msgid "HTML template"
@@ -3267,7 +3265,7 @@ msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:737
 msgid "Delete template file"
-msgstr "Xóa file mẫu"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:740
 msgid ""
@@ -3277,7 +3275,7 @@ msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:755
 msgid "Copy file to theme"
-msgstr "Sao chép file tới giao diện"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:758
 msgid ""
@@ -3287,27 +3285,27 @@ msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:769
 msgid "File was not found."
-msgstr "Không tìm thấy file."
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:794
 msgid "View template"
-msgstr "Xem giao diện"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:795
 msgid "Hide template"
-msgstr "Ẩn template"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-email.php:806
 msgid "Are you sure you want to delete this template file?"
-msgstr "Chắc chắn muốn xóa file template này"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:238
 msgid "Card Number"
-msgstr "Số thẻ"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:242
 msgid "Expiry (MM/YY)"
-msgstr "Ngày hết hạn (MM/YY)"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:243
 msgid "MM / YY"
@@ -3315,7 +3313,7 @@ msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:246
 msgid "Card Code"
-msgstr "Số thẻ"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:247
 msgid "CVC"
@@ -3325,67 +3323,67 @@ msgstr ""
 #: includes/class-wc-product-simple.php:48
 #: includes/class-wc-product-variation.php:215
 msgid "Add to cart"
-msgstr "Thêm vào giỏ hàng"
+msgstr "ដាក់​ចូល​រទេះ"
 
 #: includes/abstracts/abstract-wc-product.php:485
 msgid "Read more"
-msgstr "Đọc tiếp"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:593
 #: includes/abstracts/abstract-wc-product.php:598
 #: includes/abstracts/abstract-wc-product.php:618
 msgid "In stock"
-msgstr "Còn hàng"
+msgstr "មាន​ស្តុក"
 
 #: includes/abstracts/abstract-wc-product.php:598
 msgid "Only %s left in stock"
-msgstr "Chỉ còn lại %s sản phẩm"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:601
 msgid "%s in stock"
-msgstr "còn hàng: %s"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:608
 msgid "(backorders allowed)"
-msgstr "(cho phép đặt hàng trước)"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:615
 #: includes/abstracts/abstract-wc-product.php:628 templates/cart/cart.php:74
 msgid "Available on backorder"
-msgstr "Cho phép đặt hàng trước"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:621
 #: includes/abstracts/abstract-wc-product.php:631
 #: includes/abstracts/abstract-wc-product.php:635
 msgid "Out of stock"
-msgstr "Hết hàng"
+msgstr "អស់​ពី​ស្តុក"
 
 #: includes/abstracts/abstract-wc-product.php:928
 #: includes/abstracts/abstract-wc-product.php:934
 #: includes/class-wc-cart.php:1450 includes/class-wc-order.php:882
 #: includes/class-wc-product-variation.php:316
 msgid "Free!"
-msgstr "Miễn phí"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:950
 msgctxt "min_price"
 msgid "From:"
-msgstr "Từ"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:1060
 #: templates/single-product/rating.php:23
 msgid "Rated %s out of 5"
-msgstr "%s / 5 điểm"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:1062
 #: templates/single-product/rating.php:25
 #: templates/single-product/review.php:27
 msgid "out of 5"
-msgstr "trên 5"
+msgstr ""
 
 #: includes/abstracts/abstract-wc-product.php:1421
 msgid "%s &ndash; %s"
-msgstr "%s &ndash; %s"
+msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:85
 msgid "Consumer Key is missing"
@@ -3401,7 +3399,7 @@ msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:140
 msgid "%s parameter is missing"
-msgstr "%s tham số bị mất"
+msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:174
 msgid "Consumer Key is invalid"
@@ -3409,7 +3407,7 @@ msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:224
 msgid "Invalid Signature - failed to sort parameters"
-msgstr "Chữ ký không hợp lệ - không thể sắp xếp các tham số"
+msgstr ""
 
 #: includes/api/class-wc-api-authentication.php:238
 msgid "Invalid Signature - signature method is invalid"
@@ -3567,7 +3565,7 @@ msgstr ""
 
 #: includes/api/class-wc-api-resource.php:328
 msgid "Deleted %s"
-msgstr "Đã xóa %s"
+msgstr ""
 
 #: includes/api/class-wc-api-server.php:165
 msgid "Invalid authentication method"
@@ -3587,16 +3585,16 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:164
 msgid "Sorry, your session has expired."
-msgstr "Rấ tiếc, phiên truy cập của bạn đã hết hạn."
+msgstr ""
 
 #: includes/class-wc-ajax.php:164
 msgid "Return to homepage"
-msgstr "Quay lại trang chủ"
+msgstr ""
 
 #: includes/class-wc-ajax.php:318 includes/class-wc-ajax.php:351
 #: includes/class-wc-ajax.php:376
 msgid "You do not have sufficient permissions to access this page."
-msgstr "Bạn không đủ quyền truy cập trang này."
+msgstr ""
 
 #: includes/class-wc-ajax.php:322 includes/class-wc-ajax.php:355
 #: includes/class-wc-ajax.php:380
@@ -3609,16 +3607,16 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:613
 msgid "Standard"
-msgstr "Chuẩn"
+msgstr "ស្តង់ដារ"
 
 #: includes/class-wc-ajax.php:888
 msgid "File %d"
-msgstr "File %d"
+msgstr ""
 
 #: includes/class-wc-ajax.php:1086 includes/class-wc-ajax.php:1087
 #: includes/class-wc-order.php:1592
 msgid "Item #%s stock reduced from %s to %s."
-msgstr "Số lượng sản phẩm #%s đã được giảm từ %s xuống %s."
+msgstr ""
 
 #: includes/class-wc-ajax.php:1095
 msgid ""
@@ -3640,19 +3638,19 @@ msgstr ""
 #: includes/widgets/class-wc-widget-product-categories.php:39
 #: templates/single-product-reviews.php:62
 msgid "Name"
-msgstr "Tên"
+msgstr "ឈ្មោះ"
 
 #: includes/class-wc-ajax.php:1161
 msgid "Value"
-msgstr "Giá trị"
+msgstr ""
 
 #: includes/class-wc-ajax.php:1384
 msgid "Delete note"
-msgstr "Xóa ghi chú"
+msgstr "កំណត់ត្រា​នៃ​ការ​លុប"
 
 #: includes/class-wc-ajax.php:1532
 msgid "Guest"
-msgstr "Khách"
+msgstr "ភ្ញៀវ"
 
 #: includes/class-wc-cache-helper.php:105
 msgid ""
@@ -3677,7 +3675,7 @@ msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
 "stock). Please edit your cart and try again. We apologise for any "
 "inconvenience caused."
-msgstr "Rất tiếc, chúng tôi không đủ số lượng sản phẩm \"%s\" theo đơn hàng của bạn (còn %s sản phẩm). Vui lòng sửa lại giỏ hàng và thử lại. Chúng tôi thành thật xin lỗi vì phiền toái này."
+msgstr ""
 
 #: includes/class-wc-cart.php:467
 msgid ""
@@ -3712,7 +3710,7 @@ msgstr ""
 #: includes/class-wc-cart.php:867 includes/class-wc-frontend-scripts.php:157
 #: includes/wc-cart-functions.php:96 templates/cart/mini-cart.php:64
 msgid "View Cart"
-msgstr "Xem giỏ hàng"
+msgstr ""
 
 #: includes/class-wc-cart.php:836
 msgid "You cannot add another &quot;%s&quot; to your cart."
@@ -3730,47 +3728,47 @@ msgstr ""
 #: includes/class-wc-payment-gateways.php:55 includes/class-wc-shipping.php:64
 #: includes/class-wc-shipping.php:73 woocommerce.php:102 woocommerce.php:111
 msgid "Cheatin&#8217; huh?"
-msgstr "Cheatin&#8217; huh?"
+msgstr ""
 
 #: includes/class-wc-checkout.php:97
 msgid "Account username"
-msgstr "Tên đăng nhập tài khoản"
+msgstr ""
 
 #: includes/class-wc-checkout.php:99
 msgctxt "placeholder"
 msgid "Username"
-msgstr "Tên tài khoản"
+msgstr "ឈ្មោះ​អ្នកប្រើ"
 
 #: includes/class-wc-checkout.php:106
 msgid "Account password"
-msgstr "Mật khẩu tài khoản"
+msgstr ""
 
 #: includes/class-wc-checkout.php:108
 msgctxt "placeholder"
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr ""
 
 #: includes/class-wc-checkout.php:116
 msgid "Order Notes"
-msgstr "Ghi chú"
+msgstr "កំណត់​ត្រា​បញ្ជា​ទិញ"
 
 #: includes/class-wc-checkout.php:117
 msgctxt "placeholder"
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr "Ghi chú về đơn hàng, ví dụ: lưu ý khi giao hàng."
+msgstr ""
 
 #: includes/class-wc-checkout.php:176
 msgid "Order &ndash; %s"
-msgstr "Đơn hàng &ndash; %s"
+msgstr ""
 
 #: includes/class-wc-checkout.php:176
 msgctxt "Order date parsed by strftime"
 msgid "%b %d, %Y @ %I:%M %p"
-msgstr "%b %d, %Y @ %I:%M %p"
+msgstr ""
 
 #: includes/class-wc-checkout.php:287
 msgid "Backordered"
-msgstr "Đặt hàng trước"
+msgstr ""
 
 #: includes/class-wc-checkout.php:423
 msgid ""
@@ -3780,28 +3778,28 @@ msgstr ""
 
 #: includes/class-wc-checkout.php:500 includes/class-wc-form-handler.php:88
 msgid "is a required field."
-msgstr "là ô bắt buộc"
+msgstr ""
 
 #: includes/class-wc-checkout.php:512 includes/class-wc-form-handler.php:99
 #: includes/shortcodes/class-wc-shortcode-cart.php:43
 msgid "Please enter a valid postcode/ZIP."
-msgstr "Vui lòng nhập chính xác mã vùng"
+msgstr ""
 
 #: includes/class-wc-checkout.php:521 includes/class-wc-form-handler.php:108
 msgid "is not a valid phone number."
-msgstr "không phải là số điện thoại hợp lệ."
+msgstr ""
 
 #: includes/class-wc-checkout.php:527 includes/class-wc-form-handler.php:115
 msgid "is not a valid email address."
-msgstr "không phải là địa chỉ email hợp lệ."
+msgstr ""
 
 #: includes/class-wc-checkout.php:542
 msgid "is not valid. Please enter one of the following:"
-msgstr "không hợp lệ. Vui lòng nhập một trong số sau:"
+msgstr ""
 
 #: includes/class-wc-checkout.php:587
 msgid "You must accept our Terms &amp; Conditions."
-msgstr "Bạn phải đồng ý với các Điều khoản &amp; Quy định."
+msgstr ""
 
 #: includes/class-wc-checkout.php:592
 msgid ""
@@ -3811,987 +3809,987 @@ msgstr ""
 
 #: includes/class-wc-checkout.php:600
 msgid "Invalid shipping method."
-msgstr "Phương thức giao hàng không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-checkout.php:613
 msgid "Invalid payment method."
-msgstr "Phương thức thanh toán không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-comments.php:109
 msgid "Please rate the product."
-msgstr "Vui lòng chấm điểm sản phẩm này."
+msgstr ""
 
 #: includes/class-wc-countries.php:37
 msgid "Afghanistan"
-msgstr "Afghanistan"
+msgstr ""
 
 #: includes/class-wc-countries.php:38
 msgid "&#197;land Islands"
-msgstr "&#197;land Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:39
 msgid "Albania"
-msgstr "Albania"
+msgstr ""
 
 #: includes/class-wc-countries.php:40
 msgid "Algeria"
-msgstr "Algeria"
+msgstr ""
 
 #: includes/class-wc-countries.php:41
 msgid "Andorra"
-msgstr "Andorra"
+msgstr ""
 
 #: includes/class-wc-countries.php:42
 msgid "Angola"
-msgstr "Angola"
+msgstr ""
 
 #: includes/class-wc-countries.php:43
 msgid "Anguilla"
-msgstr "Anguilla"
+msgstr ""
 
 #: includes/class-wc-countries.php:44
 msgid "Antarctica"
-msgstr "Antarctica"
+msgstr ""
 
 #: includes/class-wc-countries.php:45
 msgid "Antigua and Barbuda"
-msgstr "Antigua và Barbuda"
+msgstr ""
 
 #: includes/class-wc-countries.php:46
 msgid "Argentina"
-msgstr "Argentina"
+msgstr ""
 
 #: includes/class-wc-countries.php:47
 msgid "Armenia"
-msgstr "Armenia"
+msgstr ""
 
 #: includes/class-wc-countries.php:48
 msgid "Aruba"
-msgstr "Aruba"
+msgstr ""
 
 #: includes/class-wc-countries.php:49
 msgid "Australia"
-msgstr "Úc"
+msgstr ""
 
 #: includes/class-wc-countries.php:50
 msgid "Austria"
-msgstr "Austria"
+msgstr ""
 
 #: includes/class-wc-countries.php:51
 msgid "Azerbaijan"
-msgstr "Azerbaijan"
+msgstr ""
 
 #: includes/class-wc-countries.php:52
 msgid "Bahamas"
-msgstr "Bahamas"
+msgstr ""
 
 #: includes/class-wc-countries.php:53
 msgid "Bahrain"
-msgstr "Bahrain"
+msgstr ""
 
 #: includes/class-wc-countries.php:54
 msgid "Bangladesh"
-msgstr "Bangladesh"
+msgstr ""
 
 #: includes/class-wc-countries.php:55
 msgid "Barbados"
-msgstr "Barbados"
+msgstr ""
 
 #: includes/class-wc-countries.php:56
 msgid "Belarus"
-msgstr "Belarus"
+msgstr ""
 
 #: includes/class-wc-countries.php:57
 msgid "Belgium"
-msgstr "Bỉ"
+msgstr ""
 
 #: includes/class-wc-countries.php:58
 msgid "Belau"
-msgstr "Belau"
+msgstr ""
 
 #: includes/class-wc-countries.php:59
 msgid "Belize"
-msgstr "Belize"
+msgstr ""
 
 #: includes/class-wc-countries.php:60
 msgid "Benin"
-msgstr "Benin"
+msgstr ""
 
 #: includes/class-wc-countries.php:61
 msgid "Bermuda"
-msgstr "Bermuda"
+msgstr ""
 
 #: includes/class-wc-countries.php:62
 msgid "Bhutan"
-msgstr "Bhutan"
+msgstr ""
 
 #: includes/class-wc-countries.php:63
 msgid "Bolivia"
-msgstr "Bolivia"
+msgstr ""
 
 #: includes/class-wc-countries.php:64
 msgid "Bonaire, Saint Eustatius and Saba"
-msgstr "Bonaire, Saint Eustatius và Saba"
+msgstr ""
 
 #: includes/class-wc-countries.php:65
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia và Herzegovina"
+msgstr ""
 
 #: includes/class-wc-countries.php:66
 msgid "Botswana"
-msgstr "Botswana"
+msgstr ""
 
 #: includes/class-wc-countries.php:67
 msgid "Bouvet Island"
-msgstr "Đảo Bouvet"
+msgstr ""
 
 #: includes/class-wc-countries.php:68
 msgid "Brazil"
-msgstr "Brazil"
+msgstr ""
 
 #: includes/class-wc-countries.php:69
 msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
+msgstr ""
 
 #: includes/class-wc-countries.php:70
 msgid "British Virgin Islands"
-msgstr "British Virgin Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:71
 msgid "Brunei"
-msgstr "Brunei"
+msgstr ""
 
 #: includes/class-wc-countries.php:72
 msgid "Bulgaria"
-msgstr "Bulgaria"
+msgstr ""
 
 #: includes/class-wc-countries.php:73
 msgid "Burkina Faso"
-msgstr "Burkina Faso"
+msgstr ""
 
 #: includes/class-wc-countries.php:74
 msgid "Burundi"
-msgstr "Burundi"
+msgstr ""
 
 #: includes/class-wc-countries.php:75
 msgid "Cambodia"
-msgstr "Campuchia"
+msgstr ""
 
 #: includes/class-wc-countries.php:76
 msgid "Cameroon"
-msgstr "Cameroon"
+msgstr ""
 
 #: includes/class-wc-countries.php:77
 msgid "Canada"
-msgstr "Canada"
+msgstr ""
 
 #: includes/class-wc-countries.php:78
 msgid "Cape Verde"
-msgstr "Cape Verde"
+msgstr ""
 
 #: includes/class-wc-countries.php:79
 msgid "Cayman Islands"
-msgstr "Cayman Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:80
 msgid "Central African Republic"
-msgstr "Central African Republic"
+msgstr ""
 
 #: includes/class-wc-countries.php:81
 msgid "Chad"
-msgstr "Chad"
+msgstr ""
 
 #: includes/class-wc-countries.php:82
 msgid "Chile"
-msgstr "Chile"
+msgstr ""
 
 #: includes/class-wc-countries.php:83
 msgid "China"
-msgstr "Trung Quốc"
+msgstr ""
 
 #: includes/class-wc-countries.php:84
 msgid "Christmas Island"
-msgstr "Christmas Island"
+msgstr ""
 
 #: includes/class-wc-countries.php:85
 msgid "Cocos (Keeling) Islands"
-msgstr "Cocos (Keeling) Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:86
 msgid "Colombia"
-msgstr "Colombia"
+msgstr ""
 
 #: includes/class-wc-countries.php:87
 msgid "Comoros"
-msgstr "Comoros"
+msgstr ""
 
 #: includes/class-wc-countries.php:88
 msgid "Congo (Brazzaville)"
-msgstr "Congo (Brazzaville)"
+msgstr ""
 
 #: includes/class-wc-countries.php:89
 msgid "Congo (Kinshasa)"
-msgstr "Congo (Kinshasa)"
+msgstr ""
 
 #: includes/class-wc-countries.php:90
 msgid "Cook Islands"
-msgstr "Cook Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:91
 msgid "Costa Rica"
-msgstr "Costa Rica"
+msgstr ""
 
 #: includes/class-wc-countries.php:92
 msgid "Croatia"
-msgstr "Croatia"
+msgstr ""
 
 #: includes/class-wc-countries.php:93
 msgid "Cuba"
-msgstr "Cuba"
+msgstr ""
 
 #: includes/class-wc-countries.php:94
 msgid "Cura&Ccedil;ao"
-msgstr "Cura&Ccedil;ao"
+msgstr ""
 
 #: includes/class-wc-countries.php:95
 msgid "Cyprus"
-msgstr "Cyprus"
+msgstr ""
 
 #: includes/class-wc-countries.php:96
 msgid "Czech Republic"
-msgstr "Cộng hòa Séc"
+msgstr ""
 
 #: includes/class-wc-countries.php:97
 msgid "Denmark"
-msgstr "Đan Mạch"
+msgstr ""
 
 #: includes/class-wc-countries.php:98
 msgid "Djibouti"
-msgstr "Djibouti"
+msgstr ""
 
 #: includes/class-wc-countries.php:99
 msgid "Dominica"
-msgstr "Dominica"
+msgstr ""
 
 #: includes/class-wc-countries.php:100
 msgid "Dominican Republic"
-msgstr "Dominican Republic"
+msgstr ""
 
 #: includes/class-wc-countries.php:101
 msgid "Ecuador"
-msgstr "Ecuador"
+msgstr ""
 
 #: includes/class-wc-countries.php:102
 msgid "Egypt"
-msgstr "Egypt"
+msgstr ""
 
 #: includes/class-wc-countries.php:103
 msgid "El Salvador"
-msgstr "El Salvador"
+msgstr ""
 
 #: includes/class-wc-countries.php:104
 msgid "Equatorial Guinea"
-msgstr "Equatorial Guinea"
+msgstr ""
 
 #: includes/class-wc-countries.php:105
 msgid "Eritrea"
-msgstr "Eritrea"
+msgstr ""
 
 #: includes/class-wc-countries.php:106
 msgid "Estonia"
-msgstr "Estonia"
+msgstr ""
 
 #: includes/class-wc-countries.php:107
 msgid "Ethiopia"
-msgstr "Ethiopia"
+msgstr ""
 
 #: includes/class-wc-countries.php:108
 msgid "Falkland Islands"
-msgstr "Falkland Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:109
 msgid "Faroe Islands"
-msgstr "Faroe Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:110
 msgid "Fiji"
-msgstr "Fiji"
+msgstr ""
 
 #: includes/class-wc-countries.php:111
 msgid "Finland"
-msgstr "Phần Lan"
+msgstr ""
 
 #: includes/class-wc-countries.php:112
 msgid "France"
-msgstr "Pháp"
+msgstr ""
 
 #: includes/class-wc-countries.php:113
 msgid "French Guiana"
-msgstr "French Guiana"
+msgstr ""
 
 #: includes/class-wc-countries.php:114
 msgid "French Polynesia"
-msgstr "French Polynesia"
+msgstr ""
 
 #: includes/class-wc-countries.php:115
 msgid "French Southern Territories"
-msgstr "French Southern Territories"
+msgstr ""
 
 #: includes/class-wc-countries.php:116
 msgid "Gabon"
-msgstr "Gabon"
+msgstr ""
 
 #: includes/class-wc-countries.php:117
 msgid "Gambia"
-msgstr "Gambia"
+msgstr ""
 
 #: includes/class-wc-countries.php:119
 msgid "Germany"
-msgstr "Đức"
+msgstr ""
 
 #: includes/class-wc-countries.php:120
 msgid "Ghana"
-msgstr "Ghana"
+msgstr ""
 
 #: includes/class-wc-countries.php:121
 msgid "Gibraltar"
-msgstr "Gibraltar"
+msgstr ""
 
 #: includes/class-wc-countries.php:122
 msgid "Greece"
-msgstr "Hy Lạp"
+msgstr ""
 
 #: includes/class-wc-countries.php:123
 msgid "Greenland"
-msgstr "Greenland"
+msgstr ""
 
 #: includes/class-wc-countries.php:124
 msgid "Grenada"
-msgstr "Grenada"
+msgstr ""
 
 #: includes/class-wc-countries.php:125
 msgid "Guadeloupe"
-msgstr "Guadeloupe"
+msgstr ""
 
 #: includes/class-wc-countries.php:126
 msgid "Guatemala"
-msgstr "Guatemala"
+msgstr ""
 
 #: includes/class-wc-countries.php:127
 msgid "Guernsey"
-msgstr "Guernsey"
+msgstr ""
 
 #: includes/class-wc-countries.php:128
 msgid "Guinea"
-msgstr "Guinea"
+msgstr ""
 
 #: includes/class-wc-countries.php:129
 msgid "Guinea-Bissau"
-msgstr "Guinea-Bissau"
+msgstr ""
 
 #: includes/class-wc-countries.php:130
 msgid "Guyana"
-msgstr "Guyana"
+msgstr ""
 
 #: includes/class-wc-countries.php:131
 msgid "Haiti"
-msgstr "Haiti"
+msgstr ""
 
 #: includes/class-wc-countries.php:132
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard Island và McDonald Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:133
 msgid "Honduras"
-msgstr "Honduras"
+msgstr ""
 
 #: includes/class-wc-countries.php:134
 msgid "Hong Kong"
-msgstr "Hồng Kông"
+msgstr ""
 
 #: includes/class-wc-countries.php:135
 msgid "Hungary"
-msgstr "Hungary"
+msgstr ""
 
 #: includes/class-wc-countries.php:136
 msgid "Iceland"
-msgstr "Iceland"
+msgstr ""
 
 #: includes/class-wc-countries.php:137
 msgid "India"
-msgstr "Ấn Độ"
+msgstr ""
 
 #: includes/class-wc-countries.php:138
 msgid "Indonesia"
-msgstr "Indonesia"
+msgstr ""
 
 #: includes/class-wc-countries.php:139
 msgid "Iran"
-msgstr "Iran"
+msgstr ""
 
 #: includes/class-wc-countries.php:140
 msgid "Iraq"
-msgstr "Iraq"
+msgstr ""
 
 #: includes/class-wc-countries.php:141
 msgid "Republic of Ireland"
-msgstr "Republic of Ireland"
+msgstr ""
 
 #: includes/class-wc-countries.php:142
 msgid "Isle of Man"
-msgstr "Isle of Man"
+msgstr ""
 
 #: includes/class-wc-countries.php:143
 msgid "Israel"
-msgstr "Israel"
+msgstr ""
 
 #: includes/class-wc-countries.php:144
 msgid "Italy"
-msgstr "Ý"
+msgstr ""
 
 #: includes/class-wc-countries.php:145
 msgid "Ivory Coast"
-msgstr "Ivory Coast"
+msgstr ""
 
 #: includes/class-wc-countries.php:146
 msgid "Jamaica"
-msgstr "Jamaica"
+msgstr ""
 
 #: includes/class-wc-countries.php:147
 msgid "Japan"
-msgstr "Nhật Bản"
+msgstr ""
 
 #: includes/class-wc-countries.php:148
 msgid "Jersey"
-msgstr "Jersey"
+msgstr ""
 
 #: includes/class-wc-countries.php:149
 msgid "Jordan"
-msgstr "Jordan"
+msgstr ""
 
 #: includes/class-wc-countries.php:150
 msgid "Kazakhstan"
-msgstr "Kazakhstan"
+msgstr ""
 
 #: includes/class-wc-countries.php:151
 msgid "Kenya"
-msgstr "Kenya"
+msgstr ""
 
 #: includes/class-wc-countries.php:152
 msgid "Kiribati"
-msgstr "Kiribati"
+msgstr ""
 
 #: includes/class-wc-countries.php:153
 msgid "Kuwait"
-msgstr "Kuwait"
+msgstr ""
 
 #: includes/class-wc-countries.php:154
 msgid "Kyrgyzstan"
-msgstr "Kyrgyzstan"
+msgstr ""
 
 #: includes/class-wc-countries.php:155
 msgid "Laos"
-msgstr "Lào"
+msgstr ""
 
 #: includes/class-wc-countries.php:156
 msgid "Latvia"
-msgstr "Latvia"
+msgstr ""
 
 #: includes/class-wc-countries.php:157
 msgid "Lebanon"
-msgstr "Lebanon"
+msgstr ""
 
 #: includes/class-wc-countries.php:158
 msgid "Lesotho"
-msgstr "Lesotho"
+msgstr ""
 
 #: includes/class-wc-countries.php:159
 msgid "Liberia"
-msgstr "Liberia"
+msgstr ""
 
 #: includes/class-wc-countries.php:160
 msgid "Libya"
-msgstr "Libya"
+msgstr ""
 
 #: includes/class-wc-countries.php:161
 msgid "Liechtenstein"
-msgstr "Liechtenstein"
+msgstr ""
 
 #: includes/class-wc-countries.php:162
 msgid "Lithuania"
-msgstr "Lithuania"
+msgstr ""
 
 #: includes/class-wc-countries.php:163
 msgid "Luxembourg"
-msgstr "Luxembourg"
+msgstr ""
 
 #: includes/class-wc-countries.php:164
 msgid "Macao S.A.R., China"
-msgstr "Ma Cao"
+msgstr ""
 
 #: includes/class-wc-countries.php:165
 msgid "Macedonia"
-msgstr "Macedonia"
+msgstr ""
 
 #: includes/class-wc-countries.php:166
 msgid "Madagascar"
-msgstr "Madagascar"
+msgstr ""
 
 #: includes/class-wc-countries.php:167
 msgid "Malawi"
-msgstr "Malawi"
+msgstr ""
 
 #: includes/class-wc-countries.php:168
 msgid "Malaysia"
-msgstr "Malaysia"
+msgstr ""
 
 #: includes/class-wc-countries.php:169
 msgid "Maldives"
-msgstr "Maldives"
+msgstr ""
 
 #: includes/class-wc-countries.php:170
 msgid "Mali"
-msgstr "Mali"
+msgstr ""
 
 #: includes/class-wc-countries.php:171
 msgid "Malta"
-msgstr "Malta"
+msgstr ""
 
 #: includes/class-wc-countries.php:172
 msgid "Marshall Islands"
-msgstr "Marshall Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:173
 msgid "Martinique"
-msgstr "Martinique"
+msgstr ""
 
 #: includes/class-wc-countries.php:174
 msgid "Mauritania"
-msgstr "Mauritania"
+msgstr ""
 
 #: includes/class-wc-countries.php:175
 msgid "Mauritius"
-msgstr "Mauritius"
+msgstr ""
 
 #: includes/class-wc-countries.php:176
 msgid "Mayotte"
-msgstr "Mayotte"
+msgstr ""
 
 #: includes/class-wc-countries.php:177
 msgid "Mexico"
-msgstr "Mexico"
+msgstr ""
 
 #: includes/class-wc-countries.php:178
 msgid "Micronesia"
-msgstr "Micronesia"
+msgstr ""
 
 #: includes/class-wc-countries.php:179
 msgid "Moldova"
-msgstr "Moldova"
+msgstr ""
 
 #: includes/class-wc-countries.php:180
 msgid "Monaco"
-msgstr "Monaco"
+msgstr ""
 
 #: includes/class-wc-countries.php:181
 msgid "Mongolia"
-msgstr "Mông Cổ"
+msgstr ""
 
 #: includes/class-wc-countries.php:182
 msgid "Montenegro"
-msgstr "Montenegro"
+msgstr ""
 
 #: includes/class-wc-countries.php:183
 msgid "Montserrat"
-msgstr "Montserrat"
+msgstr ""
 
 #: includes/class-wc-countries.php:184
 msgid "Morocco"
-msgstr "Morocco"
+msgstr ""
 
 #: includes/class-wc-countries.php:185
 msgid "Mozambique"
-msgstr "Mozambique"
+msgstr ""
 
 #: includes/class-wc-countries.php:186
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr ""
 
 #: includes/class-wc-countries.php:187
 msgid "Namibia"
-msgstr "Namibia"
+msgstr ""
 
 #: includes/class-wc-countries.php:188
 msgid "Nauru"
-msgstr "Nauru"
+msgstr ""
 
 #: includes/class-wc-countries.php:189
 msgid "Nepal"
-msgstr "Nepal"
+msgstr ""
 
 #: includes/class-wc-countries.php:190
 msgid "Netherlands"
-msgstr "Netherlands"
+msgstr ""
 
 #: includes/class-wc-countries.php:191
 msgid "Netherlands Antilles"
-msgstr "Netherlands Antilles"
+msgstr ""
 
 #: includes/class-wc-countries.php:192
 msgid "New Caledonia"
-msgstr "New Caledonia"
+msgstr ""
 
 #: includes/class-wc-countries.php:193
 msgid "New Zealand"
-msgstr "New Zealand"
+msgstr ""
 
 #: includes/class-wc-countries.php:194
 msgid "Nicaragua"
-msgstr "Nicaragua"
+msgstr ""
 
 #: includes/class-wc-countries.php:195
 msgid "Niger"
-msgstr "Niger"
+msgstr ""
 
 #: includes/class-wc-countries.php:196
 msgid "Nigeria"
-msgstr "Nigeria"
+msgstr ""
 
 #: includes/class-wc-countries.php:197
 msgid "Niue"
-msgstr "Niue"
+msgstr ""
 
 #: includes/class-wc-countries.php:198
 msgid "Norfolk Island"
-msgstr "Norfolk Island"
+msgstr ""
 
 #: includes/class-wc-countries.php:199
 msgid "North Korea"
-msgstr "Triều Tiên"
+msgstr ""
 
 #: includes/class-wc-countries.php:200
 msgid "Norway"
-msgstr "Na Uy"
+msgstr ""
 
 #: includes/class-wc-countries.php:201
 msgid "Oman"
-msgstr "Oman"
+msgstr ""
 
 #: includes/class-wc-countries.php:202
 msgid "Pakistan"
-msgstr "Pakistan"
+msgstr ""
 
 #: includes/class-wc-countries.php:203
 msgid "Palestinian Territory"
-msgstr "Palestinian Territory"
+msgstr ""
 
 #: includes/class-wc-countries.php:204
 msgid "Panama"
-msgstr "Panama"
+msgstr ""
 
 #: includes/class-wc-countries.php:205
 msgid "Papua New Guinea"
-msgstr "Papua New Guinea"
+msgstr ""
 
 #: includes/class-wc-countries.php:206
 msgid "Paraguay"
-msgstr "Paraguay"
+msgstr ""
 
 #: includes/class-wc-countries.php:207
 msgid "Peru"
-msgstr "Peru"
+msgstr ""
 
 #: includes/class-wc-countries.php:208
 msgid "Philippines"
-msgstr "Philippines"
+msgstr ""
 
 #: includes/class-wc-countries.php:209
 msgid "Pitcairn"
-msgstr "Pitcairn"
+msgstr ""
 
 #: includes/class-wc-countries.php:210
 msgid "Poland"
-msgstr "Phần Lan"
+msgstr ""
 
 #: includes/class-wc-countries.php:211
 msgid "Portugal"
-msgstr "Bồ Đào Nha"
+msgstr ""
 
 #: includes/class-wc-countries.php:212
 msgid "Qatar"
-msgstr "Qatar"
+msgstr ""
 
 #: includes/class-wc-countries.php:213
 msgid "Reunion"
-msgstr "Reunion"
+msgstr ""
 
 #: includes/class-wc-countries.php:214
 msgid "Romania"
-msgstr "Romania"
+msgstr ""
 
 #: includes/class-wc-countries.php:215
 msgid "Russia"
-msgstr "Nga"
+msgstr ""
 
 #: includes/class-wc-countries.php:216
 msgid "Rwanda"
-msgstr "Rwanda"
+msgstr ""
 
 #: includes/class-wc-countries.php:217
 msgid "Saint Barth&eacute;lemy"
-msgstr "Saint Barth&eacute;lemy"
+msgstr ""
 
 #: includes/class-wc-countries.php:218
 msgid "Saint Helena"
-msgstr "Saint Helena"
+msgstr ""
 
 #: includes/class-wc-countries.php:219
 msgid "Saint Kitts and Nevis"
-msgstr "Saint Kitts and Nevis"
+msgstr ""
 
 #: includes/class-wc-countries.php:220
 msgid "Saint Lucia"
-msgstr "Saint Lucia"
+msgstr ""
 
 #: includes/class-wc-countries.php:221
 msgid "Saint Martin (French part)"
-msgstr "Saint Martin (French part)"
+msgstr ""
 
 #: includes/class-wc-countries.php:222
 msgid "Saint Martin (Dutch part)"
-msgstr "Saint Martin (Dutch part)"
+msgstr ""
 
 #: includes/class-wc-countries.php:223
 msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre and Miquelon"
+msgstr ""
 
 #: includes/class-wc-countries.php:224
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Vincent and the Grenadines"
+msgstr ""
 
 #: includes/class-wc-countries.php:225
 msgid "San Marino"
-msgstr "San Marino"
+msgstr ""
 
 #: includes/class-wc-countries.php:226
 msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
-msgstr "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
 
 #: includes/class-wc-countries.php:227
 msgid "Saudi Arabia"
-msgstr "Saudi Arabia"
+msgstr ""
 
 #: includes/class-wc-countries.php:228
 msgid "Senegal"
-msgstr "Senegal"
+msgstr ""
 
 #: includes/class-wc-countries.php:229
 msgid "Serbia"
-msgstr "Serbia"
+msgstr ""
 
 #: includes/class-wc-countries.php:230
 msgid "Seychelles"
-msgstr "Seychelles"
+msgstr ""
 
 #: includes/class-wc-countries.php:231
 msgid "Sierra Leone"
-msgstr "Sierra Leone"
+msgstr ""
 
 #: includes/class-wc-countries.php:232
 msgid "Singapore"
-msgstr "Singapore"
+msgstr ""
 
 #: includes/class-wc-countries.php:233
 msgid "Slovakia"
-msgstr "Slovakia"
+msgstr ""
 
 #: includes/class-wc-countries.php:234
 msgid "Slovenia"
-msgstr "Slovenia"
+msgstr ""
 
 #: includes/class-wc-countries.php:235
 msgid "Solomon Islands"
-msgstr "Solomon Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:236
 msgid "Somalia"
-msgstr "Somalia"
+msgstr ""
 
 #: includes/class-wc-countries.php:237
 msgid "South Africa"
-msgstr "Nam Phi"
+msgstr ""
 
 #: includes/class-wc-countries.php:238
 msgid "South Georgia/Sandwich Islands"
-msgstr "South Georgia/Sandwich Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:239
 msgid "South Korea"
-msgstr "Hàn Quốc"
+msgstr ""
 
 #: includes/class-wc-countries.php:240
 msgid "South Sudan"
-msgstr "Nam Sudan"
+msgstr ""
 
 #: includes/class-wc-countries.php:241
 msgid "Spain"
-msgstr "Tây Ban Nha"
+msgstr ""
 
 #: includes/class-wc-countries.php:242
 msgid "Sri Lanka"
-msgstr "Sri Lanka"
+msgstr ""
 
 #: includes/class-wc-countries.php:243
 msgid "Sudan"
-msgstr "Sudan"
+msgstr ""
 
 #: includes/class-wc-countries.php:244
 msgid "Suriname"
-msgstr "Suriname"
+msgstr ""
 
 #: includes/class-wc-countries.php:245
 msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard and Jan Mayen"
+msgstr ""
 
 #: includes/class-wc-countries.php:246
 msgid "Swaziland"
-msgstr "Swaziland"
+msgstr ""
 
 #: includes/class-wc-countries.php:247
 msgid "Sweden"
-msgstr "Sweden"
+msgstr ""
 
 #: includes/class-wc-countries.php:248
 msgid "Switzerland"
-msgstr "Switzerland"
+msgstr ""
 
 #: includes/class-wc-countries.php:249
 msgid "Syria"
-msgstr "Syria"
+msgstr ""
 
 #: includes/class-wc-countries.php:250
 msgid "Taiwan"
-msgstr "Đài Loan"
+msgstr ""
 
 #: includes/class-wc-countries.php:251
 msgid "Tajikistan"
-msgstr "Tajikistan"
+msgstr ""
 
 #: includes/class-wc-countries.php:252
 msgid "Tanzania"
-msgstr "Tanzania"
+msgstr ""
 
 #: includes/class-wc-countries.php:253
 msgid "Thailand"
-msgstr "Thái Lan"
+msgstr ""
 
 #: includes/class-wc-countries.php:254
 msgid "Timor-Leste"
-msgstr "Đông Timo"
+msgstr ""
 
 #: includes/class-wc-countries.php:255
 msgid "Togo"
-msgstr "Togo"
+msgstr ""
 
 #: includes/class-wc-countries.php:256
 msgid "Tokelau"
-msgstr "Tokelau"
+msgstr ""
 
 #: includes/class-wc-countries.php:257
 msgid "Tonga"
-msgstr "Tonga"
+msgstr ""
 
 #: includes/class-wc-countries.php:258
 msgid "Trinidad and Tobago"
-msgstr "Trinidad and Tobago"
+msgstr ""
 
 #: includes/class-wc-countries.php:259
 msgid "Tunisia"
-msgstr "Tunisia"
+msgstr ""
 
 #: includes/class-wc-countries.php:260
 msgid "Turkey"
-msgstr "Thổ Nhĩ Kỳ"
+msgstr ""
 
 #: includes/class-wc-countries.php:261
 msgid "Turkmenistan"
-msgstr "Turkmenistan"
+msgstr ""
 
 #: includes/class-wc-countries.php:262
 msgid "Turks and Caicos Islands"
-msgstr "Turks and Caicos Islands"
+msgstr ""
 
 #: includes/class-wc-countries.php:263
 msgid "Tuvalu"
-msgstr "Tuvalu"
+msgstr ""
 
 #: includes/class-wc-countries.php:264
 msgid "Uganda"
-msgstr "Uganda"
+msgstr ""
 
 #: includes/class-wc-countries.php:265
 msgid "Ukraine"
-msgstr "Ukraine"
+msgstr ""
 
 #: includes/class-wc-countries.php:266
 msgid "United Arab Emirates"
-msgstr "Tiểu vương quốc Ả Rập"
+msgstr ""
 
 #: includes/class-wc-countries.php:267
 msgid "United Kingdom (UK)"
-msgstr "Anh (UK)"
+msgstr ""
 
 #: includes/class-wc-countries.php:268
 msgid "United States (US)"
-msgstr "Mỹ (US)"
+msgstr ""
 
 #: includes/class-wc-countries.php:269
 msgid "Uruguay"
-msgstr "Uruguay"
+msgstr ""
 
 #: includes/class-wc-countries.php:270
 msgid "Uzbekistan"
-msgstr "Uzbekistan"
+msgstr ""
 
 #: includes/class-wc-countries.php:271
 msgid "Vanuatu"
-msgstr "Vanuatu"
+msgstr ""
 
 #: includes/class-wc-countries.php:272
 msgid "Vatican"
-msgstr "Vatican"
+msgstr ""
 
 #: includes/class-wc-countries.php:273
 msgid "Venezuela"
-msgstr "Venezuela"
+msgstr ""
 
 #: includes/class-wc-countries.php:274
 msgid "Vietnam"
-msgstr "Việt Nam"
+msgstr ""
 
 #: includes/class-wc-countries.php:275
 msgid "Wallis and Futuna"
-msgstr "Wallis and Futuna"
+msgstr ""
 
 #: includes/class-wc-countries.php:276
 msgid "Western Sahara"
-msgstr "Western Sahara"
+msgstr ""
 
 #: includes/class-wc-countries.php:277
 msgid "Western Samoa"
-msgstr "Western Samoa"
+msgstr ""
 
 #: includes/class-wc-countries.php:278
 msgid "Yemen"
-msgstr "Yemen"
+msgstr ""
 
 #: includes/class-wc-countries.php:279
 msgid "Zambia"
-msgstr "Zambia"
+msgstr ""
 
 #: includes/class-wc-countries.php:280
 msgid "Zimbabwe"
-msgstr "Zimbabwe"
+msgstr ""
 
 #: includes/class-wc-countries.php:484
 msgid "to the"
@@ -4799,7 +4797,7 @@ msgstr ""
 
 #: includes/class-wc-countries.php:485
 msgid "to"
-msgstr "tới"
+msgstr ""
 
 #: includes/class-wc-countries.php:498
 msgid "the"
@@ -4807,23 +4805,23 @@ msgstr ""
 
 #: includes/class-wc-countries.php:510
 msgid "VAT"
-msgstr "VAT"
+msgstr ""
 
 #: includes/class-wc-countries.php:510
 msgid "Tax"
-msgstr "Thuế"
+msgstr "ពន្ធ"
 
 #: includes/class-wc-countries.php:523
 msgid "(incl. VAT)"
-msgstr "(gồm VAT)"
+msgstr ""
 
 #: includes/class-wc-countries.php:523
 msgid "(incl. tax)"
-msgstr "(gồm thuế)"
+msgstr ""
 
 #: includes/class-wc-countries.php:536
 msgid "(ex. VAT)"
-msgstr "(trừ VAT)"
+msgstr ""
 
 #: includes/class-wc-countries.php:536
 msgid "(ex. tax)"
@@ -4831,28 +4829,28 @@ msgstr ""
 
 #: includes/class-wc-countries.php:730
 msgid "Country"
-msgstr "Quốc gia"
+msgstr "ប្រទេស"
 
 #: includes/class-wc-countries.php:735
 msgid "First Name"
-msgstr "Họ"
+msgstr "នាម"
 
 #: includes/class-wc-countries.php:740
 msgid "Last Name"
-msgstr "Tên"
+msgstr "គោត្តនាម"
 
 #: includes/class-wc-countries.php:746
 msgid "Company Name"
-msgstr "Tên doanh nghiệp"
+msgstr ""
 
 #: includes/class-wc-countries.php:750
 msgid "Address"
-msgstr "Địa chỉ"
+msgstr "អាសយដ្ឋាន"
 
 #: includes/class-wc-countries.php:751
 msgctxt "placeholder"
 msgid "Street address"
-msgstr "Địa chỉ"
+msgstr ""
 
 #: includes/class-wc-countries.php:756
 msgctxt "placeholder"
@@ -4861,16 +4859,16 @@ msgstr ""
 
 #: includes/class-wc-countries.php:761 includes/class-wc-countries.php:762
 msgid "Town / City"
-msgstr "Tỉnh / Thành phố"
+msgstr ""
 
 #: includes/class-wc-countries.php:768 includes/class-wc-countries.php:769
 msgid "State / County"
-msgstr "Bang / Hạt"
+msgstr ""
 
 #: includes/class-wc-countries.php:775 includes/class-wc-countries.php:776
 #: templates/cart/shipping-calculator.php:80
 msgid "Postcode / Zip"
-msgstr "Mã bưu điện"
+msgstr ""
 
 #: includes/class-wc-countries.php:838
 msgid "District"
@@ -4882,63 +4880,63 @@ msgstr ""
 #: includes/class-wc-countries.php:978 includes/class-wc-countries.php:1028
 #: includes/class-wc-countries.php:1052 includes/class-wc-countries.php:1093
 msgid "Province"
-msgstr "Tỉnh"
+msgstr ""
 
 #: includes/class-wc-countries.php:867
 msgid "Canton"
-msgstr "Bang"
+msgstr ""
 
 #: includes/class-wc-countries.php:876 includes/class-wc-countries.php:1034
 msgid "Municipality"
-msgstr "Khu tự trị"
+msgstr ""
 
 #: includes/class-wc-countries.php:929
 msgid "Town / District"
-msgstr "Quận / Huyện"
+msgstr ""
 
 #: includes/class-wc-countries.php:932
 msgid "Region"
-msgstr "Vùng"
+msgstr ""
 
 #: includes/class-wc-countries.php:937 includes/class-wc-countries.php:1068
 msgid "County"
-msgstr "Hạt"
+msgstr ""
 
 #: includes/class-wc-countries.php:1057
 msgid "Zip"
-msgstr "Vùng"
+msgstr ""
 
 #: includes/class-wc-countries.php:1060
 msgid "State"
-msgstr "Bang"
+msgstr ""
 
 #: includes/class-wc-countries.php:1065
 msgid "Postcode"
-msgstr "Mã bưu điện"
+msgstr "កូដ​ប្រៃសណីយ៍"
 
 #: includes/class-wc-countries.php:1173
 msgid "Email Address"
-msgstr "Địa chỉ email"
+msgstr ""
 
 #: includes/class-wc-countries.php:1179
 msgid "Phone"
-msgstr "Số điện thoại"
+msgstr "ទូរសព្ទ"
 
 #: includes/class-wc-coupon.php:578
 msgid "Coupon code applied successfully."
-msgstr "Mã khuyến mại đã được áp dụng thành công."
+msgstr ""
 
 #: includes/class-wc-coupon.php:581
 msgid "Coupon code removed successfully."
-msgstr "Mã khuyến mại đã được xóa thành công."
+msgstr ""
 
 #: includes/class-wc-coupon.php:602
 msgid "Coupon is not valid."
-msgstr "Mã khuyến mại không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-coupon.php:605 includes/class-wc-coupon.php:655
 msgid "Coupon does not exist!"
-msgstr "Mã khuyến mại không tồn tại!"
+msgstr ""
 
 #: includes/class-wc-coupon.php:608
 msgid ""
@@ -4954,7 +4952,7 @@ msgstr ""
 
 #: includes/class-wc-coupon.php:614
 msgid "Coupon code already applied!"
-msgstr "Mã khuyến mại đã được áp dụng rồi!"
+msgstr ""
 
 #: includes/class-wc-coupon.php:617
 msgid ""
@@ -4968,7 +4966,7 @@ msgstr ""
 
 #: includes/class-wc-coupon.php:623
 msgid "This coupon has expired."
-msgstr "Mã khuyến mại này đã hết hạn."
+msgstr ""
 
 #: includes/class-wc-coupon.php:626
 msgid "The minimum spend for this coupon is %s."
@@ -4984,11 +4982,11 @@ msgstr ""
 
 #: includes/class-wc-coupon.php:658
 msgid "Please enter a coupon code."
-msgstr "Vui lòng nhập mã phiếu khuyến mại."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:37
 msgid "Invalid email address."
-msgstr "Địa chỉ email không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:37
 #: includes/class-wc-download-handler.php:62
@@ -4999,48 +4997,48 @@ msgstr "Địa chỉ email không hợp lệ."
 #: includes/class-wc-download-handler.php:143
 #: includes/class-wc-download-handler.php:304
 msgid "Go to homepage"
-msgstr "Truy cập trang chủ"
+msgstr ""
 
 #: includes/class-wc-download-handler.php:62
 msgid "Invalid download."
-msgstr "Tải về không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:75
 msgid "You must be logged in to download files."
-msgstr "Bạn phải đăng nhập để tải về tệp tin."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:75
 #: templates/global/form-login.php:35 templates/myaccount/form-login.php:27
 #: templates/myaccount/form-login.php:46
 msgid "Login"
-msgstr "Đăng nhập"
+msgstr ""
 
 #: includes/class-wc-download-handler.php:75
 msgid "Log in to Download Files"
-msgstr "Đăng nhập để tải về tệp tin"
+msgstr ""
 
 #: includes/class-wc-download-handler.php:77
 msgid "This is not your download link."
-msgstr "Đây không phải là liên kết tải về của bạn."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:83
 msgid "Product no longer exists."
-msgstr "Sản phẩm không còn tồn tại nữa."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:90
 #: includes/class-wc-form-handler.php:546
 #: includes/shortcodes/class-wc-shortcode-checkout.php:172
 #: includes/shortcodes/class-wc-shortcode-my-account.php:111
 msgid "Invalid order."
-msgstr "Đơn hàng không hợp lệ."
+msgstr ""
 
 #: includes/class-wc-download-handler.php:95
 msgid "Sorry, you have reached your download limit for this file"
-msgstr "Rất tiếc, bạn đã chạm tới giới hạn tải về đối với tệp tin này"
+msgstr ""
 
 #: includes/class-wc-download-handler.php:99
 msgid "Sorry, this download has expired"
-msgstr "Rất tiếc, phiên tải về đã hết hạn"
+msgstr ""
 
 #: includes/class-wc-download-handler.php:143
 msgid "No file defined"
@@ -5048,15 +5046,15 @@ msgstr ""
 
 #: includes/class-wc-download-handler.php:304
 msgid "File not found"
-msgstr "Không tìm thấy tệp tin"
+msgstr ""
 
 #: includes/class-wc-emails.php:289
 msgid "Note"
-msgstr "Ghi chú"
+msgstr ""
 
 #: includes/class-wc-emails.php:331
 msgid "Product low in stock"
-msgstr "Sản phẩm sắp hết hàng"
+msgstr ""
 
 #: includes/class-wc-emails.php:336 includes/class-wc-emails.php:368
 #: includes/class-wc-emails.php:412
@@ -5066,43 +5064,43 @@ msgstr ""
 #: includes/class-wc-emails.php:338 includes/class-wc-emails.php:370
 #: includes/class-wc-emails.php:414
 msgid "Product #%s - %s"
-msgstr "Sản phẩm #%s - %s"
+msgstr ""
 
 #: includes/class-wc-emails.php:340
 msgid "is low in stock."
-msgstr "sắp hết hàng."
+msgstr ""
 
 #: includes/class-wc-emails.php:363
 msgid "Product out of stock"
-msgstr "Sản phẩm đã hết hàng"
+msgstr ""
 
 #: includes/class-wc-emails.php:372
 msgid "is out of stock."
-msgstr "hết hàng."
+msgstr ""
 
 #: includes/class-wc-emails.php:407
 msgid "Product Backorder"
-msgstr "Đặt hàng trước sản phẩm"
+msgstr ""
 
 #: includes/class-wc-emails.php:417
 msgid "%s units of %s have been backordered in order %s."
-msgstr "%s trong tổng số %s đã được đặt trước tại đơn hàng %s."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:129
 msgid "Address changed successfully."
-msgstr "Địa chỉ đã được cập nhật thành công."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:178
 msgid "Please enter your name."
-msgstr "Vui lòng nhập tên bạn."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:182 includes/wc-user-functions.php:48
 msgid "Please provide a valid email address."
-msgstr "Vui lòng cung cấp địa chỉ email hợp lệ."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:184
 msgid "This email address is already registered."
-msgstr "Địa chỉ email này đã được đăng ký và sử dụng."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:188
 msgid "Your current password is incorrect."
@@ -5118,16 +5116,16 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:201
 msgid "Please re-enter your password."
-msgstr "Vui lòng nhập lại mật khẩu của bạn."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:205
 #: includes/class-wc-form-handler.php:836
 msgid "Passwords do not match."
-msgstr "Mật khẩu không khớp."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:227
 msgid "Account details changed successfully."
-msgstr "Thông tin tài khoản đã được cập nhật."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:355
 msgid "Payment method added."
@@ -5136,23 +5134,23 @@ msgstr ""
 #: includes/class-wc-form-handler.php:388
 #: includes/class-wc-form-handler.php:447
 msgid "Cart updated."
-msgstr "Giỏ hàng đã được cập nhật."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:423
 msgid "You can only have 1 %s in your cart."
-msgstr "Bạn chỉ có thể có 1 %s trong giỏ hàng."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:513
 msgid "The cart has been filled with the items from your previous order."
-msgstr "Giỏ hàng đã được bổ sung với sản phẩm từ đơn đặt hàng trước đó."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:536
 msgid "Order cancelled by customer."
-msgstr "Đơn hàng đã bị hủy bởi khách hàng."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:539
 msgid "Your order was cancelled."
-msgstr "Đơn hàng của bạn đã được hủy."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:544
 msgid ""
@@ -5163,7 +5161,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:584
 #: includes/class-wc-form-handler.php:644
 msgid "Please choose product options&hellip;"
-msgstr "Vui lòng chọn tùy chọn sản phẩm&hellip;"
+msgstr ""
 
 #: includes/class-wc-form-handler.php:678
 msgid ""
@@ -5172,7 +5170,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:685
 msgid "Please choose a product to add to your cart&hellip;"
-msgstr "Vui lòng chọn một sản phẩm để thêm vào giỏ hàng của bạn&hellip;"
+msgstr ""
 
 #: includes/class-wc-form-handler.php:745
 #: includes/class-wc-form-handler.php:749
@@ -5180,31 +5178,31 @@ msgstr "Vui lòng chọn một sản phẩm để thêm vào giỏ hàng của b
 #: includes/class-wc-form-handler.php:762
 #: includes/class-wc-form-handler.php:888
 msgid "Error"
-msgstr "Lỗi"
+msgstr ""
 
 #: includes/class-wc-form-handler.php:749
 msgid "Username is required."
-msgstr "Bắt buộc phải có Tên đăng nhập."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:753
 msgid "Password is required."
-msgstr "Bắt buộc phải có Mật khẩu."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:762
 msgid "A user could not be found with this email address."
-msgstr "Không tìm thấy người dùng nào với địa chỉ email này."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:787
 msgid "You are now logged in as <strong>%s</strong>"
-msgstr "Bạn đã đăng nhập với tài khoản <strong>%s</strong>"
+msgstr ""
 
 #: includes/class-wc-form-handler.php:831
 msgid "Please enter your password."
-msgstr "Vui lòng nhập mật khẩu của bạn."
+msgstr ""
 
 #: includes/class-wc-form-handler.php:904 includes/wc-user-functions.php:112
 msgid "ERROR"
-msgstr "LỖI"
+msgstr ""
 
 #: includes/class-wc-form-handler.php:904
 msgid "Anti-spam field was filled in."
@@ -5212,12 +5210,12 @@ msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:123
 msgid "Please select a rating"
-msgstr "Vui lòng chọn một mức đánh giá"
+msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:140
 #: includes/wc-template-functions.php:1603
 msgid "required"
-msgstr "bắt buộc"
+msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:164
 msgid ""
@@ -5232,51 +5230,51 @@ msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:170
 msgid "Select an option&hellip;"
-msgstr "Chọn một tùy chọn&hellip;"
+msgstr ""
 
 #: includes/class-wc-install.php:217
 msgctxt "Page slug"
 msgid "shop"
-msgstr "sho"
+msgstr ""
 
 #: includes/class-wc-install.php:218
 msgctxt "Page title"
 msgid "Shop"
-msgstr "Shop"
+msgstr ""
 
 #: includes/class-wc-install.php:222
 msgctxt "Page slug"
 msgid "cart"
-msgstr "giỏ hàng"
+msgstr ""
 
 #: includes/class-wc-install.php:223
 msgctxt "Page title"
 msgid "Cart"
-msgstr "Giỏ hàng"
+msgstr "រទេះ"
 
 #: includes/class-wc-install.php:227
 msgctxt "Paeg slug"
 msgid "checkout"
-msgstr "thanh toán"
+msgstr ""
 
 #: includes/class-wc-install.php:228
 msgctxt "Page title"
 msgid "Checkout"
-msgstr "Thanh toán"
+msgstr "គិត​ប្រាក់"
 
 #: includes/class-wc-install.php:232
 msgctxt "Page slug"
 msgid "my-account"
-msgstr "tai-khoan"
+msgstr ""
 
 #: includes/class-wc-install.php:233
 msgctxt "Page title"
 msgid "My Account"
-msgstr "Tài khoản"
+msgstr "គណនី​របស់​ខ្ញុំ"
 
 #: includes/class-wc-install.php:455
 msgid "Customer"
-msgstr "Khách hàng"
+msgstr "អតិថិជន"
 
 #: includes/class-wc-install.php:462
 msgid "Shop Manager"
@@ -5285,15 +5283,15 @@ msgstr ""
 #: includes/class-wc-order.php:160
 msgctxt "hash before order number"
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: includes/class-wc-order.php:877
 msgid "&nbsp;<small>%svia %s</small>"
-msgstr "&nbsp;<small>%squa %s</small>"
+msgstr ""
 
 #: includes/class-wc-order.php:940
 msgid "Cart Subtotal:"
-msgstr "Tạm tính:"
+msgstr ""
 
 #: includes/class-wc-order.php:947
 msgid "Cart Discount:"
@@ -5301,11 +5299,11 @@ msgstr ""
 
 #: includes/class-wc-order.php:954
 msgid "Shipping:"
-msgstr "Vận chuyển:"
+msgstr ""
 
 #: includes/class-wc-order.php:1001
 msgid "Order Discount:"
-msgstr "Giảm giá đơn hàng:"
+msgstr ""
 
 #: includes/class-wc-order.php:1008
 msgid "Payment Method:"
@@ -5313,11 +5311,11 @@ msgstr ""
 
 #: includes/class-wc-order.php:1014
 msgid "Order Total:"
-msgstr "Tổng cộng đơn hàng:"
+msgstr "បញ្ជា​ទិញ​សរុប៖"
 
 #: includes/class-wc-order.php:1032 includes/wc-cart-functions.php:249
 msgid "(Includes %s)"
-msgstr "(bao gồm %s)"
+msgstr ""
 
 #: includes/class-wc-order.php:1281 includes/class-wc-order.php:1282
 msgid "WooCommerce"
@@ -5325,85 +5323,85 @@ msgstr "WooCommerce"
 
 #: includes/class-wc-order.php:1337
 msgid "Order status changed from %s to %s."
-msgstr "Trạng thái đơn hàng đã được chuyển từ %s sang %s."
+msgstr ""
 
 #: includes/class-wc-order.php:1602
 msgid "Order item stock reduced successfully."
-msgstr "Số lượng sản phẩm trong đơn hàng đã được điều chỉnh giảm thành công."
+msgstr ""
 
 #: includes/class-wc-post-types.php:55 includes/class-wc-post-types.php:57
 #: includes/widgets/class-wc-widget-product-categories.php:30
 msgid "Product Categories"
-msgstr "Danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:58
 msgid "Product Category"
-msgstr "Danh mục sản phẩm"
+msgstr "ប្រភេទ​ផលិតផល"
 
 #: includes/class-wc-post-types.php:59
 msgctxt "Admin menu name"
 msgid "Categories"
-msgstr "Danh mục"
+msgstr ""
 
 #: includes/class-wc-post-types.php:60
 msgid "Search Product Categories"
-msgstr "Tìm danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:61
 msgid "All Product Categories"
-msgstr "Tất cả danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:62
 msgid "Parent Product Category"
-msgstr "Trực thuộc danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:63
 msgid "Parent Product Category:"
-msgstr "Trực thuộc danh mục sản phẩm:"
+msgstr ""
 
 #: includes/class-wc-post-types.php:64
 msgid "Edit Product Category"
-msgstr "Sửa danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:65
 msgid "Update Product Category"
-msgstr "Cập nhật danh mục sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:66
 msgid "Add New Product Category"
-msgstr "Thêm danh mục sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:67
 msgid "New Product Category Name"
-msgstr "Tên danh mục sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:78
 #: includes/updates/woocommerce-update-2.0.php:44
 msgctxt "slug"
 msgid "product-category"
-msgstr "danh-muc"
+msgstr "product-category"
 
 #: includes/class-wc-post-types.php:90 includes/class-wc-post-types.php:92
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:27
 msgid "Product Tags"
-msgstr "Từ khóa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:93
 msgid "Product Tag"
-msgstr "Từ khóa sản phẩm"
+msgstr "ស្លាក​ផលិតផល"
 
 #: includes/class-wc-post-types.php:94
 msgctxt "Admin menu name"
 msgid "Tags"
-msgstr "Từ khóa"
+msgstr ""
 
 #: includes/class-wc-post-types.php:95
 msgid "Search Product Tags"
-msgstr "Tìm từ khóa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:96
 msgid "All Product Tags"
-msgstr "Tất cả từ khóa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:97
 msgid "Parent Product Tag"
@@ -5415,25 +5413,25 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:99
 msgid "Edit Product Tag"
-msgstr "Sửa từ khóa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:100
 msgid "Update Product Tag"
-msgstr "Cập nhật từ khóa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:101
 msgid "Add New Product Tag"
-msgstr "Thêm từ khóa sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:102
 msgid "New Product Tag Name"
-msgstr "Tên từ khóa sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:113
 #: includes/updates/woocommerce-update-2.0.php:45
 msgctxt "slug"
 msgid "product-tag"
-msgstr "tu-khoa"
+msgstr "product-tag"
 
 #: includes/class-wc-post-types.php:124 includes/class-wc-post-types.php:126
 msgid "Shipping Classes"
@@ -5483,11 +5481,11 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:184
 msgid "Search %s"
-msgstr "Tìm kiếm %s"
+msgstr ""
 
 #: includes/class-wc-post-types.php:185
 msgid "All %s"
-msgstr "Tất cả %s"
+msgstr ""
 
 #: includes/class-wc-post-types.php:186
 msgid "Parent %s"
@@ -5499,30 +5497,30 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:188
 msgid "Edit %s"
-msgstr "Sửa %s"
+msgstr ""
 
 #: includes/class-wc-post-types.php:189
 msgid "Update %s"
-msgstr "Cập nhật %s"
+msgstr ""
 
 #: includes/class-wc-post-types.php:190
 msgid "Add New %s"
-msgstr "Thêm mới %s"
+msgstr ""
 
 #: includes/class-wc-post-types.php:191
 msgid "New %s"
-msgstr "%s mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:226
 #: includes/updates/woocommerce-update-2.0.php:53
 msgctxt "slug"
 msgid "product"
-msgstr "sản phẩm"
+msgstr "ផលិតផល"
 
 #: includes/class-wc-post-types.php:232
 #: includes/widgets/class-wc-widget-products.php:27
 msgid "Products"
-msgstr "Sản phẩm"
+msgstr "ផលិតផល"
 
 #: includes/class-wc-post-types.php:233 templates/cart/cart.php:27
 #: templates/checkout/form-pay.php:19 templates/checkout/review-order.php:18
@@ -5533,50 +5531,50 @@ msgstr "Sản phẩm"
 #: templates/emails/customer-processing-order.php:23
 #: templates/order/order-details.php:20
 msgid "Product"
-msgstr "Sản phẩm"
+msgstr "ផលិតផល"
 
 #: includes/class-wc-post-types.php:234
 msgctxt "Admin menu name"
 msgid "Products"
-msgstr "Sản phẩm"
+msgstr "ផលិតផល"
 
 #: includes/class-wc-post-types.php:235
 msgid "Add Product"
-msgstr "Thêm sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:236
 msgid "Add New Product"
-msgstr "Thêm sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:237 includes/class-wc-post-types.php:289
 #: includes/class-wc-post-types.php:328 templates/myaccount/my-address.php:45
 msgid "Edit"
-msgstr "Sửa"
+msgstr "កែប្រែ"
 
 #: includes/class-wc-post-types.php:238
 msgid "Edit Product"
-msgstr "Sửa sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:239
 msgid "New Product"
-msgstr "Sản phẩm mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:240 includes/class-wc-post-types.php:241
 msgid "View Product"
-msgstr "Xem sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:242
 #: includes/widgets/class-wc-widget-product-search.php:27
 msgid "Search Products"
-msgstr "Tìm kiếm sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:243
 msgid "No Products found"
-msgstr "Không tìm thấy sản phẩm"
+msgstr ""
 
 #: includes/class-wc-post-types.php:244
 msgid "No Products found in trash"
-msgstr "Không tìm thấy sản phẩm trong thùng rác"
+msgstr ""
 
 #: includes/class-wc-post-types.php:245
 msgid "Parent Product"
@@ -5593,47 +5591,47 @@ msgstr ""
 #: includes/class-wc-post-types.php:275
 msgctxt "Admin menu name"
 msgid "Orders"
-msgstr "Đơn hàng"
+msgstr "បញ្ជា​ទិញ"
 
 #: includes/class-wc-post-types.php:285
 msgid "Orders"
-msgstr "Đơn hàng"
+msgstr "បញ្ជា​ទាញ"
 
 #: includes/class-wc-post-types.php:286 templates/myaccount/my-orders.php:32
 msgid "Order"
-msgstr "Đơn hàng"
+msgstr "បញ្ជា​ទិញ"
 
 #: includes/class-wc-post-types.php:287
 msgid "Add Order"
-msgstr "Thêm đơn hàng"
+msgstr ""
 
 #: includes/class-wc-post-types.php:288
 msgid "Add New Order"
-msgstr "Thêm đơn hàng mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:290
 msgid "Edit Order"
-msgstr "Sửa đơn hàng"
+msgstr ""
 
 #: includes/class-wc-post-types.php:291
 msgid "New Order"
-msgstr "Đơn hàng mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:292 includes/class-wc-post-types.php:293
 msgid "View Order"
-msgstr "Xem đơn hàng"
+msgstr ""
 
 #: includes/class-wc-post-types.php:294
 msgid "Search Orders"
-msgstr "Tìm kiếm đơn hàng"
+msgstr ""
 
 #: includes/class-wc-post-types.php:295
 msgid "No Orders found"
-msgstr "Không tìm thấy đơn hàng nào"
+msgstr ""
 
 #: includes/class-wc-post-types.php:296
 msgid "No Orders found in trash"
-msgstr "Không tìm thấy đơn hàng nào trong thùng rác"
+msgstr ""
 
 #: includes/class-wc-post-types.php:297
 msgid "Parent Orders"
@@ -5645,44 +5643,44 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:323
 msgid "Coupons"
-msgstr "Phiếu giảm giá"
+msgstr "គូប៉ុង"
 
 #: includes/class-wc-post-types.php:324 templates/cart/cart.php:119
 msgid "Coupon"
-msgstr "Phiếu giảm giá"
+msgstr "គូប៉ុង"
 
 #: includes/class-wc-post-types.php:325
 msgctxt "Admin menu name"
 msgid "Coupons"
-msgstr "Phiếu giảm giá"
+msgstr "គូប៉ុង"
 
 #: includes/class-wc-post-types.php:326
 msgid "Add Coupon"
-msgstr "Thêm phiếu khuyến mại"
+msgstr ""
 
 #: includes/class-wc-post-types.php:327
 msgid "Add New Coupon"
-msgstr "Thêm phiếu khuyến mại mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:329
 msgid "Edit Coupon"
-msgstr "Sửa phiếu khuyến mại"
+msgstr ""
 
 #: includes/class-wc-post-types.php:330
 msgid "New Coupon"
-msgstr "Phiếu khuyến mại mới"
+msgstr ""
 
 #: includes/class-wc-post-types.php:331
 msgid "View Coupons"
-msgstr "Xem Phiếu khuyến mại"
+msgstr ""
 
 #: includes/class-wc-post-types.php:332
 msgid "View Coupon"
-msgstr "Xem Phiếu khuyến mại"
+msgstr ""
 
 #: includes/class-wc-post-types.php:333
 msgid "Search Coupons"
-msgstr "Tìm kiếm phiếu khuyến mại"
+msgstr ""
 
 #: includes/class-wc-post-types.php:334
 msgid "No Coupons found"
@@ -5703,27 +5701,27 @@ msgstr ""
 
 #: includes/class-wc-product-external.php:86
 msgid "Buy product"
-msgstr "Mua sản phẩm"
+msgstr ""
 
 #: includes/class-wc-product-grouped.php:42
 msgid "View products"
-msgstr "Xem sản phẩm"
+msgstr ""
 
 #: includes/class-wc-product-grouped.php:194
 #: includes/class-wc-product-variable.php:274
 #: includes/class-wc-product-variable.php:279
 msgctxt "Price range: from-to"
 msgid "%1$s&ndash;%2$s"
-msgstr "%1$s&ndash;%2$s"
+msgstr ""
 
 #: includes/class-wc-product-simple.php:48
 #: includes/class-wc-product-variation.php:215
 msgid "Read More"
-msgstr "Đọc tiếp"
+msgstr ""
 
 #: includes/class-wc-product-variable.php:42
 msgid "Select options"
-msgstr "Chọn tùy chọn"
+msgstr ""
 
 #: includes/class-wc-product-variable.php:486
 msgid ""
@@ -5733,7 +5731,7 @@ msgstr ""
 
 #: includes/class-wc-product-variation.php:555
 msgid "%s &ndash; %s%s"
-msgstr "%s &ndash; %s%s"
+msgstr ""
 
 #: includes/class-wc-shortcodes.php:975
 msgid ""
@@ -5743,7 +5741,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:26
 msgid "Completed order"
-msgstr "Đơn hàng đã hoàn thành"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:27
 msgid ""
@@ -5753,7 +5751,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:29
 msgid "Your order is complete"
-msgstr "Đơn hàng của bạn đã hoàn thành"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:30
 msgid "Your {site_title} order from {order_date} is complete"
@@ -5761,7 +5759,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:39
 msgid "Your order is complete - download your files"
-msgstr "Đơn hàng của bạn đã hoàn tải - tải về tệp tin của bạn"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:40
 msgid ""
@@ -5771,24 +5769,24 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-completed-order.php:146
 #: includes/emails/class-wc-email-new-order.php:133
 msgid "Subject"
-msgstr "Tiêu đề"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:153
 #: includes/emails/class-wc-email-new-order.php:140
 msgid "Email Heading"
-msgstr "Đầu mục lớn email"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:160
 msgid "Subject (downloadable)"
-msgstr "Tiêu đề (có thể tải về)"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-completed-order.php:167
 msgid "Email Heading (downloadable)"
-msgstr "Đầu mục lớn email (có thể tải về)"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-invoice.php:29
 msgid "Customer invoice"
-msgstr "Hóa đơn khách hàng"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-invoice.php:30
 msgid ""
@@ -5810,19 +5808,19 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-invoice.php:39
 msgid "Order {order_number} details"
-msgstr "Chi tiết đơn hàng {order_number}"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-invoice.php:160
 msgid "Email subject (paid)"
-msgstr "Tiêu đề email (đã thanh toán)"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-invoice.php:167
 msgid "Email heading (paid)"
-msgstr "Đầu mục lớn email (đã thanh toán)"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-new-account.php:33
 msgid "New account"
-msgstr "Tài khoản mới"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-new-account.php:34
 msgid ""
@@ -5832,15 +5830,15 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-new-account.php:39
 msgid "Your account on {site_title}"
-msgstr "Tài khoản của bạn tại {site_title}"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-new-account.php:40
 msgid "Welcome to {site_title}"
-msgstr "Chào mừng truy cập {site_title}"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-note.php:31
 msgid "Customer note"
-msgstr "Khách hàng ghi chú"
+msgstr "កំណត់ត្រា​អតិថិជន"
 
 #: includes/emails/class-wc-email-customer-note.php:32
 msgid "Customer note emails are sent when you add a note to an order."
@@ -5852,11 +5850,11 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-note.php:38
 msgid "A note has been added to your order"
-msgstr "Ghi chú đã được thêm vào đơn hàng của bạn"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-processing-order.php:26
 msgid "Processing order"
-msgstr "Đang xử lý đơn hàng"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-processing-order.php:27
 msgid ""
@@ -5866,7 +5864,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-processing-order.php:29
 msgid "Thank you for your order"
-msgstr "Cảm ơn bạn đã đặt hàng"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-processing-order.php:30
 msgid "Your {site_title} order receipt from {order_date}"
@@ -5874,7 +5872,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-reset-password.php:38
 msgid "Reset password"
-msgstr "Đặt lại mật khẩu"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-reset-password.php:39
 msgid ""
@@ -5884,15 +5882,15 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-reset-password.php:44
 msgid "Password Reset for {site_title}"
-msgstr "Đặt lại mật khẩu cho {site_title}"
+msgstr ""
 
 #: includes/emails/class-wc-email-customer-reset-password.php:45
 msgid "Password Reset Instructions"
-msgstr "Hướng dẫn đặt lại mật khẩu"
+msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:26
 msgid "New order"
-msgstr "Đơn hàng mới"
+msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:27
 msgid "New order emails are sent when an order is received."
@@ -5900,7 +5898,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:29
 msgid "New customer order"
-msgstr "Khách hàng mới đặt hàng"
+msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:30
 msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
@@ -5908,7 +5906,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:126
 msgid "Recipient(s)"
-msgstr "Người nhận()"
+msgstr ""
 
 #: includes/emails/class-wc-email-new-order.php:128
 msgid ""
@@ -5930,7 +5928,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:25
 msgid "BACS"
-msgstr "BACS"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:26
 msgid ""
@@ -5939,7 +5937,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:68
 msgid "Enable Bank Transfer"
-msgstr "Bật Chuyển khoản"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:72
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:58
@@ -5960,7 +5958,7 @@ msgstr "Bật Chuyển khoản"
 #: includes/widgets/class-wc-widget-recently-viewed.php:28
 #: includes/widgets/class-wc-widget-top-rated-products.php:30
 msgid "Title"
-msgstr "Tiêu đề"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:74
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:60
@@ -5985,7 +5983,7 @@ msgstr ""
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:139
 #: includes/wc-template-functions.php:980
 msgid "Description"
-msgstr "Mô tả"
+msgstr "ការអធិប្បាយ"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:81
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:67
@@ -6005,7 +6003,7 @@ msgstr ""
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:72
 #: includes/gateways/cod/class-wc-gateway-cod.php:82
 msgid "Instructions"
-msgstr "Hướng dẫn"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:88
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:74
@@ -6014,42 +6012,42 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:105
 msgid "Account Details"
-msgstr "Chi tiết tài khoản"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:111
 msgid "Account Name"
-msgstr "Tên tài khoản"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:112
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:254
 msgid "Account Number"
-msgstr "Số tài khoản"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:113
 msgid "Bank Name"
-msgstr "Tên ngân hàng"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:114
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:258
 msgid "Sort Code"
-msgstr "Sắp xếp mã"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:115
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:262
 msgid "IBAN"
-msgstr "IBAN"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:116
 msgid "BIC / Swift"
-msgstr "BIC / Swift"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:121
 msgid "+ Add Account"
-msgstr "+ Thêm tài khoản"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:121
 msgid "Remove selected account(s)"
-msgstr "Xóa tài khoản được chọn()"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:241
 msgid "Our Bank Details"
@@ -6057,7 +6055,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:266
 msgid "BIC"
-msgstr "BIC"
+msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:297
 msgid "Awaiting BACS payment"
@@ -6065,7 +6063,7 @@ msgstr ""
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:25
 msgid "Cheque"
-msgstr "Séc"
+msgstr ""
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:26
 msgid ""
@@ -6076,11 +6074,11 @@ msgstr ""
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:54
 msgid "Enable Cheque Payment"
-msgstr "Cho phép thanh toán bằng Séc"
+msgstr ""
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:61
 msgid "Cheque Payment"
-msgstr "Thanh toán bằng Séc"
+msgstr ""
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:68
 msgid ""
@@ -6095,7 +6093,7 @@ msgstr ""
 #: includes/gateways/cod/class-wc-gateway-cod.php:24
 #: includes/gateways/cod/class-wc-gateway-cod.php:71
 msgid "Cash on Delivery"
-msgstr "Trả tiền mặt khi nhận hàng"
+msgstr ""
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:25
 msgid "Have your customers pay with cash (or by other means) upon delivery."
@@ -6103,11 +6101,11 @@ msgstr ""
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:61
 msgid "Enable COD"
-msgstr "Bật COD"
+msgstr ""
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:62
 msgid "Enable Cash on Delivery"
-msgstr "Bật Trả tiền mặt khi nhận hàng"
+msgstr ""
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:77
 msgid "Payment method description that the customer will see on your website."
@@ -6151,20 +6149,20 @@ msgstr ""
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:29
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:159
 msgid "Mijireh Checkout"
-msgstr "Thanh toán Mijireh"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:103
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:294
 msgid "Mijireh error:"
-msgstr "Lỗi Mijireh:"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:124
 msgid "Enable Mijireh Checkout"
-msgstr "Bật thanh toán Mijireh"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:128
 msgid "Access Key"
-msgstr "Khóa truy cập"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:130
 msgid "The Mijireh access key for your store."
@@ -6172,7 +6170,7 @@ msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:138
 msgid "Credit Card"
-msgstr "Thẻ tín dụng"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:144
 msgid "Pay securely with your credit card."
@@ -6197,11 +6195,11 @@ msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Join for free"
-msgstr "Tham gia miễn phí"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Learn more about WooCommerce and Mijireh"
-msgstr "Tìm hiểu thêm về WooCommerce và Mijireh"
+msgstr ""
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:170
 msgid ""
@@ -6213,7 +6211,7 @@ msgstr ""
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:207
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:361
 msgid "Order %s"
-msgstr "Đơn hàng %s"
+msgstr "បញ្ជា​ទិញ %s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:31
 msgid "Proceed to PayPal"
@@ -6222,7 +6220,7 @@ msgstr ""
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:34
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:135
 msgid "PayPal"
-msgstr "PayPal"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:98
 msgid "PayPal standard"
@@ -6286,11 +6284,11 @@ msgstr ""
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:166
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:199
 msgid "Optional"
-msgstr "Tùy chọn thêm"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:169
 msgid "Invoice Prefix"
-msgstr "Tiền tố hóa đơn"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:171
 msgid ""
@@ -6343,11 +6341,11 @@ msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:202
 msgid "Shipping options"
-msgstr "Tùy chọn giao hàng"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:207
 msgid "Shipping details"
-msgstr "Chi tiết giao hàng"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:209
 msgid "Send shipping details to PayPal instead of billing."
@@ -6361,7 +6359,7 @@ msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:214
 msgid "Address override"
-msgstr "Ghi đè địa chỉ"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:216
 msgid ""
@@ -6395,7 +6393,7 @@ msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:233
 msgid "Debug Log"
-msgstr "Debug Log"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:235
 msgid "Enable logging"
@@ -6409,11 +6407,11 @@ msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:370
 msgid "Shipping via"
-msgstr "Giao hàng qua"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:427
 msgid "Shipping via %s"
-msgstr "Giao hàng qua %s"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:466
 msgid ""
@@ -6423,11 +6421,11 @@ msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:491
 msgid "Pay via PayPal"
-msgstr "Thanh toán qua Paypal"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:491
 msgid "Cancel order &amp; restore cart"
-msgstr "Hủy đơn hàng &amp; khôi phục giỏ hàng"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:546
 msgid ""
@@ -6500,16 +6498,16 @@ msgstr ""
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:25
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:84
 msgid "Flat Rate"
-msgstr "Tỷ lệ cố định"
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:27
 msgid "Flat rates let you define a standard rate per item, or per order."
-msgstr "Tỷ lệ cố định cho phép bạn áp dụng một mức chuẩn đối với từng sản phẩm hoặc từng đơn hàng."
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:77
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:51
 msgid "Enable this shipping method"
-msgstr "Bật phương thức giao hàng này"
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:81
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:70
@@ -6527,7 +6525,7 @@ msgstr ""
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:143
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:101
 msgid "All allowed countries"
-msgstr "Tất cả các quốc gia được cho phép"
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:94
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:98
@@ -6538,7 +6536,7 @@ msgstr "Tất cả các quốc gia được cho phép"
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:102
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:106
 msgid "Specific Countries"
-msgstr "Quốc gia riêng"
+msgstr "ប្រទេស​ជាក់លាក់"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:105
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:94
@@ -6551,18 +6549,18 @@ msgstr ""
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:109
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:83
 msgid "Tax Status"
-msgstr "Tình trạng thuế"
+msgstr "ស្ថានភាព​ពន្ធ"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:113
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:87
 msgid "Taxable"
-msgstr "Thuế"
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:114
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:88
 msgctxt "Tax status"
 msgid "None"
-msgstr "Trống"
+msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:118
 msgid "Cost per order"
@@ -6673,7 +6671,7 @@ msgstr ""
 #: templates/order/order-details.php:122 templates/order/order-details.php:137
 #: templates/single-product/meta.php:23
 msgid "N/A"
-msgstr "N/A"
+msgstr "គ្មាន"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:580
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:610
@@ -6688,11 +6686,11 @@ msgstr ""
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:73
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:133
 msgid "Free Shipping"
-msgstr "Miễn phí vận chuyển"
+msgstr ""
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:66
 msgid "Enable Free Shipping"
-msgstr "Bật giao hàng miễn phí"
+msgstr ""
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:77
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:138
@@ -6741,7 +6739,7 @@ msgstr ""
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:67
 msgid "Selected countries"
-msgstr "Các quốc gia đã chọn"
+msgstr ""
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:68
 msgid "Excluding selected countries"
@@ -6749,7 +6747,7 @@ msgstr ""
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:72
 msgid "Countries"
-msgstr "Các quốc gia"
+msgstr ""
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:92
 msgid "Cost Added..."
@@ -6773,7 +6771,7 @@ msgstr ""
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:97
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:75
 msgid "Enable"
-msgstr "Bật"
+msgstr ""
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:99
 msgid "Enable local delivery"
@@ -6812,7 +6810,7 @@ msgstr ""
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:88
 msgid "Zip/Post Codes"
-msgstr "Mã bưu điện"
+msgstr ""
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:132
 msgid ""
@@ -6873,22 +6871,22 @@ msgstr ""
 #: templates/emails/customer-note.php:22
 #: templates/emails/customer-processing-order.php:18
 msgid "Order:"
-msgstr "Đơn hàng:"
+msgstr "បញ្ជាទិញ៖"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:138
 #: templates/checkout/thankyou.php:44
 msgid "Date:"
-msgstr "Ngày:"
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:142
 #: templates/checkout/thankyou.php:48
 msgid "Total:"
-msgstr "Tổng cộng:"
+msgstr "សរុប៖"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:147
 #: templates/checkout/thankyou.php:53
 msgid "Payment method:"
-msgstr "Phương thức thanh toán:"
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:235
 msgid ""
@@ -6898,23 +6896,23 @@ msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:202
 msgid "Your password has been reset."
-msgstr "Mật khẩu của bạn đã được đặt lại."
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:202
 msgid "Log in"
-msgstr "Đăng nhập"
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:220
 msgid "Enter a username or e-mail address."
-msgstr "Nhập tên đăng nhập hoặc địa chỉ email."
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:227
 msgid "There is no user registered with that email address."
-msgstr "Không có người dùng nào có địa chỉ email này."
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:242
 msgid "Invalid username or e-mail."
-msgstr "Tên đăng nhập hoặc email không hợp lệ."
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:256
 msgid "Password reset is not allowed for this user"
@@ -6928,7 +6926,7 @@ msgstr ""
 #: includes/shortcodes/class-wc-shortcode-my-account.php:309
 #: includes/shortcodes/class-wc-shortcode-my-account.php:316
 msgid "Invalid key"
-msgstr "Khóa không hợp lệ"
+msgstr ""
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:353
 msgid "Add a new payment method."
@@ -6948,27 +6946,27 @@ msgstr ""
 
 #: includes/wc-cart-functions.php:25
 msgid "This product is protected and cannot be purchased."
-msgstr "Sản phẩm này được bảo vệ và không thể thanh toán."
+msgstr ""
 
 #: includes/wc-cart-functions.php:81
 msgid "Added &quot;%s&quot; to your cart."
-msgstr "&quot;%s&quot; đã được thêm vào giỏ hàng."
+msgstr ""
 
 #: includes/wc-cart-functions.php:81
 msgid "&quot; and &quot;"
-msgstr "&quot; và &quot;"
+msgstr ""
 
 #: includes/wc-cart-functions.php:84
 msgid "&quot;%s&quot; was successfully added to your cart."
-msgstr "&quot;%s&quot; đã được thêm vào giỏ hàng."
+msgstr ""
 
 #: includes/wc-cart-functions.php:92
 msgid "Continue Shopping"
-msgstr "Tiếp tục mua hàng"
+msgstr ""
 
 #: includes/wc-cart-functions.php:191
 msgid "Coupon:"
-msgstr "Phiếu khuyến mại:"
+msgstr ""
 
 #: includes/wc-cart-functions.php:217
 msgid "Free shipping coupon"
@@ -6976,11 +6974,11 @@ msgstr ""
 
 #: includes/wc-cart-functions.php:223
 msgid "[Remove]"
-msgstr "[Xóa]"
+msgstr ""
 
 #: includes/wc-cart-functions.php:286
 msgid "Free"
-msgstr "Miễn phí"
+msgstr ""
 
 #: includes/wc-core-functions.php:167
 msgid "United Arab Emirates Dirham"
@@ -6988,7 +6986,7 @@ msgstr ""
 
 #: includes/wc-core-functions.php:168
 msgid "Australian Dollars"
-msgstr "Australian Dollars"
+msgstr ""
 
 #: includes/wc-core-functions.php:169
 msgid "Bangladeshi Taka"
@@ -6996,51 +6994,51 @@ msgstr ""
 
 #: includes/wc-core-functions.php:170
 msgid "Brazilian Real"
-msgstr "Brazilian Real"
+msgstr ""
 
 #: includes/wc-core-functions.php:171
 msgid "Bulgarian Lev"
-msgstr "Bulgarian Lev"
+msgstr ""
 
 #: includes/wc-core-functions.php:172
 msgid "Canadian Dollars"
-msgstr "Canadian Dollars"
+msgstr ""
 
 #: includes/wc-core-functions.php:173
 msgid "Chilean Peso"
-msgstr "Chilean Peso"
+msgstr ""
 
 #: includes/wc-core-functions.php:174
 msgid "Chinese Yuan"
-msgstr "Chinese Yuan"
+msgstr ""
 
 #: includes/wc-core-functions.php:175
 msgid "Colombian Peso"
-msgstr "Colombian Peso"
+msgstr ""
 
 #: includes/wc-core-functions.php:176
 msgid "Czech Koruna"
-msgstr "Czech Koruna"
+msgstr ""
 
 #: includes/wc-core-functions.php:177
 msgid "Danish Krone"
-msgstr "Danish Krone"
+msgstr ""
 
 #: includes/wc-core-functions.php:178
 msgid "Euros"
-msgstr "Euros"
+msgstr ""
 
 #: includes/wc-core-functions.php:179
 msgid "Hong Kong Dollar"
-msgstr "Hong Kong Dollar"
+msgstr ""
 
 #: includes/wc-core-functions.php:180
 msgid "Croatia kuna"
-msgstr "Croatia kuna"
+msgstr ""
 
 #: includes/wc-core-functions.php:181
 msgid "Hungarian Forint"
-msgstr "Hungarian Forint"
+msgstr ""
 
 #: includes/wc-core-functions.php:182
 msgid "Icelandic krona"
@@ -7048,99 +7046,99 @@ msgstr ""
 
 #: includes/wc-core-functions.php:183
 msgid "Indonesia Rupiah"
-msgstr "Indonesia Rupiah"
+msgstr ""
 
 #: includes/wc-core-functions.php:184
 msgid "Indian Rupee"
-msgstr "Indian Rupee"
+msgstr ""
 
 #: includes/wc-core-functions.php:185
 msgid "Israeli Shekel"
-msgstr "Israeli Shekel"
+msgstr ""
 
 #: includes/wc-core-functions.php:186
 msgid "Japanese Yen"
-msgstr "Japanese Yen"
+msgstr ""
 
 #: includes/wc-core-functions.php:187
 msgid "South Korean Won"
-msgstr "South Korean Won"
+msgstr ""
 
 #: includes/wc-core-functions.php:188
 msgid "Malaysian Ringgits"
-msgstr "Malaysian Ringgits"
+msgstr ""
 
 #: includes/wc-core-functions.php:189
 msgid "Mexican Peso"
-msgstr "Mexican Peso"
+msgstr ""
 
 #: includes/wc-core-functions.php:190
 msgid "Nigerian Naira"
-msgstr "Nigerian Naira"
+msgstr ""
 
 #: includes/wc-core-functions.php:191
 msgid "Norwegian Krone"
-msgstr "Norwegian Krone"
+msgstr ""
 
 #: includes/wc-core-functions.php:192
 msgid "New Zealand Dollar"
-msgstr "New Zealand Dollar"
+msgstr ""
 
 #: includes/wc-core-functions.php:193
 msgid "Philippine Pesos"
-msgstr "Philippine Pesos"
+msgstr ""
 
 #: includes/wc-core-functions.php:194
 msgid "Polish Zloty"
-msgstr "Polish Zloty"
+msgstr ""
 
 #: includes/wc-core-functions.php:195
 msgid "Pounds Sterling"
-msgstr "Pounds Sterling"
+msgstr ""
 
 #: includes/wc-core-functions.php:196
 msgid "Romanian Leu"
-msgstr "Romanian Leu"
+msgstr ""
 
 #: includes/wc-core-functions.php:197
 msgid "Russian Ruble"
-msgstr "Russian Ruble"
+msgstr ""
 
 #: includes/wc-core-functions.php:198
 msgid "Singapore Dollar"
-msgstr "Singapore Dollar"
+msgstr ""
 
 #: includes/wc-core-functions.php:199
 msgid "South African rand"
-msgstr "South African rand"
+msgstr ""
 
 #: includes/wc-core-functions.php:200
 msgid "Swedish Krona"
-msgstr "Swedish Krona"
+msgstr ""
 
 #: includes/wc-core-functions.php:201
 msgid "Swiss Franc"
-msgstr "Swiss Franc"
+msgstr ""
 
 #: includes/wc-core-functions.php:202
 msgid "Taiwan New Dollars"
-msgstr "Taiwan New Dollars"
+msgstr ""
 
 #: includes/wc-core-functions.php:203
 msgid "Thai Baht"
-msgstr "Thai Baht"
+msgstr ""
 
 #: includes/wc-core-functions.php:204
 msgid "Turkish Lira"
-msgstr "Turkish Lira"
+msgstr ""
 
 #: includes/wc-core-functions.php:205
 msgid "US Dollars"
-msgstr "Đô la Mỹ"
+msgstr ""
 
 #: includes/wc-core-functions.php:206
 msgid "Vietnamese Dong"
-msgstr "Việt Nam Đồng"
+msgstr ""
 
 #: includes/wc-core-functions.php:207
 msgid "Egyptian Pound"
@@ -7148,7 +7146,7 @@ msgstr ""
 
 #: includes/wc-coupon-functions.php:22
 msgid "Cart Discount"
-msgstr "Giỏ hàng giảm giá"
+msgstr ""
 
 #: includes/wc-coupon-functions.php:23
 msgid "Cart % Discount"
@@ -7156,11 +7154,11 @@ msgstr ""
 
 #: includes/wc-coupon-functions.php:24
 msgid "Product Discount"
-msgstr "Giảm giá sản phẩm"
+msgstr ""
 
 #: includes/wc-coupon-functions.php:25
 msgid "Product % Discount"
-msgstr "Sản phẩm % giảm giá"
+msgstr ""
 
 #: includes/wc-order-functions.php:295
 msgid "Unpaid order cancelled - time limit reached."
@@ -7179,19 +7177,19 @@ msgstr ""
 #: includes/wc-product-functions.php:234
 msgctxt "slug"
 msgid "uncategorized"
-msgstr "chưa phân loại"
+msgstr ""
 
 #: includes/wc-template-functions.php:120
 msgid "New products"
-msgstr "Sản phẩm mới"
+msgstr ""
 
 #: includes/wc-template-functions.php:128
 msgid "New products added to %s"
-msgstr "Sản phẩm mới đã được thêm vào %s"
+msgstr ""
 
 #: includes/wc-template-functions.php:136
 msgid "New products tagged %s"
-msgstr "Sản phẩm mới đã được đặt từ khóa %s"
+msgstr ""
 
 #: includes/wc-template-functions.php:381
 msgid ""
@@ -7201,21 +7199,21 @@ msgstr ""
 
 #: includes/wc-template-functions.php:400
 msgid "Search Results: &ldquo;%s&rdquo;"
-msgstr "Kết quả tìm kiếm: &ldquo;%s&rdquo;"
+msgstr ""
 
 #: includes/wc-template-functions.php:403
 msgid "&nbsp;&ndash; Page %s"
-msgstr "&nbsp;&ndash; Trang %s"
+msgstr ""
 
 #: includes/wc-template-functions.php:989
 #: templates/checkout/form-shipping.php:55
 #: templates/single-product/tabs/additional-information.php:17
 msgid "Additional Information"
-msgstr "Thông tin thêm"
+msgstr ""
 
 #: includes/wc-template-functions.php:998
 msgid "Reviews (%d)"
-msgstr "Đánh giá (%d)"
+msgstr ""
 
 #: includes/wc-template-functions.php:1089
 msgid ""
@@ -7226,20 +7224,20 @@ msgstr ""
 #: includes/wc-template-functions.php:1257
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr "Trang chủ"
+msgstr ""
 
 #: includes/wc-template-functions.php:1558
 msgid "Order Again"
-msgstr "Đặt hàng lại"
+msgstr ""
 
 #: includes/wc-template-functions.php:1653
 #: templates/cart/shipping-calculator.php:28
 msgid "Select a country&hellip;"
-msgstr "Chọn quốc gia&hellip;"
+msgstr "ជ្រើស​ប្រទេស&hellip;"
 
 #: includes/wc-template-functions.php:1660
 msgid "Update country"
-msgstr "Cập nhật quốc gia"
+msgstr ""
 
 #: includes/wc-template-functions.php:1710
 #: templates/cart/shipping-calculator.php:52
@@ -7248,28 +7246,28 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1851
 msgid "Search for:"
-msgstr "Tìm kiếm:"
+msgstr ""
 
 #: includes/wc-template-functions.php:1852
 msgid "Search for products"
-msgstr "Tìm sản phẩm"
+msgstr ""
 
 #: includes/wc-template-functions.php:1853
 msgid "Search"
-msgstr "Tìm kiếm"
+msgstr "ស្វែងរក"
 
 #: includes/wc-term-functions.php:135
 msgid "Select a category"
-msgstr "Chọn danh mục"
+msgstr ""
 
 #: includes/wc-term-functions.php:139
 msgid "Uncategorized"
-msgstr "Chưa phân loại"
+msgstr ""
 
 #: includes/wc-user-functions.php:52
 msgid ""
 "An account is already registered with your email address. Please login."
-msgstr "Đã có tài khoản đăng ký với địa chỉ email này. Vui lòng đăng nhập."
+msgstr ""
 
 #: includes/wc-user-functions.php:61
 msgid "Please enter a valid account username."
@@ -7278,11 +7276,11 @@ msgstr ""
 #: includes/wc-user-functions.php:65
 msgid ""
 "An account is already registered with that username. Please choose another."
-msgstr "Đã có tài khoản đăng ký với tên đăng nhập này. Vui lòng chọn tên khác."
+msgstr ""
 
 #: includes/wc-user-functions.php:86
 msgid "Please enter an account password."
-msgstr "Vui lòng nhập mật khẩu tài khoản."
+msgstr ""
 
 #: includes/wc-user-functions.php:112
 msgid ""
@@ -7292,20 +7290,20 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-cart.php:23
 msgid "Display the user's Cart in the sidebar."
-msgstr "Hiển thị giỏ hàng của người dùng tại thanh bên"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-cart.php:25
 msgid "WooCommerce Cart"
-msgstr "Giỏ hàng WooCommerce"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-cart.php:29
 #: includes/widgets/class-wc-widget-cart.php:56
 msgid "Cart"
-msgstr "Giỏ hàng"
+msgstr "រទេះ"
 
 #: includes/widgets/class-wc-widget-cart.php:35
 msgid "Hide if cart is empty"
-msgstr "Ẩn nếu giỏ hàng trống"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:21
 msgid "Shows active layered nav filters so users can see and deactivate them."
@@ -7327,11 +7325,11 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:92
 msgid "Min"
-msgstr "Tối thiểu"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:97
 msgid "Max"
-msgstr "Tối đa"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:21
 msgid ""
@@ -7345,39 +7343,39 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:69
 msgid "Filter by"
-msgstr "Lọc theo"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:75
 msgid "Attribute"
-msgstr "Thuộc tính"
+msgstr "គុណ​លក្ខណៈ"
 
 #: includes/widgets/class-wc-widget-layered-nav.php:81
 msgid "Display type"
-msgstr "Kiểu hiển thị"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:83
 msgid "List"
-msgstr "Danh sách"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:84
 msgid "Dropdown"
-msgstr "Thả xuống"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:90
 msgid "Query type"
-msgstr "Kiểu truy vấn"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:92
 msgid "AND"
-msgstr "VÀ"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:93
 msgid "OR"
-msgstr "HOẶC"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-layered-nav.php:174
 msgid "Any %s"
-msgstr "Bất kỳ %s"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:23
 msgid ""
@@ -7387,27 +7385,27 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:25
 msgid "WooCommerce Price Filter"
-msgstr "Bộ lọc giá WooCommerce"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:29
 msgid "Filter by price"
-msgstr "Lọc theo giá"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:160
 msgid "Min price"
-msgstr "Giá thấp nhất"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:161
 msgid "Max price"
-msgstr "Giá cao nhất"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:162
 msgid "Filter"
-msgstr "Bộ lọc"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-price-filter.php:164
 msgid "Price:"
-msgstr "Giá"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-product-categories.php:24
 msgid "A list or dropdown of product categories."
@@ -7420,7 +7418,7 @@ msgstr ""
 #: includes/widgets/class-wc-widget-product-categories.php:36
 #: includes/widgets/class-wc-widget-products.php:51
 msgid "Order by"
-msgstr "Sắp xếp theo"
+msgstr "បញ្ជាទិញ​ដោយ"
 
 #: includes/widgets/class-wc-widget-product-categories.php:38
 msgid "Category Order"
@@ -7468,34 +7466,34 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:23
 msgid "WooCommerce Products"
-msgstr "Sản phẩm WooCommerce"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:36
 #: includes/widgets/class-wc-widget-recently-viewed.php:36
 #: includes/widgets/class-wc-widget-top-rated-products.php:38
 msgid "Number of products to show"
-msgstr "Số sản phẩm hiển thị"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:41
 msgid "Show"
-msgstr "Hiển thị"
+msgstr "បង្ហាញ"
 
 #: includes/widgets/class-wc-widget-products.php:43
 msgid "All Products"
-msgstr "Tất cả sản phẩm"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:44
 msgid "Featured Products"
-msgstr "Sản phẩm nổi bật"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:45
 msgid "On-sale Products"
-msgstr "Sản phẩm giảm giá"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:53
 #: templates/myaccount/my-orders.php:33
 msgid "Date"
-msgstr "Ngày"
+msgstr "កាល​បរិច្ឆេទ"
 
 #: includes/widgets/class-wc-widget-products.php:54 templates/cart/cart.php:28
 #: templates/emails/admin-new-order.php:24
@@ -7504,36 +7502,36 @@ msgstr "Ngày"
 #: templates/emails/customer-note.php:29
 #: templates/emails/customer-processing-order.php:25
 msgid "Price"
-msgstr "Giá"
+msgstr "តម្លៃ"
 
 #: includes/widgets/class-wc-widget-products.php:55
 msgid "Random"
-msgstr "Ngẫu nhiên"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:56
 msgid "Sales"
-msgstr "Giảm giá"
+msgstr "ការ​លក់"
 
 #: includes/widgets/class-wc-widget-products.php:62
 msgctxt "Sorting order"
 msgid "Order"
-msgstr "Đơn hàng"
+msgstr "បញ្ជា​ទិញ"
 
 #: includes/widgets/class-wc-widget-products.php:64
 msgid "ASC"
-msgstr "Tăng"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:65
 msgid "DESC"
-msgstr "Giảm"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:71
 msgid "Hide free products"
-msgstr "Ẩn sản phẩm miễn phí"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-products.php:76
 msgid "Show hidden products"
-msgstr "Hiển thị sản phẩm bị ẩn"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:21
 msgid "Display a list of your most recent reviews on your site."
@@ -7541,15 +7539,15 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:23
 msgid "WooCommerce Recent Reviews"
-msgstr "Đánh giá gần đây"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:27
 msgid "Recent Reviews"
-msgstr "Đánh giá gần đây"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:36
 msgid "Number of reviews to show"
-msgstr "Số đánh giá hiển thị"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-recent-reviews.php:85
 msgctxt "by comment author"
@@ -7562,11 +7560,11 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-recently-viewed.php:23
 msgid "WooCommerce Recently Viewed"
-msgstr "Hoạt động gần đây"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-recently-viewed.php:27
 msgid "Recently Viewed Products"
-msgstr "Sản phẩm vừa xem"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:23
 msgid "Display a list of your top rated products on your site."
@@ -7574,19 +7572,19 @@ msgstr ""
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:25
 msgid "WooCommerce Top Rated Products"
-msgstr "WooCommerce Top sản phẩm liên quan"
+msgstr ""
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:29
 msgid "Top Rated Products"
-msgstr "Top sản phẩm liên quan"
+msgstr ""
 
 #: templates/cart/cart-empty.php:16
 msgid "Your cart is currently empty."
-msgstr "Chưa có sản phẩm nào trong giỏ hàng."
+msgstr ""
 
 #: templates/cart/cart-empty.php:20
 msgid "Return To Shop"
-msgstr "Quay lại Shop"
+msgstr ""
 
 #: templates/cart/cart-shipping.php:16
 msgid "Shipping #%d"
@@ -7594,7 +7592,7 @@ msgstr ""
 
 #: templates/cart/cart-shipping.php:18
 msgid "Shipping and Handling"
-msgstr "Vận chuyến và đóng gói"
+msgstr ""
 
 #: templates/cart/cart-shipping.php:55
 msgid "Please use the shipping calculator to see available shipping methods."
@@ -7618,19 +7616,19 @@ msgstr ""
 
 #: templates/cart/cart-shipping.php:93
 msgid "Shipping"
-msgstr "Vận chuyển"
+msgstr "ការ​ដឹក​ជញ្ជូន"
 
 #: templates/cart/cart-totals.php:16
 msgid "Cart Totals"
-msgstr "Tổng số trong giỏ"
+msgstr ""
 
 #: templates/cart/cart-totals.php:21 templates/checkout/review-order.php:25
 msgid "Cart Subtotal"
-msgstr "Tạm tính"
+msgstr ""
 
 #: templates/cart/cart-totals.php:75 templates/checkout/review-order.php:79
 msgid "Order Total"
-msgstr "Tổng cộng"
+msgstr "បញ្ជា​ទិញ​សរុប"
 
 #: templates/cart/cart-totals.php:87
 msgid " (taxes estimated for %s)"
@@ -7648,66 +7646,66 @@ msgstr ""
 #: templates/emails/customer-note.php:28
 #: templates/emails/customer-processing-order.php:24
 msgid "Quantity"
-msgstr "Số lượng"
+msgstr "ចំនួន"
 
 #: templates/cart/cart.php:30 templates/checkout/review-order.php:19
 #: templates/myaccount/my-orders.php:35 templates/order/order-details.php:21
 msgid "Total"
-msgstr "Tổng"
+msgstr "សរុប"
 
 #: templates/cart/cart.php:47
 msgid "Remove this item"
-msgstr "Xóa sản phẩm này"
+msgstr ""
 
 #: templates/cart/cart.php:119 templates/checkout/form-coupon.php:26
 msgid "Coupon code"
-msgstr "Mã giảm giá"
+msgstr "កូដ​គូប៉ុង"
 
 #: templates/cart/cart.php:119 templates/checkout/form-coupon.php:30
 msgid "Apply Coupon"
-msgstr "Áp dụng Phiếu khuyến mại"
+msgstr ""
 
 #: templates/cart/cart.php:126
 msgid "Update Cart"
-msgstr "Cập nhật Giỏ hàng"
+msgstr ""
 
 #: templates/cart/cart.php:126
 msgid "Proceed to Checkout"
-msgstr "Thanh toán"
+msgstr ""
 
 #: templates/cart/cross-sells.php:38
 msgid "You may be interested in&hellip;"
-msgstr "Bạn có thể thích&hellip;"
+msgstr ""
 
 #: templates/cart/mini-cart.php:51
 msgid "No products in the cart."
-msgstr "Chưa có sản phẩm trong giỏ hàng."
+msgstr ""
 
 #: templates/cart/mini-cart.php:59
 msgid "Subtotal"
-msgstr "Tổng phụ"
+msgstr "សរុប​តាម​ផ្នែក"
 
 #: templates/cart/mini-cart.php:65
 msgid "Checkout"
-msgstr "Thanh toán"
+msgstr "គិត​ប្រាក់"
 
 #: templates/cart/shipping-calculator.php:22
 msgid "Calculate Shipping"
-msgstr "Tính phí vận chuyển"
+msgstr ""
 
 #: templates/cart/shipping-calculator.php:45
 #: templates/cart/shipping-calculator.php:51
 #: templates/cart/shipping-calculator.php:63
 msgid "State / county"
-msgstr "Bang / Hạt"
+msgstr ""
 
 #: templates/cart/shipping-calculator.php:72
 msgid "City"
-msgstr "Thành phố"
+msgstr "ក្រុង"
 
 #: templates/cart/shipping-calculator.php:85
 msgid "Update Totals"
-msgstr "Cập nhật tổng"
+msgstr ""
 
 #: templates/checkout/cart-errors.php:16
 msgid ""
@@ -7717,11 +7715,11 @@ msgstr ""
 
 #: templates/checkout/cart-errors.php:20
 msgid "Return To Cart"
-msgstr "Quay lại GIỏ hàng"
+msgstr ""
 
 #: templates/checkout/form-billing.php:15
 msgid "Billing &amp; Shipping"
-msgstr "Thanh toán và giao hàng"
+msgstr ""
 
 #: templates/checkout/form-billing.php:19
 msgid "Billing Details"
@@ -7729,37 +7727,37 @@ msgstr ""
 
 #: templates/checkout/form-billing.php:38
 msgid "Create an account?"
-msgstr "Tạo tài khoản mới?"
+msgstr ""
 
 #: templates/checkout/form-billing.php:49
 msgid ""
 "Create an account by entering the information below. If you are a returning "
 "customer please login at the top of the page."
-msgstr "Tạo tài khoản mới bằng cách điền vào thông tin theo mẫu bên dưới. Nếu bạn đã có tài khoản, vui lòng đăng nhập."
+msgstr ""
 
 #: templates/checkout/form-checkout.php:20
 msgid "You must be logged in to checkout."
-msgstr "Bạn phải đăng nhập để tiến hành thanh toán."
+msgstr ""
 
 #: templates/checkout/form-checkout.php:51
 msgid "Your order"
-msgstr "Đơn hàng của bạn"
+msgstr ""
 
 #: templates/checkout/form-coupon.php:18
 msgid "Have a coupon?"
-msgstr "Bạn có phiếu khuyến mại?"
+msgstr ""
 
 #: templates/checkout/form-coupon.php:19
 msgid "Click here to enter your code"
-msgstr "Ấn vào đây để nhập mã"
+msgstr ""
 
 #: templates/checkout/form-login.php:14
 msgid "Returning customer?"
-msgstr "Bạn đã có tài khoản?"
+msgstr ""
 
 #: templates/checkout/form-login.php:15
 msgid "Click here to login"
-msgstr "Ấn vào đây để đăng nhập"
+msgstr ""
 
 #: templates/checkout/form-login.php:22
 msgid ""
@@ -7770,11 +7768,11 @@ msgstr ""
 
 #: templates/checkout/form-pay.php:20
 msgid "Qty"
-msgstr "SL"
+msgstr "ចំនួន"
 
 #: templates/checkout/form-pay.php:21
 msgid "Totals"
-msgstr "Tổng"
+msgstr "សរុប"
 
 #: templates/checkout/form-pay.php:54
 msgid "Payment"
@@ -7793,7 +7791,7 @@ msgstr ""
 
 #: templates/checkout/form-shipping.php:29
 msgid "Ship to a different address?"
-msgstr "Giao hàng tới địa chỉ khác?"
+msgstr ""
 
 #: templates/checkout/review-order.php:150
 msgid "Please fill in your details above to see available payment methods."
@@ -7816,11 +7814,11 @@ msgstr ""
 
 #: templates/checkout/review-order.php:163
 msgid "Update totals"
-msgstr "Cập nhật tổng"
+msgstr ""
 
 #: templates/checkout/review-order.php:170
 msgid "Place order"
-msgstr "Đặt hàng"
+msgstr ""
 
 #: templates/checkout/review-order.php:179
 msgid ""
@@ -7844,20 +7842,20 @@ msgstr ""
 
 #: templates/checkout/thankyou.php:28 templates/myaccount/my-orders.php:71
 msgid "Pay"
-msgstr "Thanh toán"
+msgstr "បង់​ប្រាក់"
 
 #: templates/checkout/thankyou.php:36 templates/checkout/thankyou.php:67
 msgid "Thank you. Your order has been received."
-msgstr "Cảm ơn bạn. Đơn hàng của bạn đã được nhận."
+msgstr ""
 
 #: templates/emails/admin-new-order.php:13
 #: templates/emails/plain/admin-new-order.php:13
 msgid "You have received an order from %s. Their order is as follows:"
-msgstr "Bạn đã nhận được đơn hàng từ %s. Đơn hàng của họ như sau:"
+msgstr ""
 
 #: templates/emails/admin-new-order.php:17
 msgid "Order: %s"
-msgstr "Đơn hàng: %s"
+msgstr ""
 
 #: templates/emails/admin-new-order.php:50
 #: templates/emails/customer-completed-order.php:51
@@ -7866,7 +7864,7 @@ msgstr "Đơn hàng: %s"
 #: templates/emails/plain/admin-new-order.php:39
 #: templates/order/order-details.php:97
 msgid "Customer details"
-msgstr "Chi tiết khách hàng"
+msgstr ""
 
 #: templates/emails/admin-new-order.php:53
 #: templates/emails/customer-completed-order.php:54
@@ -7878,7 +7876,7 @@ msgstr "Chi tiết khách hàng"
 #: templates/emails/plain/customer-processing-order.php:41
 #: templates/order/order-details.php:101
 msgid "Email:"
-msgstr "Email:"
+msgstr "អ៊ីមែល៖"
 
 #: templates/emails/admin-new-order.php:56
 #: templates/emails/customer-completed-order.php:57
@@ -7889,7 +7887,7 @@ msgstr "Email:"
 #: templates/emails/plain/customer-note.php:52
 #: templates/emails/plain/customer-processing-order.php:44
 msgid "Tel:"
-msgstr "Điện thoại:"
+msgstr "ទូរសព្ទ៖"
 
 #: templates/emails/customer-completed-order.php:14
 #: templates/emails/plain/customer-completed-order.php:13
@@ -7913,23 +7911,23 @@ msgstr ""
 #: templates/emails/plain/customer-new-account.php:13
 msgid ""
 "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
-msgstr "Cảm ơn bạn đã đăng ký tài khoản tại %s. Tên đăng nhập của bạn là <strong>%s</strong>."
+msgstr ""
 
 #: templates/emails/customer-new-account.php:18
 msgid "Your password has been automatically generated: <strong>%s</strong>"
-msgstr "Mật khẩu của bạn được tự động tạo: <strong>%s</strong>"
+msgstr ""
 
 #: templates/emails/customer-new-account.php:22
 #: templates/emails/plain/customer-new-account.php:18
 msgid ""
 "You can access your account area to view your orders and change your "
 "password here: %s."
-msgstr "Bạn có thể truy cập trang tài khoản để xem các đơn hàng và thay đổi mật khẩu tại đây: %s."
+msgstr ""
 
 #: templates/emails/customer-note.php:14
 #: templates/emails/plain/customer-note.php:13
 msgid "Hello, a note has just been added to your order:"
-msgstr "Xin chào, một lời nhắn đã được thêm vào đơn hàng của bạn:"
+msgstr ""
 
 #: templates/emails/customer-note.php:18
 #: templates/emails/plain/customer-note.php:21
@@ -7952,7 +7950,7 @@ msgstr ""
 #: templates/emails/customer-reset-password.php:15
 #: templates/emails/plain/customer-reset-password.php:15
 msgid "Username: %s"
-msgstr "Tên đăng nhập: %s"
+msgstr ""
 
 #: templates/emails/customer-reset-password.php:16
 #: templates/emails/plain/customer-reset-password.php:16
@@ -7962,35 +7960,35 @@ msgstr ""
 #: templates/emails/customer-reset-password.php:17
 #: templates/emails/plain/customer-reset-password.php:17
 msgid "To reset your password, visit the following address:"
-msgstr "Để đặt lại mật khẩu, bạn vui lòng truy cập theo địa chỉ sau:"
+msgstr ""
 
 #: templates/emails/customer-reset-password.php:20
 msgid "Click here to reset your password"
-msgstr "Ấn vào đây để đặt lại mật khẩu"
+msgstr ""
 
 #: templates/emails/email-addresses.php:18
 #: templates/emails/plain/email-addresses.php:12
 msgid "Billing address"
-msgstr "Địa chỉ thanh toán"
+msgstr "អាសយដ្ឋាន​ចុះ​វិក្កយបត្រ"
 
 #: templates/emails/email-addresses.php:28
 #: templates/emails/plain/email-addresses.php:17
 msgid "Shipping address"
-msgstr "Địa chỉ giao hàng"
+msgstr "អាសយដ្ឋាន​ដឹក​ជញ្ជូន"
 
 #: templates/emails/email-order-items.php:25
 msgid "Product Image"
-msgstr "Ảnh sản phẩm"
+msgstr ""
 
 #: templates/emails/email-order-items.php:46
 #: templates/emails/plain/email-order-items.php:46
 msgid "Download %d"
-msgstr "Tải về %d"
+msgstr ""
 
 #: templates/emails/email-order-items.php:48
 #: templates/emails/plain/email-order-items.php:48
 msgid "Download"
-msgstr "Tải về"
+msgstr ""
 
 #: templates/emails/plain/admin-new-order.php:19
 #: templates/emails/plain/customer-completed-order.php:19
@@ -7998,11 +7996,11 @@ msgstr "Tải về"
 #: templates/emails/plain/customer-note.php:27
 #: templates/emails/plain/customer-processing-order.php:19
 msgid "Order number: %s"
-msgstr "Đơn hàng số: %s"
+msgstr ""
 
 #: templates/emails/plain/admin-new-order.php:20
 msgid "Order link: %s"
-msgstr "Liên kết đặt hàng: %s"
+msgstr ""
 
 #: templates/emails/plain/admin-new-order.php:21
 #: templates/emails/plain/customer-completed-order.php:20
@@ -8010,29 +8008,29 @@ msgstr "Liên kết đặt hàng: %s"
 #: templates/emails/plain/customer-note.php:28
 #: templates/emails/plain/customer-processing-order.php:20
 msgid "Order date: %s"
-msgstr "Ngày đặt hàng: %s"
+msgstr ""
 
 #: templates/emails/plain/admin-new-order.php:21
 msgid "jS F Y"
-msgstr "jS F Y"
+msgstr ""
 
 #: templates/emails/plain/customer-completed-order.php:38
 #: templates/emails/plain/customer-note.php:46
 #: templates/emails/plain/customer-processing-order.php:38
 msgid "Your details"
-msgstr "Thông tin của bạn"
+msgstr ""
 
 #: templates/emails/plain/customer-new-account.php:16
 msgid "Your password is <strong>%s</strong>."
-msgstr "Mật khẩu của bạn là <strong>%s</strong>."
+msgstr ""
 
 #: templates/emails/plain/email-order-items.php:32
 msgid "Quantity: %s"
-msgstr "Số lượng: %s"
+msgstr ""
 
 #: templates/emails/plain/email-order-items.php:35
 msgid "Cost: %s"
-msgstr "Giá: %s"
+msgstr ""
 
 #: templates/global/breadcrumb.php:63
 msgid "Products tagged &ldquo;"
@@ -8040,11 +8038,11 @@ msgstr ""
 
 #: templates/global/breadcrumb.php:91 templates/global/breadcrumb.php:189
 msgid "Search results for &ldquo;"
-msgstr "Kết quả tìm kiếm cho"
+msgstr ""
 
 #: templates/global/breadcrumb.php:147
 msgid "Error 404"
-msgstr "Lỗi 404"
+msgstr ""
 
 #: templates/global/breadcrumb.php:193
 msgid "Posts tagged &ldquo;"
@@ -8052,34 +8050,34 @@ msgstr ""
 
 #: templates/global/breadcrumb.php:198
 msgid "Author:"
-msgstr "Tác giả:"
+msgstr ""
 
 #: templates/global/breadcrumb.php:203
 msgid "Page"
-msgstr "Trang"
+msgstr ""
 
 #: templates/global/form-login.php:22
 #: templates/myaccount/form-lost-password.php:23
 msgid "Username or email"
-msgstr "Tên đăng nhập hoặc email"
+msgstr ""
 
 #: templates/global/form-login.php:26 templates/myaccount/form-login.php:38
 #: templates/myaccount/form-login.php:88
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr ""
 
 #: templates/global/form-login.php:38 templates/myaccount/form-login.php:48
 msgid "Remember me"
-msgstr "Nhớ thông tin"
+msgstr ""
 
 #: templates/global/form-login.php:42 templates/myaccount/form-login.php:52
 msgid "Lost your password?"
-msgstr "Quên mật khẩu?"
+msgstr ""
 
 #: templates/global/quantity-input.php:12
 msgctxt "Product quantity input tooltip"
 msgid "Qty"
-msgstr "SL"
+msgstr "ចំនួន"
 
 #: templates/loop/no-products-found.php:14
 msgid "No products were found matching your selection."
@@ -8087,27 +8085,27 @@ msgstr ""
 
 #: templates/loop/orderby.php:21
 msgid "Default sorting"
-msgstr "Thứ tự mặc định"
+msgstr ""
 
 #: templates/loop/orderby.php:22
 msgid "Sort by popularity"
-msgstr "Theo mức độ phổ biến"
+msgstr ""
 
 #: templates/loop/orderby.php:23
 msgid "Sort by average rating"
-msgstr "Theo điểm đánh giá"
+msgstr ""
 
 #: templates/loop/orderby.php:24
 msgid "Sort by newness"
-msgstr "Theo sản phẩm mới"
+msgstr ""
 
 #: templates/loop/orderby.php:25
 msgid "Sort by price: low to high"
-msgstr "Theo giá: thấp đến cao"
+msgstr ""
 
 #: templates/loop/orderby.php:26
 msgid "Sort by price: high to low"
-msgstr "Theo giá: cao xuống thấp"
+msgstr ""
 
 #: templates/loop/result-count.php:28
 msgid "Showing the single result"
@@ -8115,16 +8113,16 @@ msgstr ""
 
 #: templates/loop/result-count.php:30
 msgid "Showing all %d results"
-msgstr "Hiển thị tất cả %d kết quả"
+msgstr ""
 
 #: templates/loop/result-count.php:32
 msgctxt "%1$d = first, %2$d = last, %3$d = total"
 msgid "Showing %1$d–%2$d of %3$d results"
-msgstr "Hiển thị %1$d–%2$d / %3$d kết quả"
+msgstr ""
 
 #: templates/loop/sale-flash.php:16 templates/single-product/sale-flash.php:16
 msgid "Sale!"
-msgstr "Sale!"
+msgstr ""
 
 #: templates/myaccount/form-add-payment-method.php:40
 msgid ""
@@ -8135,20 +8133,20 @@ msgstr ""
 
 #: templates/myaccount/form-add-payment-method.php:48
 msgid "Add Payment Method"
-msgstr "Thêm phương thức thanh toán"
+msgstr ""
 
 #: templates/myaccount/form-edit-account.php:20
 msgid "First name"
-msgstr "Họ"
+msgstr "នាម"
 
 #: templates/myaccount/form-edit-account.php:24
 msgid "Last name"
-msgstr "Tên"
+msgstr "គោត្តនាម"
 
 #: templates/myaccount/form-edit-account.php:28
 #: templates/myaccount/form-login.php:81
 msgid "Email address"
-msgstr "Địa chỉ email"
+msgstr "អាសយដ្ឋាន​អ៊ីមែល"
 
 #: templates/myaccount/form-edit-account.php:33
 msgid "Password Change"
@@ -8168,96 +8166,96 @@ msgstr ""
 
 #: templates/myaccount/form-edit-account.php:50
 msgid "Save changes"
-msgstr "Lưu thay đổi"
+msgstr "រក្សាទុក​បន្លាស់​ប្ដូរ"
 
 #: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:19 templates/myaccount/my-address.php:25
 #: templates/order/order-details.php:118
 msgid "Billing Address"
-msgstr "Địa chỉ thanh toán"
+msgstr "អាសយដ្ឋាន​ចុះ​បញ្ជី"
 
 #: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:20 templates/order/order-details.php:133
 msgid "Shipping Address"
-msgstr "Địa chỉ nhận hàng"
+msgstr "អាសយដ្ឋាន​ដឹក​ជញ្ជូន"
 
 #: templates/myaccount/form-edit-address.php:40
 msgid "Save Address"
-msgstr "Lưu địa chỉ"
+msgstr ""
 
 #: templates/myaccount/form-login.php:34
 msgid "Username or email address"
-msgstr "Tên tài khoản hoặc địa chỉ email"
+msgstr ""
 
 #: templates/myaccount/form-login.php:65
 #: templates/myaccount/form-login.php:102
 msgid "Register"
-msgstr "Đăng ký"
+msgstr ""
 
 #: templates/myaccount/form-login.php:74
 msgid "Username"
-msgstr "Tên tài khoản"
+msgstr "ឈ្មោះ​អ្នកប្រើ"
 
 #: templates/myaccount/form-login.php:95
 msgid "Anti-spam"
-msgstr "Chống Spam"
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:21
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
-msgstr "Quên mật khẩu? Vui lòng nhập tên đăng nhập hoặc địa chỉ email. Bạn sẽ nhận được một liên kết tạo mật khẩu mới qua email."
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:27
 msgid "Enter a new password below."
-msgstr "Nhập mật khẩu mới bên dưới."
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:30
 msgid "New password"
-msgstr "Mật khẩu mới"
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:34
 msgid "Re-enter new password"
-msgstr "Nhập lại mật khẩu mới"
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:45
 msgid "Reset Password"
-msgstr "Đặt lại mật khẩu"
+msgstr ""
 
 #: templates/myaccount/form-lost-password.php:45
 msgid "Save"
-msgstr "Lưu"
+msgstr ""
 
 #: templates/myaccount/my-account.php:19
 msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
-msgstr "Xin chào <strong>%1$s</strong> (không phải %1$s? <a href=\"%2$s\">Đăng xuất</a>)."
+msgstr ""
 
 #: templates/myaccount/my-account.php:24
 msgid ""
 "From your account dashboard you can view your recent orders, manage your "
 "shipping and billing addresses and <a href=\"%s\">edit your password and "
 "account details</a>."
-msgstr "Từ trang quản lý tài khoản, bạn có thể xem các đơn đặt hàng gần nhất, quản lý địa chỉ thanh toán, nhận hàng và <a href=\"%s\">thay đổi thông tin tài khoản cùng mật khẩu</a>."
+msgstr ""
 
 #: templates/myaccount/my-address.php:17
 msgid "My Addresses"
-msgstr "Địa chỉ của tôi"
+msgstr ""
 
 #: templates/myaccount/my-address.php:23
 msgid "My Address"
-msgstr "Địa chỉ của tôi"
+msgstr ""
 
 #: templates/myaccount/my-address.php:35
 msgid "The following addresses will be used on the checkout page by default."
-msgstr "Các địa chỉ bên dưới mặc định sẽ được sử dụng khi bạn thanh toán sản phẩm."
+msgstr ""
 
 #: templates/myaccount/my-address.php:64
 msgid "You have not set up this type of address yet."
-msgstr "Bạn vẫn chưa thêm địa chỉ nào."
+msgstr ""
 
 #: templates/myaccount/my-downloads.php:18
 msgid "Available downloads"
-msgstr "Tải về có sẵn"
+msgstr ""
 
 #: templates/myaccount/my-downloads.php:27
 msgid "%s download remaining"
@@ -8266,11 +8264,11 @@ msgstr[0] ""
 
 #: templates/myaccount/my-orders.php:26
 msgid "Recent Orders"
-msgstr "Đơn hàng gần đây"
+msgstr ""
 
 #: templates/myaccount/my-orders.php:34
 msgid "Status"
-msgstr "Tình trạng"
+msgstr "ស្ថានភាព"
 
 #: templates/myaccount/my-orders.php:62
 msgid "%s for %s item"
@@ -8279,11 +8277,11 @@ msgstr[0] ""
 
 #: templates/myaccount/my-orders.php:78
 msgid "Cancel"
-msgstr "Hủy"
+msgstr "បោះបង់"
 
 #: templates/myaccount/my-orders.php:84
 msgid "View"
-msgstr "Xem"
+msgstr "មើល"
 
 #: templates/myaccount/view-order.php:19
 msgid ""
@@ -8298,18 +8296,18 @@ msgstr ""
 
 #: templates/myaccount/view-order.php:29 templates/order/tracking.php:37
 msgid "l jS \\o\\f F Y, h:ia"
-msgstr "l jS \\o\\f F Y, h:ia"
+msgstr ""
 
 #: templates/order/form-tracking.php:17
 msgid ""
 "To track your order please enter your Order ID in the box below and press "
 "return. This was given to you on your receipt and in the confirmation email "
 "you should have received."
-msgstr "Để theo dõi đơn hàng của bạn, vui lòng nhập ID đơn hàng vào ô bên dưới. ID đơn hàng được cung cấp kèm theo hóa đơn và trong email xác nhận gửi tới bạn trước đó."
+msgstr ""
 
 #: templates/order/form-tracking.php:19
 msgid "Order ID"
-msgstr "ID Đơn hàng"
+msgstr ""
 
 #: templates/order/form-tracking.php:19
 msgid "Found in your order confirmation email."
@@ -8317,27 +8315,27 @@ msgstr ""
 
 #: templates/order/form-tracking.php:20
 msgid "Billing Email"
-msgstr "Email thanh toán"
+msgstr ""
 
 #: templates/order/form-tracking.php:20
 msgid "Email you used during checkout."
-msgstr "Email được sử dụng trong quá trình thanh toán."
+msgstr ""
 
 #: templates/order/form-tracking.php:23
 msgid "Track"
-msgstr "Theo dõi"
+msgstr ""
 
 #: templates/order/order-details.php:16
 msgid "Order Details"
-msgstr "Chi tiết đơn hàng"
+msgstr ""
 
 #: templates/order/order-details.php:66
 msgid "Download file%s"
-msgstr "Tải về tệp tin%s"
+msgstr ""
 
 #: templates/order/order-details.php:102
 msgid "Telephone:"
-msgstr "Số điện thoại:"
+msgstr ""
 
 #: templates/order/tracking.php:18
 msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
@@ -8345,23 +8343,23 @@ msgstr ""
 
 #: templates/order/tracking.php:18
 msgid "ago"
-msgstr "trước"
+msgstr ""
 
 #: templates/order/tracking.php:20
 msgid "and was completed"
-msgstr "và đã hoàn thành"
+msgstr ""
 
 #: templates/order/tracking.php:20
 msgid " ago"
-msgstr "trước"
+msgstr ""
 
 #: templates/single-product/add-to-cart/variable.php:25
 msgid "Choose an option"
-msgstr "Chọn một tùy chọn"
+msgstr ""
 
 #: templates/single-product/add-to-cart/variable.php:73
 msgid "Clear selection"
-msgstr "Bỏ các lựa chọn"
+msgstr ""
 
 #: templates/single-product/add-to-cart/variable.php:103
 msgid "This product is currently out of stock and unavailable."
@@ -8369,25 +8367,25 @@ msgstr ""
 
 #: templates/single-product/meta.php:23
 msgid "SKU:"
-msgstr "Mã:"
+msgstr ""
 
 #: templates/single-product/meta.php:27
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] "Danh mục:"
+msgstr[0] ""
 
 #: templates/single-product/meta.php:29
 msgid "Tag:"
 msgid_plural "Tags:"
-msgstr[0] "Từ khóa:"
+msgstr[0] ""
 
 #: templates/single-product/product-attributes.php:28
 msgid "Weight"
-msgstr "Trọng lượng"
+msgstr "ទម្ងន់"
 
 #: templates/single-product/product-attributes.php:35
 msgid "Dimensions"
-msgstr "Kích thước"
+msgstr ""
 
 #: templates/single-product/rating.php:28
 msgid "%s customer review"
@@ -8396,15 +8394,15 @@ msgstr[0] ""
 
 #: templates/single-product/related.php:36
 msgid "Related Products"
-msgstr "Sản phẩm liên quan"
+msgstr ""
 
 #: templates/single-product/review.php:26
 msgid "Rated %d out of 5"
-msgstr "Đánh giá %s / 5"
+msgstr ""
 
 #: templates/single-product/review.php:34
 msgid "Your comment is awaiting approval"
-msgstr "Bình luận của bạn đang chờ được kiểm duyệt"
+msgstr ""
 
 #: templates/single-product/review.php:43
 msgid "verified owner"
@@ -8412,89 +8410,89 @@ msgstr ""
 
 #: templates/single-product/tabs/description.php:14
 msgid "Product Description"
-msgstr "Mô tả sản phẩm"
+msgstr ""
 
 #: templates/single-product/up-sells.php:39
 msgid "You may also like&hellip;"
-msgstr "Có thể bạn thích&hellip;"
+msgstr ""
 
 #: templates/single-product-reviews.php:21
 msgid "%s review for %s"
 msgid_plural "%s reviews for %s"
-msgstr[0] "%s bình luận cho %s"
+msgstr[0] ""
 
 #: templates/single-product-reviews.php:23
 msgid "Reviews"
-msgstr "Đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:44
 msgid "There are no reviews yet."
-msgstr "Chưa có đánh giá nào."
+msgstr ""
 
 #: templates/single-product-reviews.php:57
 msgid "Add a review"
-msgstr "Thêm đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:57
 msgid "Be the first to review"
-msgstr "Hãy là người đầu tiên đánh giá"
+msgstr ""
 
 #: templates/single-product-reviews.php:58
 msgid "Leave a Reply to %s"
-msgstr "Trả lời bình luận %s"
+msgstr ""
 
 #: templates/single-product-reviews.php:64
 msgid "Email"
-msgstr "Email"
+msgstr "អ៊ីមែល"
 
 #: templates/single-product-reviews.php:67
 msgid "Submit"
-msgstr "Gửi đi"
+msgstr ""
 
 #: templates/single-product-reviews.php:73
 msgid "Your Rating"
-msgstr "Đánh giá của bạn"
+msgstr ""
 
 #: templates/single-product-reviews.php:74
 msgid "Rate&hellip;"
-msgstr "Đánh giá&hellip;"
+msgstr ""
 
 #: templates/single-product-reviews.php:75
 msgid "Perfect"
-msgstr "Rất đẹp"
+msgstr ""
 
 #: templates/single-product-reviews.php:76
 msgid "Good"
-msgstr "Đẹp"
+msgstr ""
 
 #: templates/single-product-reviews.php:77
 msgid "Average"
-msgstr "Trung bình"
+msgstr ""
 
 #: templates/single-product-reviews.php:78
 msgid "Not that bad"
-msgstr "Không tệ"
+msgstr ""
 
 #: templates/single-product-reviews.php:79
 msgid "Very Poor"
-msgstr "Xấu"
+msgstr ""
 
 #: templates/single-product-reviews.php:83
 msgid "Your Review"
-msgstr "Đánh giá của bạn"
+msgstr ""
 
 #: templates/single-product-reviews.php:92
 msgid ""
 "Only logged in customers who have purchased this product may leave a review."
-msgstr "Chỉ những khách hàng đã đăng nhập và mua sản phẩm này mới có thể đưa ra đánh giá."
+msgstr ""
 
 #: woocommerce.php:182
 msgid "Docs"
-msgstr "Tài liệu"
+msgstr ""
 
 #: woocommerce.php:183
 msgid "Premium Support"
-msgstr "Hỗ trợ cao cấp"
+msgstr ""
 
 #. Plugin URI of the plugin/theme
 msgid "http://www.woothemes.com/woocommerce/"

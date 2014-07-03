@@ -98,7 +98,7 @@ class WC_Admin_Menus {
 	public function menu_highlight() {
 		global $menu, $submenu, $parent_file, $submenu_file, $self, $post_type, $taxonomy;
 
-		$to_highlight_types = array( 'shop_order', 'shop_coupon', 'shop_clients' );
+		$to_highlight_types = array( 'shop_order', 'shop_coupon' );
 
 		if ( isset( $post_type ) ) {
 			if ( in_array( $post_type, $to_highlight_types ) ) {

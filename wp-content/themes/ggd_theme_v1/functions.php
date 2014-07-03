@@ -129,3 +129,46 @@ remove_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_ad
 add_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 10 );
 add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_price', 10 );
 add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_rating', 5 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Validation registration form  after submission using the filter registration_errors
+add_filter('registration_errors', 'registration_errors_validation', 10,3);
+function registration_errors_validation($reg_errors, $sanitized_user_login, $user_email) {
+		global $woocommerce;
+		extract($_POST); // extracting $_POST into separate variables
+		if($firstname == '' ) {
+			$woocommerce->add_error( __( 'Please, fill in all the required fields.', 'woocommerce' ) );
+		}
+		if($lastname == '' ) {
+			$woocommerce->add_error( __( 'Please, fill in all the required fields.', 'woocommerce' ) );
+		}
+		return $reg_errors;
+}
+
+//Updating use meta after registration successful registration
+add_action('woocommerce_created_customer','adding_extra_reg_fields');
+
+function adding_extra_reg_fields($user_id) {
+	extract($_POST);
+	update_user_meta($user_id, 'first_name', $firstname);
+	update_user_meta($user_id, 'last_name', $lastname);
+
+    // can also do multiple fields like that
+    update_user_meta($user_id, 'first_name', $firstname);
+	update_user_meta($user_id, 'billing_first_name', $firstname);
+	update_user_meta($user_id, 'shipping_first_name', $firstname);
+	update_user_meta($user_id, 'last_name', $lastname);
+	update_user_meta($user_id, 'billing_last_name', $lastname);
+	update_user_meta($user_id, 'shipping_last_name', $lastname);
+}
